@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "number_rolling",
+    "texture": "d95eaad8-9caf-4d85-9fcb-f89c2e5986f5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      396,
+      241
+    ],
+    "offset": [
+      -58,
+      7.5
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

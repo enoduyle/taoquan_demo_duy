@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "X10-Den",
+    "texture": "24dd2793-7f1b-423d-9797-3f3effe4ac34",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      117,
+      72
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      117,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

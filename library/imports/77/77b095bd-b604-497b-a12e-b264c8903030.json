@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popupnoti",
+    "texture": "79338b97-66e9-46f3-90e5-0a2df786a579",
+    "atlas": "5d2ad107-4c5d-45e0-ba67-75614844d1a2",
+    "rect": [
+      448,
+      938,
+      249,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      249,
+      50
+    ],
+    "capInsets": [
+      118,
+      0,
+      91,
+      0
+    ]
+  }
+}

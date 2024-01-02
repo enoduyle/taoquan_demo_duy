@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "9983_VFX_Light_BG",
+    "texture": "79a34f2d-2ac0-4b47-ac42-719b148e4c01",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      560,
+      1000
+    ],
+    "offset": [
+      -223.5,
+      3.5
+    ],
+    "originalSize": [
+      1013,
+      1013
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

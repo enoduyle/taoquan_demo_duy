@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boderBan",
+    "texture": "896eb5f1-b0ce-4143-9df6-069a9aebb95b",
+    "atlas": "0dfaab32-34a3-4050-aab7-3108e73af5aa",
+    "rect": [
+      551,
+      1103,
+      237,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      237,
+      39
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

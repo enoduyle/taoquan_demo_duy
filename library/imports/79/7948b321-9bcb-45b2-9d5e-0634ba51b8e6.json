@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Roll_Gold",
+    "texture": "fb554140-a097-41b3-a6e4-9f07e32e445c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      158,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      158,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "Avatar.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "AnDanh": {
+      "__uuid__": "20dc94aa-0816-453b-827b-43d151ab7c86"
+    },
+    "Avatar0": {
+      "__uuid__": "7feae61b-85d4-498c-9189-ae50849027db"
+    },
+    "Avatar1": {
+      "__uuid__": "a32b1d4b-15b0-47d9-9246-2d77b58ac986"
+    },
+    "Avatar10": {
+      "__uuid__": "62af6bef-3bff-40c2-a142-48ad520b3dd6"
+    },
+    "Avatar11": {
+      "__uuid__": "36ea472c-0fc6-4a19-9366-fefcf9332530"
+    },
+    "Avatar12": {
+      "__uuid__": "8323d815-4934-4dc8-99b2-cb14900c83a0"
+    },
+    "Avatar13": {
+      "__uuid__": "edf9ffcd-213f-4f56-b560-0a43f61ec84b"
+    },
+    "Avatar14": {
+      "__uuid__": "5c1378b8-6669-43be-a0b7-fa9531a82589"
+    },
+    "Avatar15": {
+      "__uuid__": "3578116c-e416-430f-8106-11dbb700a6f9"
+    },
+    "Avatar16": {
+      "__uuid__": "4e35c129-542c-4831-b59d-b95f0114fdac"
+    },
+    "Avatar17": {
+      "__uuid__": "e693a8b4-d677-4586-8e40-d82cebb3ec4d"
+    },
+    "Avatar18": {
+      "__uuid__": "8c9ec6d1-0867-477f-9c11-071fe8e1e3eb"
+    },
+    "Avatar19": {
+      "__uuid__": "757718d4-c96d-464f-a309-f27bfee176f7"
+    },
+    "Avatar2": {
+      "__uuid__": "a6ac3f1b-38a4-4e1e-8dbe-f9184d0df8da"
+    },
+    "Avatar20": {
+      "__uuid__": "0f16ff8a-05f9-48a3-b4e3-7463973f8ae8"
+    },
+    "Avatar21": {
+      "__uuid__": "93cb9f4d-2fa2-437b-b673-4411a0a4dcf5"
+    },
+    "Avatar22": {
+      "__uuid__": "c9f4e72a-32bb-4fa8-8de0-601e428d8bae"
+    },
+    "Avatar23": {
+      "__uuid__": "863a5308-c2d7-417d-a77e-4652b9f1ce5e"
+    },
+    "Avatar24": {
+      "__uuid__": "39a72529-f68b-4bed-a076-9d6fafd80efe"
+    },
+    "Avatar25": {
+      "__uuid__": "787fb595-a977-47af-bd97-da350d20039d"
+    },
+    "Avatar26": {
+      "__uuid__": "00f58b0d-4a1e-4444-8857-f202c1659d6f"
+    },
+    "Avatar27": {
+      "__uuid__": "e105e2fb-c98d-43e1-ba2a-862bba0f21be"
+    },
+    "Avatar28": {
+      "__uuid__": "5a4f40e9-5155-4e2e-83e6-7d399414a01a"
+    },
+    "Avatar29": {
+      "__uuid__": "585fb824-de8f-4540-9fbf-4c06ca4b78e5"
+    },
+    "Avatar3": {
+      "__uuid__": "fdd0e283-f921-4b8e-b1ba-bbd61602b316"
+    },
+    "Avatar4": {
+      "__uuid__": "b7b32d71-8354-4d7d-a43a-31fe85b3f632"
+    },
+    "Avatar5": {
+      "__uuid__": "8f91456a-bc95-45ce-bc87-a6b681b24dc2"
+    },
+    "Avatar6": {
+      "__uuid__": "e34279f9-eaf4-45a2-b8f4-b17733733f03"
+    },
+    "Avatar7": {
+      "__uuid__": "5a5d0944-2708-48f6-b255-6f7702271d12"
+    },
+    "Avatar8": {
+      "__uuid__": "727d01d5-c05a-4f51-87b3-22c54bfa129e"
+    },
+    "Avatar9": {
+      "__uuid__": "ce5cf94c-815d-43a0-8df2-e5f3fd7e405d"
+    },
+    "avatar": {
+      "__uuid__": "a5c9a6b6-2e2b-4292-afe0-785f974dbb77"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Btn_BetHistory_disable",
+    "texture": "ae50e4b8-eb86-4920-b5be-28494d3010ef",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      310,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      310,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

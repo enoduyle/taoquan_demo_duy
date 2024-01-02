@@ -1,0 +1,55 @@
+
+9983_UI_TotalWin.png
+size: 580,578
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tw_frame_bg
+  rotate: false
+  xy: 2, 392
+  size: 481, 120
+  orig: 481, 120
+  offset: 0, 0
+  index: -1
+tw_frame_bot
+  rotate: false
+  xy: 2, 354
+  size: 484, 36
+  orig: 484, 36
+  offset: 0, 0
+  index: -1
+tw_frame_cloud
+  rotate: false
+  xy: 111, 99
+  size: 135, 65
+  orig: 135, 65
+  offset: 0, 0
+  index: -1
+tw_frame_dragon
+  rotate: false
+  xy: 2, 43
+  size: 107, 121
+  orig: 107, 121
+  offset: 0, 0
+  index: -1
+tw_frame_top
+  rotate: false
+  xy: 2, 514
+  size: 576, 62
+  orig: 576, 62
+  offset: 0, 0
+  index: -1
+tw_text
+  rotate: false
+  xy: 2, 254
+  size: 355, 98
+  orig: 355, 98
+  offset: 0, 0
+  index: -1
+tw_text_glow
+  rotate: false
+  xy: 2, 166
+  size: 342, 86
+  orig: 342, 86
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Text_WildX_Blue",
+    "texture": "d9a15d85-6aa8-4482-a95c-135c09a979d7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      120,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

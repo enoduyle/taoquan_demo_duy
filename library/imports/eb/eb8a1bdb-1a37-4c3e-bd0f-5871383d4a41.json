@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BoardG_Free_half",
+    "texture": "d1993d6f-5e48-4daf-8889-a76718b8652b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      490,
+      618
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      490,
+      618
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

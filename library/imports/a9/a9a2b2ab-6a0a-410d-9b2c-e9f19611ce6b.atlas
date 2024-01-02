@@ -1,0 +1,48 @@
+
+bigwin.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+thangcuclon
+  rotate: false
+  xy: 2, 298
+  size: 482, 148
+  orig: 482, 148
+  offset: 0, 0
+  index: -1
+thangcuclonf
+  rotate: false
+  xy: 2, 148
+  size: 482, 148
+  orig: 482, 148
+  offset: 0, 0
+  index: -1
+thanglon
+  rotate: false
+  xy: 486, 302
+  size: 305, 144
+  orig: 305, 144
+  offset: 0, 0
+  index: -1
+thanglonf
+  rotate: false
+  xy: 2, 2
+  size: 305, 144
+  orig: 305, 144
+  offset: 0, 0
+  index: -1
+thangsieulon
+  rotate: false
+  xy: 2, 638
+  size: 949, 188
+  orig: 949, 188
+  offset: 0, 0
+  index: -1
+thangsieulonf
+  rotate: false
+  xy: 2, 448
+  size: 949, 188
+  orig: 949, 188
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Text_ChuaCoHuNo",
+    "texture": "97c1c276-4dfc-44c5-8ae3-b1cceed5c5d9",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      527,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      531,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

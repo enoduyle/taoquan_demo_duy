@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BG_ChooseFish",
+    "texture": "8416348d-4339-4af8-9b3c-d3f052f729d8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      2024,
+      1200
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      2024,
+      1200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

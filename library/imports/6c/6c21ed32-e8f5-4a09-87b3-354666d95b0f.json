@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "X15-Tim",
+    "texture": "7e627e44-183f-419e-b4ca-edf7eab73b19",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      108,
+      72
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      108,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "black_gradient_circle",
+    "texture": "0b5b8060-5272-492e-b6c9-92b03a3ab947",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1280,
+      1280
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1280,
+      1280
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

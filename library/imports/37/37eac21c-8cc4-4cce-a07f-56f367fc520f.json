@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Text_WildX_Silver",
+    "texture": "74718a9a-0d85-4783-972a-72361f5ccb20",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      120,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

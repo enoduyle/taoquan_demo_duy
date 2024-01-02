@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Btn_BetHistory_normal",
+    "texture": "bce33ae2-25c0-4d21-8da1-4728da95c596",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      333,
+      94
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      333,
+      94
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

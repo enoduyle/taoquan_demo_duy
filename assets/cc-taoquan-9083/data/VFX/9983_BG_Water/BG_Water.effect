@@ -1,0 +1,170 @@
+%{
+  techniques: [
+    {
+      passes: [
+        {
+          vert: vs
+          frag: fs
+          cullMode: none
+          blend: true
+        }
+      ]
+      layer: 0
+    }
+  ]
+  properties: {
+    LandTexture: {
+      type: sampler2D
+      value: null
+    }
+
+    LandMaskTexture: {
+      type: sampler2D
+      value: null
+    }
+
+    WaterTexture: {
+      type: sampler2D
+      value: null
+    }
+
+    WaterNoiseScaleX: {
+      type: number
+      value: 1.0
+    }
+
+    WaterNoiseScaleY: {
+      type: number
+      value: 1.0
+    }
+
+    WaterNoiseSpeed: {
+      type: number
+      value: 1.0
+    }
+
+    WaterNoisePower: {
+      type: number
+      value: 1.0
+    }
+
+    NoiseTexture: {
+      type: sampler2D
+      value: null
+    }
+
+    iTime: {
+      type: number
+      value: 1.0
+    }
+
+    alphaThreshold: {
+      type: number
+      value: 0.5
+    }
+  }
+%}
+
+%% vs {
+
+precision highp float;
+
+uniform mat4 cc_matViewProj;
+
+#if _USE_MODEL
+  uniform mat4 cc_matWorld;
+#endif
+
+attribute vec3 a_position;
+attribute lowp vec4 a_color;
+
+#if USE_TEXTURE
+  attribute mediump vec2 a_uv0;
+  varying mediump vec2 v_uv0;
+#endif
+
+varying lowp vec4 v_color;
+
+void main () {
+  mat4 mvp;
+  
+  #if _USE_MODEL
+    mvp = cc_matViewProj * cc_matWorld;
+  #else
+    mvp = cc_matViewProj;
+  #endif
+
+  #if USE_TEXTURE
+    v_uv0 = a_uv0;
+  #endif
+
+  v_color = a_color;
+
+  gl_Position = mvp * vec4(a_position, 1);
+}
+
+}
+
+%% fs {
+
+precision highp float;
+
+#if USE_TEXTURE
+  uniform float iTime;
+
+  uniform sampler2D LandTexture;
+  uniform sampler2D LandMaskTexture;
+
+  uniform sampler2D WaterTexture;
+  uniform float WaterNoiseScaleX;
+  uniform float WaterNoiseScaleY;
+  uniform float WaterNoiseSpeed;
+  uniform float WaterNoisePower;
+
+  uniform sampler2D NoiseTexture;
+
+  varying mediump vec2 v_uv0;
+#endif
+
+#include <alpha-test>
+
+varying lowp vec4 v_color;
+
+float remap(float value, float min1, float max1, float min2, float max2) 
+{
+    return min2 + (value - min1) * (max2 - min2) / (max1 - min1);
+}
+
+void main () {
+  vec4 color = v_color;
+
+  vec4 Land = vec4(1.0);
+  vec4 LandMask = vec4(1.0);
+
+  vec4 Water = vec4(1.0);
+  vec4 WaterNoise = vec4(1.0);
+
+  vec4 BGAll = vec4(1.0);
+
+  #if USE_TEXTURE
+    vec2 toCenter = vec2(0.5) - v_uv0;
+
+    LandMask *= texture2D(LandMaskTexture, v_uv0);
+    Land = texture2D(LandTexture, v_uv0) /* * LandMask */;
+
+    WaterNoise *= texture2D(NoiseTexture, vec2(toCenter.x * WaterNoiseScaleX, toCenter.y * WaterNoiseScaleY + (iTime * WaterNoiseSpeed)));
+    Water *= texture2D(WaterTexture, vec2(v_uv0.x, ((v_uv0.y - 0.5835) * 2.405) + (WaterNoise.y * WaterNoisePower))) * (1.0 - LandMask);
+
+    BGAll = Land + Water;
+
+    #if _USE_ETC1_TEXTURE
+      color.a *= texture2D(LandTexture, v_uv0 + vec2(0, 0.5)).r;
+    #endif
+  #endif
+
+  ALPHA_TEST(color);
+
+  gl_FragColor = BGAll;
+}
+
+}

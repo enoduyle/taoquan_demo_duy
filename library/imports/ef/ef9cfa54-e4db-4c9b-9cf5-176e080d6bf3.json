@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boderSetting",
+    "texture": "896eb5f1-b0ce-4143-9df6-069a9aebb95b",
+    "atlas": "0dfaab32-34a3-4050-aab7-3108e73af5aa",
+    "rect": [
+      860,
+      2,
+      415,
+      78
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      415,
+      78
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

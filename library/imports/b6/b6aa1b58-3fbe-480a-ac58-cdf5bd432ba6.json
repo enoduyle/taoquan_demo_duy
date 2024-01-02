@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "coins waiting.atlas",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "\ncoins waiting.png\nsize: 1024,256\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nLayer 1\n  rotate: false\n  xy: 2, 76\n  size: 146, 151\n  orig: 146, 151\n  offset: 0, 0\n  index: -1\nLayer 2\n  rotate: false\n  xy: 300, 99\n  size: 146, 128\n  orig: 146, 128\n  offset: 0, 0\n  index: -1\nLayer 3\n  rotate: false\n  xy: 596, 123\n  size: 146, 104\n  orig: 146, 104\n  offset: 0, 0\n  index: -1\nLayer 4\n  rotate: false\n  xy: 2, 2\n  size: 146, 72\n  orig: 146, 72\n  offset: 0, 0\n  index: -1\nLayer 5\n  rotate: false\n  xy: 744, 171\n  size: 146, 56\n  orig: 146, 56\n  offset: 0, 0\n  index: -1\nLayer 6\n  rotate: false\n  xy: 150, 97\n  size: 148, 130\n  orig: 148, 130\n  offset: 0, 0\n  index: -1\nLayer 7\n  rotate: false\n  xy: 448, 120\n  size: 146, 107\n  orig: 146, 107\n  offset: 0, 0\n  index: -1\nLayer 8\n  rotate: false\n  xy: 150, 23\n  size: 146, 72\n  orig: 146, 72\n  offset: 0, 0\n  index: -1\nLayer 9\n  rotate: false\n  xy: 744, 113\n  size: 146, 56\n  orig: 146, 56\n  offset: 0, 0\n  index: -1\n"
+}

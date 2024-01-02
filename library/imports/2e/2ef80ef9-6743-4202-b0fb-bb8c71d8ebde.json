@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Text_SpinNo_Green",
+    "texture": "5cbd5555-2007-4bcc-b0c4-da0133d94a50",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      120,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

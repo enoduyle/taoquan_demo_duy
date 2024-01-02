@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Roll_Silver",
+    "texture": "6be61706-a431-485d-bbb0-496c854ed11b",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      154,
+      37
+    ],
+    "offset": [
+      -1,
+      0.5
+    ],
+    "originalSize": [
+      158,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

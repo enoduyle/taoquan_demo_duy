@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Text_DoNotShow",
+    "texture": "55ed833d-14af-41b3-8e9b-7040b9827664",
+    "atlas": "",
+    "rect": [
+      7,
+      6,
+      273,
+      42
+    ],
+    "offset": [
+      3.5,
+      -1
+    ],
+    "originalSize": [
+      280,
+      52
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

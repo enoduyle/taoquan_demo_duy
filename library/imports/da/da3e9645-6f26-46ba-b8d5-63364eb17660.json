@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "Info_9983.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Dot": {
+      "__uuid__": "711f07d3-db44-4e62-832d-74a45a7c2c9f"
+    },
+    "Icon_Grand": {
+      "__uuid__": "f43ccc5a-f3bc-4f56-a903-c71ccc1fea03"
+    },
+    "Icon_Major": {
+      "__uuid__": "87b3e217-a587-4c3e-b88e-f9a91dac0f2f"
+    },
+    "Scatter2": {
+      "__uuid__": "f5c63606-dd51-4430-a5ff-2094406cab85"
+    },
+    "Wild2": {
+      "__uuid__": "a9d8ff32-896c-499e-ac1b-f57cc67763f9"
+    }
+  }
+}

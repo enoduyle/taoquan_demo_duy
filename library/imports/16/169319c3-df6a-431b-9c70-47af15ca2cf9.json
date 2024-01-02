@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Text_KetQua",
+    "texture": "b0e32be8-e1aa-4834-af76-8bbd8caf13d6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      280,
+      75
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      280,
+      75
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

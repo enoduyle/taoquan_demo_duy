@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "myriadpro",
+    "texture": "951461de-9019-4c45-a0ad-033959a01c5c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      509,
+      344
+    ],
+    "offset": [
+      -1.5,
+      84
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

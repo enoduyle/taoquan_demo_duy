@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Text_VongQuayMienPhi",
+    "texture": "e5ced3ab-c5bb-4340-88f8-71f1b06ad92c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      450,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      450,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

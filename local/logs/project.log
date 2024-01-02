@@ -1,0 +1,100 @@
+2024-01-02T08:29:39.849Z - normal: Load ~/.CocosCreator/settings.json
+2024-01-02T08:29:39.890Z - normal: Initializing Asset Database
+2024-01-02T08:29:39.897Z - normal: checking language setting...
+2024-01-02T08:29:39.897Z - normal: Language: en
+2024-01-02T08:29:40.355Z - success: preview server running at http://localhost:7456
+2024-01-02T08:29:40.370Z - success: protocol editor-framework registered
+2024-01-02T08:29:40.370Z - success: protocol app registered
+2024-01-02T08:29:40.370Z - success: protocol theme registered
+2024-01-02T08:29:40.370Z - success: protocol packages registered
+2024-01-02T08:29:40.371Z - success: protocol uuid registerred
+2024-01-02T08:29:40.371Z - success: protocol db registerred
+2024-01-02T08:29:40.371Z - success: protocol thumbnail registerred
+2024-01-02T08:29:40.371Z - success: protocol unpack registerred
+2024-01-02T08:29:40.371Z - success: protocol disable-commonjs registerred
+2024-01-02T08:29:41.963Z - normal: connected!
+2024-01-02T08:29:41.963Z - normal: Check project /Users/user/taoquan_demo_duy
+2024-01-02T08:29:41.964Z - normal: Initializing project /Users/user/taoquan_demo_duy
+2024-01-02T08:29:42.222Z - normal: Initializing Cocos2d
+2024-01-02T08:29:42.645Z - normal: Initializing engine extends
+2024-01-02T08:29:42.662Z - success: alipay-adapter loaded
+2024-01-02T08:29:42.667Z - success: asset-db-debugger loaded
+2024-01-02T08:29:42.670Z - success: baidu-adapter loaded
+2024-01-02T08:29:42.674Z - success: color-picker loaded
+2024-01-02T08:29:42.766Z - success: fb-audience-network loaded
+2024-01-02T08:29:42.802Z - success: fb-live-stream loaded
+2024-01-02T08:29:42.804Z - success: google-play-instant loaded
+2024-01-02T08:29:42.807Z - success: huawei-runtime loaded
+2024-01-02T08:29:42.956Z - success: cpk-publish loaded
+2024-01-02T08:29:42.957Z - success: jsb-adapter loaded
+2024-01-02T08:29:42.959Z - success: oppo-runtime loaded
+2024-01-02T08:29:42.962Z - success: package-manager loaded
+2024-01-02T08:29:43.034Z - success: qqplay-adapter loaded
+2024-01-02T08:29:43.035Z - success: runtime-dev-tools loaded
+2024-01-02T08:29:43.038Z - success: sdkbox loaded
+2024-01-02T08:29:43.040Z - success: tester loaded
+2024-01-02T08:29:43.042Z - success: ui-kit-preview-extra loaded
+2024-01-02T08:29:43.043Z - success: ui-kit-preview loaded
+2024-01-02T08:29:43.045Z - success: ui-kit loaded
+2024-01-02T08:29:43.048Z - success: vivo-runtime loaded
+2024-01-02T08:29:43.049Z - success: weapp-adapter loaded
+2024-01-02T08:29:43.049Z - success: xiaomi-adapter loaded
+2024-01-02T08:29:43.051Z - success: alipay-minigame loaded
+2024-01-02T08:29:43.081Z - success: assets loaded
+2024-01-02T08:29:43.084Z - success: builder loaded
+2024-01-02T08:29:43.243Z - success: cocos-services loaded
+2024-01-02T08:29:43.247Z - success: console loaded
+2024-01-02T08:29:43.270Z - success: fb-instant-games loaded
+2024-01-02T08:29:43.274Z - success: game-window loaded
+2024-01-02T08:29:43.275Z - success: google-instant-games loaded
+2024-01-02T08:29:43.278Z - success: hierarchy loaded
+2024-01-02T08:29:43.281Z - success: inspector loaded
+2024-01-02T08:29:43.282Z - success: keystore loaded
+2024-01-02T08:29:43.285Z - success: node-library loaded
+2024-01-02T08:29:43.286Z - success: package-asset loaded
+2024-01-02T08:29:43.286Z - success: preferences loaded
+2024-01-02T08:29:43.288Z - success: project-exporter loaded
+2024-01-02T08:29:43.291Z - success: project-importer loaded
+2024-01-02T08:29:43.294Z - success: project-settings loaded
+2024-01-02T08:29:43.298Z - success: scene loaded
+2024-01-02T08:29:43.300Z - success: simulator-debugger loaded
+2024-01-02T08:29:43.300Z - success: sprite-editor loaded
+2024-01-02T08:29:43.303Z - success: store loaded
+2024-01-02T08:29:43.307Z - success: timeline loaded
+2024-01-02T08:29:43.310Z - success: xiaomi-runtime loaded
+2024-01-02T08:29:43.443Z - success: im-plugin loaded
+2024-01-02T08:29:43.470Z - success: generate-loc-scene loaded
+2024-01-02T08:29:43.476Z - success: pack-textures loaded
+2024-01-02T08:29:43.487Z - normal: ===========Loaded rng-clone-games===========
+2024-01-02T08:29:43.496Z - success: rng-clone-games loaded
+2024-01-02T08:29:43.500Z - success: slot loaded
+2024-01-02T08:29:43.503Z - success: unpack-textures-modify-prefab loaded
+2024-01-02T08:29:51.324Z - normal: Loading packages
+2024-01-02T08:29:51.342Z - normal: Watching packages
+2024-01-02T08:29:51.445Z - normal: Run Application
+2024-01-02T08:29:56.541Z - info: Cocos Services load base data!
+2024-01-02T08:29:57.807Z - normal: VERSION GAME 1.0.0
+2024-01-02T08:29:57.842Z - failed: load script [livekit-client] failed : Error: Cannot find module 'livekit-client'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.s._resolveFilename (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:941)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:589)
+    at /Users/user/taoquan_demo_duy/temp/quick-scripts/assets/cc-common/cc-slot-base-test/Streaming/scripts/Broadcaster.js:1:392
+    at __define (/Users/user/taoquan_demo_duy/temp/quick-scripts/assets/cc-common/cc-slot-base-test/Streaming/scripts/Broadcaster.js:8:24)
+    at /Users/user/taoquan_demo_duy/temp/quick-scripts/assets/cc-common/cc-slot-base-test/Streaming/scripts/Broadcaster.js:160:13
+2024-01-02T08:29:57.844Z - failed: load script [livekit-client] failed : Error: Cannot find module 'livekit-client'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
+    at Function.s._resolveFilename (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:941)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:589)
+    at /Users/user/taoquan_demo_duy/temp/quick-scripts/assets/cc-common/cc-slot-base-test/Streaming/scripts/Player.js:1:387
+    at __define (/Users/user/taoquan_demo_duy/temp/quick-scripts/assets/cc-common/cc-slot-base-test/Streaming/scripts/Player.js:8:24)
+    at /Users/user/taoquan_demo_duy/temp/quick-scripts/assets/cc-common/cc-slot-base-test/Streaming/scripts/Player.js:135:13
+2024-01-02T08:29:58.047Z - normal: VERSION GAME 1.0.0
+2024-01-02T08:30:00.370Z - warn: BG_Water : Failed to set property texture, property not found.

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Btn_Start_hover",
+    "texture": "5c79dbd1-43a9-41ae-b163-2b0e6719e71b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      202,
+      86
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      202,
+      86
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

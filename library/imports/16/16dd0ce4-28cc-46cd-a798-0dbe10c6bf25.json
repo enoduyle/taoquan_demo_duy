@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "buttonUp",
+    "texture": "2ca6736e-569f-4ac6-8a87-d6ada01580ba",
+    "atlas": "5f22cac0-f9c9-4897-b809-d6aaff651f8e",
+    "rect": [
+      72,
+      1064,
+      143,
+      67
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      143,
+      67
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

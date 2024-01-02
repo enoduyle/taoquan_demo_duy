@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BG_Water",
+    "texture": "db4f8a91-73f3-4ee9-8032-bc4d0edf6feb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      2024,
+      500
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      2024,
+      500
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

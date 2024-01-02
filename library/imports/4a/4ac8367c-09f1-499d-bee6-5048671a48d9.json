@@ -1,0 +1,1124 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "9983_UI_TotalWin",
+  "_objFlags": 0,
+  "_native": "",
+  "skeletonJsonStr": "{\"skeleton\":{\"hash\":\"j3DhtTcxakkmsM36igh+jb0gmfw\",\"spine\":\"3.7.94\",\"width\":597.64,\"height\":239.19,\"images\":\"./images/\",\"audio\":\"D:/SLOT/_2023/[ D O I N G ]/Táo Quân/tổng thắng/Spine\"},\"bones\":[{\"name\":\"root\"},{\"name\":\"all\",\"parent\":\"root\",\"scaleX\":0.67,\"scaleY\":0.67,\"color\":\"ff0000ff\"},{\"name\":\"totalwin\",\"parent\":\"all\",\"color\":\"ff0000ff\"},{\"name\":\"tw_frame\",\"parent\":\"totalwin\",\"color\":\"ff0000ff\"},{\"name\":\"tw_text\",\"parent\":\"totalwin\",\"y\":150,\"color\":\"ff0000ff\"}],\"slots\":[{\"name\":\"tw_frame_bg\",\"bone\":\"tw_frame\",\"attachment\":\"tw_frame_bg\"},{\"name\":\"tw_frame_top\",\"bone\":\"tw_frame\",\"attachment\":\"tw_frame_top\"},{\"name\":\"tw_frame_bot\",\"bone\":\"tw_frame\",\"attachment\":\"tw_frame_bot\"},{\"name\":\"tw_frame_dragon\",\"bone\":\"tw_frame\",\"attachment\":\"tw_frame_dragon\"},{\"name\":\"tw_frame_dragon2\",\"bone\":\"tw_frame\",\"attachment\":\"tw_frame_dragon\"},{\"name\":\"tw_frame_cloud\",\"bone\":\"tw_frame\",\"attachment\":\"tw_frame_cloud\"},{\"name\":\"tw_frame_cloud2\",\"bone\":\"tw_frame\",\"attachment\":\"tw_frame_cloud\"},{\"name\":\"tw_text\",\"bone\":\"tw_text\",\"attachment\":\"tw_text\"},{\"name\":\"tw_text_glow\",\"bone\":\"tw_text\",\"attachment\":\"tw_text_glow\"}],\"skins\":{\"default\":{\"tw_frame_bg\":{\"tw_frame_bg\":{\"type\":\"mesh\",\"uvs\":[1,1,0,1,0,0,1,0],\"triangles\":[1,2,3,1,3,0],\"vertices\":[362,-92,-356,-92,-356,87,362,87],\"hull\":4,\"edges\":[0,2,2,4,4,6,0,6],\"width\":718,\"height\":179}},\"tw_frame_bot\":{\"tw_frame_bot\":{\"type\":\"mesh\",\"uvs\":[1,1,0,1,0,0,1,0],\"triangles\":[1,2,3,1,3,0],\"vertices\":[361,-105,-361,-105,-361,-51,361,-51],\"hull\":4,\"edges\":[0,2,2,4,4,6,0,6],\"width\":722,\"height\":54}},\"tw_frame_cloud\":{\"tw_frame_cloud\":{\"type\":\"mesh\",\"uvs\":[1,1,0,1,0,0,1,0],\"triangles\":[1,2,3,1,3,0],\"vertices\":[-223,-123,-425,-123,-425,-26,-223,-26],\"hull\":4,\"edges\":[0,2,2,4,4,6,0,6],\"width\":202,\"height\":97}},\"tw_frame_cloud2\":{\"tw_frame_cloud\":{\"type\":\"mesh\",\"uvs\":[1,1,0,1,0,0,1,0],\"triangles\":[1,2,3,1,3,0],\"vertices\":[223,-123,425,-123,425,-26,223,-26],\"hull\":4,\"edges\":[0,2,2,4,4,6,0,6],\"width\":202,\"height\":97}},\"tw_frame_dragon\":{\"tw_frame_dragon\":{\"type\":\"mesh\",\"uvs\":[1,1,0,1,0,0,1,0],\"triangles\":[1,2,3,1,3,0],\"vertices\":[-286,-95,-446,-95,-446,86,-286,86],\"hull\":4,\"edges\":[0,2,2,4,4,6,0,6],\"width\":160,\"height\":181}},\"tw_frame_dragon2\":{\"tw_frame_dragon\":{\"type\":\"mesh\",\"uvs\":[1,1,0,1,0,0,1,0],\"triangles\":[1,2,3,1,3,0],\"vertices\":[286,-95,446,-95,446,86,286,86],\"hull\":4,\"edges\":[0,2,2,4,4,6,0,6],\"width\":160,\"height\":181}},\"tw_frame_top\":{\"tw_frame_top\":{\"type\":\"mesh\",\"uvs\":[1,1,0,1,0,0,1,0],\"triangles\":[1,2,3,1,3,0],\"vertices\":[430,20,-429,20,-429,112,430,112],\"hull\":4,\"edges\":[0,2,2,4,4,6,0,6],\"width\":859,\"height\":92}},\"tw_text\":{\"tw_text\":{\"type\":\"mesh\",\"uvs\":[1,1,0,1,0,0,1,0],\"triangles\":[1,2,3,1,3,0],\"vertices\":[266,-62,-264,-62,-264,84,266,84],\"hull\":4,\"edges\":[0,2,2,4,4,6,0,6],\"width\":530,\"height\":146}},\"tw_text_glow\":{\"tw_text_glow\":{\"type\":\"mesh\",\"uvs\":[1,1,0,1,0,0,1,0],\"triangles\":[1,2,3,1,3,0],\"vertices\":[254,-50,-257,-50,-257,78,254,78],\"hull\":4,\"edges\":[0,2,2,4,4,6,0,6],\"width\":511,\"height\":128}}}},\"animations\":{\"Appear\":{\"slots\":{\"tw_frame_bg\":{\"color\":[{\"time\":0,\"color\":\"ffffff00\",\"curve\":[0.25,0,0.75,1]},{\"time\":0.1,\"color\":\"ffffffff\"}]},\"tw_frame_bot\":{\"color\":[{\"time\":0,\"color\":\"ffffff00\",\"curve\":[0.25,0,0.75,1]},{\"time\":0.1,\"color\":\"ffffffff\"}]},\"tw_frame_cloud\":{\"color\":[{\"time\":0,\"color\":\"ffffff00\",\"curve\":[0.25,0,0.75,1]},{\"time\":0.1,\"color\":\"ffffffff\"}]},\"tw_frame_cloud2\":{\"color\":[{\"time\":0,\"color\":\"ffffff00\",\"curve\":[0.25,0,0.75,1]},{\"time\":0.1,\"color\":\"ffffffff\"}]},\"tw_frame_dragon\":{\"color\":[{\"time\":0,\"color\":\"ffffff00\",\"curve\":[0.25,0,0.75,1]},{\"time\":0.1,\"color\":\"ffffffff\"}]},\"tw_frame_dragon2\":{\"color\":[{\"time\":0,\"color\":\"ffffff00\",\"curve\":[0.25,0,0.75,1]},{\"time\":0.1,\"color\":\"ffffffff\"}]},\"tw_frame_top\":{\"color\":[{\"time\":0,\"color\":\"ffffff00\",\"curve\":[0.25,0,0.75,1]},{\"time\":0.1,\"color\":\"ffffffff\"}]},\"tw_text\":{\"color\":[{\"time\":0,\"color\":\"ffffff00\",\"curve\":[0.25,0,0.75,1]},{\"time\":0.2333,\"color\":\"ffffffff\"}]},\"tw_text_glow\":{\"color\":[{\"time\":0,\"color\":\"ffffff00\",\"curve\":[0.252,0,0.622,0.48]},{\"time\":0.2333,\"color\":\"ffffffff\",\"curve\":[0.372,0.48,0.752,1]},{\"time\":0.5,\"color\":\"ffffff00\"}]}},\"bones\":{\"tw_text\":{\"scale\":[{\"time\":0,\"x\":0.5,\"y\":0.5,\"curve\":[0.25,0,0.75,1]},{\"time\":0.2333,\"x\":1.1,\"y\":1.1,\"curve\":[0.25,0,0.75,1]},{\"time\":0.3333,\"x\":1,\"y\":1}]},\"tw_frame\":{\"scale\":[{\"time\":0,\"x\":0.5,\"y\":0.5,\"curve\":[0.25,0,0.75,1]},{\"time\":0.2,\"x\":1.1,\"y\":1.1,\"curve\":[0.25,0,0.75,1]},{\"time\":0.3333,\"x\":1,\"y\":1}]}}},\"Disappear\":{\"slots\":{\"tw_frame_bg\":{\"color\":[{\"time\":0.1333,\"color\":\"ffffffff\",\"curve\":[0.25,0,0.75,1]},{\"time\":0.2667,\"color\":\"818181ff\",\"curve\":[0.25,0,0.75,1]},{\"time\":0.4,\"color\":\"00000000\"}]},\"tw_frame_bot\":{\"color\":[{\"time\":0.1333,\"color\":\"ffffffff\",\"curve\":[0.25,0,0.75,1]},{\"time\":0.2667,\"color\":\"818181ff\",\"curve\":[0.25,0,0.75,1]},{\"time\":0.4,\"color\":\"00000000\"}]},\"tw_frame_cloud\":{\"color\":[{\"time\":0.1333,\"color\":\"ffffffff\",\"curve\":[0.25,0,0.75,1]},{\"time\":0.2667,\"color\":\"818181ff\",\"curve\":[0.25,0,0.75,1]},{\"time\":0.4,\"color\":\"00000000\"}]},\"tw_frame_cloud2\":{\"color\":[{\"time\":0.1333,\"color\":\"ffffffff\",\"curve\":[0.25,0,0.75,1]},{\"time\":0.2667,\"color\":\"818181ff\",\"curve\":[0.25,0,0.75,1]},{\"time\":0.4,\"color\":\"00000000\"}]},\"tw_frame_dragon\":{\"color\":[{\"time\":0.1333,\"color\":\"ffffffff\",\"curve\":[0.25,0,0.75,1]},{\"time\":0.2667,\"color\":\"818181ff\",\"curve\":[0.25,0,0.75,1]},{\"time\":0.4,\"color\":\"00000000\"}]},\"tw_frame_dragon2\":{\"color\":[{\"time\":0.1333,\"color\":\"ffffffff\",\"curve\":[0.25,0,0.75,1]},{\"time\":0.2667,\"color\":\"818181ff\",\"curve\":[0.25,0,0.75,1]},{\"time\":0.4,\"color\":\"00000000\"}]},\"tw_frame_top\":{\"color\":[{\"time\":0.1333,\"color\":\"ffffffff\",\"curve\":[0.25,0,0.75,1]},{\"time\":0.2667,\"color\":\"818181ff\",\"curve\":[0.25,0,0.75,1]},{\"time\":0.4,\"color\":\"00000000\"}]},\"tw_text\":{\"color\":[{\"time\":0.1667,\"color\":\"ffffffff\",\"curve\":[0.25,0,0.75,1]},{\"time\":0.3333,\"color\":\"717171ff\",\"curve\":[0.25,0,0.75,1]},{\"time\":0.4333,\"color\":\"00000000\"}]},\"tw_text_glow\":{\"color\":[{\"time\":0,\"color\":\"ffffff00\",\"curve\":[0.252,0,0.622,0.48]},{\"time\":0.1667,\"color\":\"ffffff74\",\"curve\":[0.345,0.37,0.696,0.76]},{\"time\":0.3333,\"color\":\"717171ff\",\"curve\":[0.375,0.62,0.716,1]},{\"time\":0.4333,\"color\":\"00000000\"}]}},\"bones\":{\"tw_text\":{\"scale\":[{\"time\":0,\"x\":1,\"y\":1,\"curve\":[0.25,0,0.75,1]},{\"time\":0.1667,\"x\":1.05,\"y\":1.05,\"curve\":[0.25,0,0.75,1]},{\"time\":0.4333,\"x\":0.5,\"y\":0.5}]},\"tw_frame\":{\"scale\":[{\"time\":0,\"x\":1,\"y\":1,\"curve\":[0.25,0,0.75,1]},{\"time\":0.1333,\"x\":1.05,\"y\":1.05,\"curve\":[0.25,0,0.75,1]},{\"time\":0.4,\"x\":0.5,\"y\":0.5}]}}},\"Idle\":{\"slots\":{\"tw_text_glow\":{\"color\":[{\"time\":0,\"color\":\"ffffff00\",\"curve\":[0.25,0,0.75,1]},{\"time\":0.5,\"color\":\"ffffffc7\",\"curve\":[0.25,0,0.75,1]},{\"time\":1,\"color\":\"ffffff00\"}]}}}}}",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "j3DhtTcxakkmsM36igh+jb0gmfw",
+      "spine": "3.7.94",
+      "width": 597.64,
+      "height": 239.19,
+      "images": "./images/",
+      "audio": "D:/SLOT/_2023/[ D O I N G ]/Táo Quân/tổng thắng/Spine"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "all",
+        "parent": "root",
+        "scaleX": 0.67,
+        "scaleY": 0.67,
+        "color": "ff0000ff"
+      },
+      {
+        "name": "totalwin",
+        "parent": "all",
+        "color": "ff0000ff"
+      },
+      {
+        "name": "tw_frame",
+        "parent": "totalwin",
+        "color": "ff0000ff"
+      },
+      {
+        "name": "tw_text",
+        "parent": "totalwin",
+        "y": 150,
+        "color": "ff0000ff"
+      }
+    ],
+    "slots": [
+      {
+        "name": "tw_frame_bg",
+        "bone": "tw_frame",
+        "attachment": "tw_frame_bg"
+      },
+      {
+        "name": "tw_frame_top",
+        "bone": "tw_frame",
+        "attachment": "tw_frame_top"
+      },
+      {
+        "name": "tw_frame_bot",
+        "bone": "tw_frame",
+        "attachment": "tw_frame_bot"
+      },
+      {
+        "name": "tw_frame_dragon",
+        "bone": "tw_frame",
+        "attachment": "tw_frame_dragon"
+      },
+      {
+        "name": "tw_frame_dragon2",
+        "bone": "tw_frame",
+        "attachment": "tw_frame_dragon"
+      },
+      {
+        "name": "tw_frame_cloud",
+        "bone": "tw_frame",
+        "attachment": "tw_frame_cloud"
+      },
+      {
+        "name": "tw_frame_cloud2",
+        "bone": "tw_frame",
+        "attachment": "tw_frame_cloud"
+      },
+      {
+        "name": "tw_text",
+        "bone": "tw_text",
+        "attachment": "tw_text"
+      },
+      {
+        "name": "tw_text_glow",
+        "bone": "tw_text",
+        "attachment": "tw_text_glow"
+      }
+    ],
+    "skins": {
+      "default": {
+        "tw_frame_bg": {
+          "tw_frame_bg": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              1,
+              3,
+              0
+            ],
+            "vertices": [
+              362,
+              -92,
+              -356,
+              -92,
+              -356,
+              87,
+              362,
+              87
+            ],
+            "hull": 4,
+            "edges": [
+              0,
+              2,
+              2,
+              4,
+              4,
+              6,
+              0,
+              6
+            ],
+            "width": 718,
+            "height": 179
+          }
+        },
+        "tw_frame_bot": {
+          "tw_frame_bot": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              1,
+              3,
+              0
+            ],
+            "vertices": [
+              361,
+              -105,
+              -361,
+              -105,
+              -361,
+              -51,
+              361,
+              -51
+            ],
+            "hull": 4,
+            "edges": [
+              0,
+              2,
+              2,
+              4,
+              4,
+              6,
+              0,
+              6
+            ],
+            "width": 722,
+            "height": 54
+          }
+        },
+        "tw_frame_cloud": {
+          "tw_frame_cloud": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              1,
+              3,
+              0
+            ],
+            "vertices": [
+              -223,
+              -123,
+              -425,
+              -123,
+              -425,
+              -26,
+              -223,
+              -26
+            ],
+            "hull": 4,
+            "edges": [
+              0,
+              2,
+              2,
+              4,
+              4,
+              6,
+              0,
+              6
+            ],
+            "width": 202,
+            "height": 97
+          }
+        },
+        "tw_frame_cloud2": {
+          "tw_frame_cloud": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              1,
+              3,
+              0
+            ],
+            "vertices": [
+              223,
+              -123,
+              425,
+              -123,
+              425,
+              -26,
+              223,
+              -26
+            ],
+            "hull": 4,
+            "edges": [
+              0,
+              2,
+              2,
+              4,
+              4,
+              6,
+              0,
+              6
+            ],
+            "width": 202,
+            "height": 97
+          }
+        },
+        "tw_frame_dragon": {
+          "tw_frame_dragon": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              1,
+              3,
+              0
+            ],
+            "vertices": [
+              -286,
+              -95,
+              -446,
+              -95,
+              -446,
+              86,
+              -286,
+              86
+            ],
+            "hull": 4,
+            "edges": [
+              0,
+              2,
+              2,
+              4,
+              4,
+              6,
+              0,
+              6
+            ],
+            "width": 160,
+            "height": 181
+          }
+        },
+        "tw_frame_dragon2": {
+          "tw_frame_dragon": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              1,
+              3,
+              0
+            ],
+            "vertices": [
+              286,
+              -95,
+              446,
+              -95,
+              446,
+              86,
+              286,
+              86
+            ],
+            "hull": 4,
+            "edges": [
+              0,
+              2,
+              2,
+              4,
+              4,
+              6,
+              0,
+              6
+            ],
+            "width": 160,
+            "height": 181
+          }
+        },
+        "tw_frame_top": {
+          "tw_frame_top": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              1,
+              3,
+              0
+            ],
+            "vertices": [
+              430,
+              20,
+              -429,
+              20,
+              -429,
+              112,
+              430,
+              112
+            ],
+            "hull": 4,
+            "edges": [
+              0,
+              2,
+              2,
+              4,
+              4,
+              6,
+              0,
+              6
+            ],
+            "width": 859,
+            "height": 92
+          }
+        },
+        "tw_text": {
+          "tw_text": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              1,
+              3,
+              0
+            ],
+            "vertices": [
+              266,
+              -62,
+              -264,
+              -62,
+              -264,
+              84,
+              266,
+              84
+            ],
+            "hull": 4,
+            "edges": [
+              0,
+              2,
+              2,
+              4,
+              4,
+              6,
+              0,
+              6
+            ],
+            "width": 530,
+            "height": 146
+          }
+        },
+        "tw_text_glow": {
+          "tw_text_glow": {
+            "type": "mesh",
+            "uvs": [
+              1,
+              1,
+              0,
+              1,
+              0,
+              0,
+              1,
+              0
+            ],
+            "triangles": [
+              1,
+              2,
+              3,
+              1,
+              3,
+              0
+            ],
+            "vertices": [
+              254,
+              -50,
+              -257,
+              -50,
+              -257,
+              78,
+              254,
+              78
+            ],
+            "hull": 4,
+            "edges": [
+              0,
+              2,
+              2,
+              4,
+              4,
+              6,
+              0,
+              6
+            ],
+            "width": 511,
+            "height": 128
+          }
+        }
+      }
+    },
+    "animations": {
+      "Appear": {
+        "slots": {
+          "tw_frame_bg": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.1,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "tw_frame_bot": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.1,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "tw_frame_cloud": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.1,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "tw_frame_cloud2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.1,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "tw_frame_dragon": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.1,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "tw_frame_dragon2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.1,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "tw_frame_top": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.1,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "tw_text": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.2333,
+                "color": "ffffffff"
+              }
+            ]
+          },
+          "tw_text_glow": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": [
+                  0.252,
+                  0,
+                  0.622,
+                  0.48
+                ]
+              },
+              {
+                "time": 0.2333,
+                "color": "ffffffff",
+                "curve": [
+                  0.372,
+                  0.48,
+                  0.752,
+                  1
+                ]
+              },
+              {
+                "time": 0.5,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "tw_text": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.5,
+                "y": 0.5,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.2333,
+                "x": 1.1,
+                "y": 1.1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.3333,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "tw_frame": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.5,
+                "y": 0.5,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.2,
+                "x": 1.1,
+                "y": 1.1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.3333,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        }
+      },
+      "Disappear": {
+        "slots": {
+          "tw_frame_bg": {
+            "color": [
+              {
+                "time": 0.1333,
+                "color": "ffffffff",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.2667,
+                "color": "818181ff",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.4,
+                "color": "00000000"
+              }
+            ]
+          },
+          "tw_frame_bot": {
+            "color": [
+              {
+                "time": 0.1333,
+                "color": "ffffffff",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.2667,
+                "color": "818181ff",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.4,
+                "color": "00000000"
+              }
+            ]
+          },
+          "tw_frame_cloud": {
+            "color": [
+              {
+                "time": 0.1333,
+                "color": "ffffffff",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.2667,
+                "color": "818181ff",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.4,
+                "color": "00000000"
+              }
+            ]
+          },
+          "tw_frame_cloud2": {
+            "color": [
+              {
+                "time": 0.1333,
+                "color": "ffffffff",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.2667,
+                "color": "818181ff",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.4,
+                "color": "00000000"
+              }
+            ]
+          },
+          "tw_frame_dragon": {
+            "color": [
+              {
+                "time": 0.1333,
+                "color": "ffffffff",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.2667,
+                "color": "818181ff",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.4,
+                "color": "00000000"
+              }
+            ]
+          },
+          "tw_frame_dragon2": {
+            "color": [
+              {
+                "time": 0.1333,
+                "color": "ffffffff",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.2667,
+                "color": "818181ff",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.4,
+                "color": "00000000"
+              }
+            ]
+          },
+          "tw_frame_top": {
+            "color": [
+              {
+                "time": 0.1333,
+                "color": "ffffffff",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.2667,
+                "color": "818181ff",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.4,
+                "color": "00000000"
+              }
+            ]
+          },
+          "tw_text": {
+            "color": [
+              {
+                "time": 0.1667,
+                "color": "ffffffff",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.3333,
+                "color": "717171ff",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.4333,
+                "color": "00000000"
+              }
+            ]
+          },
+          "tw_text_glow": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": [
+                  0.252,
+                  0,
+                  0.622,
+                  0.48
+                ]
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffff74",
+                "curve": [
+                  0.345,
+                  0.37,
+                  0.696,
+                  0.76
+                ]
+              },
+              {
+                "time": 0.3333,
+                "color": "717171ff",
+                "curve": [
+                  0.375,
+                  0.62,
+                  0.716,
+                  1
+                ]
+              },
+              {
+                "time": 0.4333,
+                "color": "00000000"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "tw_text": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.1667,
+                "x": 1.05,
+                "y": 1.05,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.4333,
+                "x": 0.5,
+                "y": 0.5
+              }
+            ]
+          },
+          "tw_frame": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.1333,
+                "x": 1.05,
+                "y": 1.05,
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.4,
+                "x": 0.5,
+                "y": 0.5
+              }
+            ]
+          }
+        }
+      },
+      "Idle": {
+        "slots": {
+          "tw_text_glow": {
+            "color": [
+              {
+                "time": 0,
+                "color": "ffffff00",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 0.5,
+                "color": "ffffffc7",
+                "curve": [
+                  0.25,
+                  0,
+                  0.75,
+                  1
+                ]
+              },
+              {
+                "time": 1,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\n9983_UI_TotalWin.png\nsize: 580,578\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\ntw_frame_bg\n  rotate: false\n  xy: 2, 392\n  size: 481, 120\n  orig: 481, 120\n  offset: 0, 0\n  index: -1\ntw_frame_bot\n  rotate: false\n  xy: 2, 354\n  size: 484, 36\n  orig: 484, 36\n  offset: 0, 0\n  index: -1\ntw_frame_cloud\n  rotate: false\n  xy: 111, 99\n  size: 135, 65\n  orig: 135, 65\n  offset: 0, 0\n  index: -1\ntw_frame_dragon\n  rotate: false\n  xy: 2, 43\n  size: 107, 121\n  orig: 107, 121\n  offset: 0, 0\n  index: -1\ntw_frame_top\n  rotate: false\n  xy: 2, 514\n  size: 576, 62\n  orig: 576, 62\n  offset: 0, 0\n  index: -1\ntw_text\n  rotate: false\n  xy: 2, 254\n  size: 355, 98\n  orig: 355, 98\n  offset: 0, 0\n  index: -1\ntw_text_glow\n  rotate: false\n  xy: 2, 166\n  size: 342, 86\n  orig: 342, 86\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "442ac83f-3817-4e59-b37b-21b3d8499a6b"
+    }
+  ],
+  "textureNames": [
+    "9983_UI_TotalWin.png"
+  ],
+  "scale": 1
+}

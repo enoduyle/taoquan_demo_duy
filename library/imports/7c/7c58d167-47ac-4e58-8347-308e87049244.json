@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "X8-Do",
+    "texture": "90deb2c1-5ff3-4a86-bbea-9f4f3ac8727d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      89,
+      72
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      89,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

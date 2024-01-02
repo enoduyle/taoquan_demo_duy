@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Text_SpinNo_Gold",
+    "texture": "bf5bc5db-2acf-43a9-915d-b38f6b5b90a5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      140,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      140,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

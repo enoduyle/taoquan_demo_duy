@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Anton_Silver-export",
+    "texture": "abd4f872-4cb8-4f42-aaa0-1045cbf5da43",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      491,
+      495
+    ],
+    "offset": [
+      -1.5,
+      1.5
+    ],
+    "originalSize": [
+      494,
+      498
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

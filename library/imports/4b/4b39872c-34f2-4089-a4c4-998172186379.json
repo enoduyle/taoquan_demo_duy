@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Link_SettingInfo",
+    "texture": "eceffabd-e8f7-485e-b99c-c25689b67d71",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      26,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      26,
+      37
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

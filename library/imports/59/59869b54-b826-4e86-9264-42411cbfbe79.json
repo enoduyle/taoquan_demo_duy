@@ -1,0 +1,64 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "filePacks",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "projectPath": "/Users/toannguyen/Desktop/cc-all-in-one/assets/cc-release-slot/cc-taoquan-9983",
+    "plistS": [
+      {
+        "fileName": "atlas_1.plist._data_images_tp_BlurSymbols_atlas_1"
+      },
+      {
+        "fileName": "atlas_1.plist._data_images_tp_FreeGameOption_atlas_1"
+      },
+      {
+        "fileName": "atlas_1.plist._data_images_tp_History_atlas_1"
+      },
+      {
+        "fileName": "atlas_1.plist._data_images_tp_Info_atlas_1"
+      },
+      {
+        "fileName": "atlas_1.plist._data_images_tp_MainUI_atlas_1"
+      },
+      {
+        "fileName": "atlas_1.plist._data_images_tp_MainUI_multiplier_img_atlas_1"
+      },
+      {
+        "fileName": "atlas_1.plist._data_images_tp_Symbols_atlas_1"
+      },
+      {
+        "fileName": "atlas_1.plist._data_images_tp_WinLines_atlas_1"
+      }
+    ],
+    "atlas_1.plist._data_images_tp_BlurSymbols_atlas_1": [
+      "38502b24-8045-4884-a8ca-7ea1fc8adcfe",
+      "316f05d7-0cde-4209-b8b6-78b58781d097",
+      "f8299a42-0cd6-4f0b-b8cd-2a72ca7d7a0f"
+    ],
+    "atlas_1.plist._data_images_tp_FreeGameOption_atlas_1": [
+      "5de37057-b976-4918-bf93-7a28f55ae16e"
+    ],
+    "atlas_1.plist._data_images_tp_History_atlas_1": [
+      "f2c12fdc-d3c2-4119-a966-47dc2b3a3b04"
+    ],
+    "atlas_1.plist._data_images_tp_Info_atlas_1": [
+      "ce036fb6-0cfa-4d60-9690-43778ea84a5d",
+      "55dd57ba-c0c3-4043-adaf-3c0b80f4a401"
+    ],
+    "atlas_1.plist._data_images_tp_MainUI_atlas_1": [
+      "7bc9ae7b-1366-41f4-a852-43e65b1d389f"
+    ],
+    "atlas_1.plist._data_images_tp_MainUI_multiplier_img_atlas_1": [
+      "7f1e1013-81a2-4c31-bae6-cf109ee73581"
+    ],
+    "atlas_1.plist._data_images_tp_Symbols_atlas_1": [
+      "38502b24-8045-4884-a8ca-7ea1fc8adcfe",
+      "316f05d7-0cde-4209-b8b6-78b58781d097",
+      "f8299a42-0cd6-4f0b-b8cd-2a72ca7d7a0f"
+    ],
+    "atlas_1.plist._data_images_tp_WinLines_atlas_1": [
+      "5918b3aa-5270-47b3-bfa2-8432b5c8b2a2"
+    ]
+  }
+}

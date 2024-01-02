@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Page_Anchor_BG",
+    "texture": "b6cd3e11-50c1-43a5-9cf1-d67036731393",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      401,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      401,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

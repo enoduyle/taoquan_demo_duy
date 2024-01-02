@@ -1,0 +1,80 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "RoomUI.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Ban4": {
+      "__uuid__": "e521813a-4913-4a3b-ae0d-2f6b21aa5706"
+    },
+    "Ban5": {
+      "__uuid__": "a4cfd3b0-3508-4fa8-8b31-5a80cc98d81d"
+    },
+    "BanTatCa": {
+      "__uuid__": "e8c83448-4bba-47c1-b33b-9637cfbe51a2"
+    },
+    "BandanhPhe": {
+      "__uuid__": "2b4e02fa-5147-4264-b685-e3a33b431c05"
+    },
+    "Bansolo": {
+      "__uuid__": "e82b10cb-0ae1-4cf6-ae3a-e563ae9d1097"
+    },
+    "bannerLeftTab": {
+      "__uuid__": "07b6381d-9093-4d8d-8d56-09156e282926"
+    },
+    "btnOff": {
+      "__uuid__": "0514e1b4-d7b6-418e-89e0-ac159126e6e9"
+    },
+    "btnon": {
+      "__uuid__": "a72d06a7-d8ec-4db7-968a-e72924631475"
+    },
+    "footer": {
+      "__uuid__": "dc6a8b9c-da31-4418-b9ba-6eae6a3ebc22"
+    },
+    "gradianFoot": {
+      "__uuid__": "5ff2b761-4f16-4989-ae2a-4bd56ba534dc"
+    },
+    "headerCopy": {
+      "__uuid__": "5f2d165b-9f1e-4f67-9fea-3fb3f8c0f32f"
+    },
+    "iConAnDanh": {
+      "__uuid__": "c97a77f6-e5dd-4538-b2dd-d775997a0f35"
+    },
+    "iConHuongDan": {
+      "__uuid__": "70e07483-4666-4f49-bc6b-12f5ec1f03de"
+    },
+    "iConXepHang": {
+      "__uuid__": "d721545f-4299-443d-b9af-f338a07bba70"
+    },
+    "icBanBinhThuong": {
+      "__uuid__": "675b8b63-bab2-444b-8da3-7035850c3673"
+    },
+    "icBanChung": {
+      "__uuid__": "175bd8d7-2c64-4b41-a697-139ab1a46779"
+    },
+    "icClock": {
+      "__uuid__": "3f8d6a40-6e2d-44ac-a6f1-05ea3e4ee335"
+    },
+    "iconBack": {
+      "__uuid__": "c2b7b2f5-c6c5-402c-a8cc-9b04c167be83"
+    },
+    "iconBanner": {
+      "__uuid__": "d0f19d3d-a35d-4fae-8132-79b1c449fbb2"
+    },
+    "iconChoiNhanh": {
+      "__uuid__": "59e70146-a0b7-428d-80cc-3b86f4f1001c"
+    },
+    "iconSoNguoi": {
+      "__uuid__": "95e387e9-a470-4096-9369-7afd7cb477f3"
+    },
+    "iconTaoBan": {
+      "__uuid__": "506e097b-d53d-4bfc-b98d-b0aaa306626b"
+    },
+    "iconTinTuc": {
+      "__uuid__": "b1624523-ef25-4017-8407-29a05d7e1723"
+    },
+    "progressBanThuong": {
+      "__uuid__": "fb96f56e-ec32-46cd-9222-789e859a13c8"
+    }
+  }
+}

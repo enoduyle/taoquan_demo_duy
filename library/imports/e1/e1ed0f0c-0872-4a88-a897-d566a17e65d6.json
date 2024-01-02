@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Table_JP_History",
+    "texture": "e7f019d5-4449-498f-bb01-e41a35c65c6e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      932,
+      426
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      932,
+      426
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

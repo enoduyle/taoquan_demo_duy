@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Text_ChuaCoLSuCuoc",
+    "texture": "b52a5bc5-811d-4e36-8d2b-69fa013551bf",
+    "atlas": "",
+    "rect": [
+      7,
+      0,
+      527,
+      80
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      540,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

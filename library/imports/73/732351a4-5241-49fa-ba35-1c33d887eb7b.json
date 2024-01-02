@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Icon_Jackpot_2",
+    "texture": "eedbe47b-398d-49a7-8bf5-18ac7df5f2e3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      115,
+      138
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      115,
+      138
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

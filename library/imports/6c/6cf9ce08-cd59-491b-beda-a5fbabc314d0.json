@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "AtlasScore.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Anh_lose": {
+      "__uuid__": "8334eb75-96fc-4dd7-89f1-a70c7f754c2c"
+    },
+    "Anh_win": {
+      "__uuid__": "d3743d90-d5f8-42c4-9b55-813b40a71aa5"
+    },
+    "BoDoi_lose": {
+      "__uuid__": "9fbb6669-f243-4f7d-af38-1e3fa35cf3a5"
+    },
+    "BoDoi_win": {
+      "__uuid__": "5be9a597-438f-427b-be66-23a94eb64583"
+    },
+    "Box_diem_lose": {
+      "__uuid__": "b72a950b-dc36-4f91-97d1-912cac7053b9"
+    },
+    "Box_diem_win": {
+      "__uuid__": "0dc90f72-ca2e-4ffc-9f24-3ce8486f7f2a"
+    },
+    "Lieng_lose": {
+      "__uuid__": "1b65fc0c-0b26-4673-a5a4-7ad9bfc2baac"
+    },
+    "Lieng_win": {
+      "__uuid__": "232e249b-3ad7-4b66-918b-6c2cc5905f18"
+    },
+    "Sap_lose": {
+      "__uuid__": "7406e568-5c95-449e-8a6b-3aad7d3b7286"
+    },
+    "Sap_win": {
+      "__uuid__": "e7ed8525-390e-416e-ad99-7d4a505f54de"
+    }
+  }
+}

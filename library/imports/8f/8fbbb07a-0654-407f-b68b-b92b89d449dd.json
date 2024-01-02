@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Text_SpinNo_Red",
+    "texture": "b6459332-3acd-4f5f-a1a1-df824bff18e2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      140,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      140,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

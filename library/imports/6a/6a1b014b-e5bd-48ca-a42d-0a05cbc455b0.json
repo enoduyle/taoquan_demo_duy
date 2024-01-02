@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "boderLoadingBanChoi",
+    "texture": "896eb5f1-b0ce-4143-9df6-069a9aebb95b",
+    "atlas": "0dfaab32-34a3-4050-aab7-3108e73af5aa",
+    "rect": [
+      710,
+      736,
+      268,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      268,
+      32
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

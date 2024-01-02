@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Text_LenChau",
+    "texture": "2070ac84-e25d-49ce-a8bb-a4099dd38789",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      448,
+      169
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      448,
+      169
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

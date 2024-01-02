@@ -1,0 +1,119 @@
+{
+  "__type__": "cc.EffectAsset",
+  "_name": "dissolve",
+  "_objFlags": 0,
+  "_native": "",
+  "properties": {
+    "texture": {
+      "type": 13,
+      "value": null
+    },
+    "dissolveTexture": {
+      "type": 13,
+      "value": null
+    },
+    "threshold": {
+      "value": 0.5
+    },
+    "alphaThreshold": {
+      "value": 0.5
+    }
+  },
+  "techniques": [
+    {
+      "passes": [
+        {
+          "cullMode": 0,
+          "blend": true,
+          "program": "573f6ec56738957d43b58af3b1f1ccc475039f61ce7140ec2c2c5595"
+        }
+      ],
+      "layer": 0,
+      "stages": [
+        "opaque"
+      ],
+      "queue": 0,
+      "priority": 0
+    }
+  ],
+  "shaders": [
+    {
+      "vert": "\n#define _IS_VERT_SHADER 1\n\nprecision highp float;\n\nuniform mat4 cc_matViewProj;\n\n#if _USE_MODEL\n  uniform mat4 cc_matWorld;\n#endif\n\nattribute vec3 a_position;\nattribute lowp vec4 a_color;\n\n#if USE_TEXTURE\n  attribute mediump vec2 a_uv0;\n  varying mediump vec2 v_uv0;\n#endif\n\nvarying lowp vec4 v_color;\n\nvoid main () {\n  mat4 mvp;\n  \n  #if _USE_MODEL\n    mvp = cc_matViewProj * cc_matWorld;\n  #else\n    mvp = cc_matViewProj;\n  #endif\n\n  #if USE_TEXTURE\n    v_uv0 = a_uv0;\n  #endif\n\n  v_color = a_color;\n\n  gl_Position = mvp * vec4(a_position, 1);\n}\n\n\n",
+      "frag": "\n#define _IS_FRAG_SHADER 1\n\nprecision highp float;\n\n#if USE_TEXTURE\n  uniform sampler2D texture;\n  uniform sampler2D dissolveTexture;\n\n  varying mediump vec2 v_uv0;\n#endif\n\nuniform float threshold;\n\n#if USE_ALPHA_TEST\n  uniform float alphaThreshold;\n#endif\n\nvoid ALPHA_TEST (in vec4 color) {\n  #if USE_ALPHA_TEST\n      if (color.a < alphaThreshold) discard;\n  #endif\n}\n\nvoid ALPHA_TEST (in float alpha) {\n  #if USE_ALPHA_TEST\n      if (alpha < alphaThreshold) discard;\n  #endif\n}\n\nvarying lowp vec4 v_color;\n\nvoid main () {\n  vec4 color = v_color;\n  float val;\n  #if USE_TEXTURE\n    color *= texture2D(texture, v_uv0);\n    val = texture2D(dissolveTexture, v_uv0).r;\n    #if _USE_ETC1_TEXTURE\n      color.a *= texture2D(texture, v_uv0 + vec2(0, 0.5)).r;\n    #endif\n    color.a *= smoothstep(0.,val, threshold);\n    \n    \n  #endif\n\n  ALPHA_TEST(color);\n\n  gl_FragColor = color;\n}\n\n\n",
+      "defines": [
+        {
+          "name": "_USE_MODEL",
+          "type": "boolean",
+          "defines": []
+        },
+        {
+          "name": "USE_TEXTURE",
+          "type": "boolean",
+          "defines": []
+        },
+        {
+          "name": "USE_ALPHA_TEST",
+          "type": "boolean",
+          "defines": []
+        },
+        {
+          "name": "_USE_ETC1_TEXTURE",
+          "type": "boolean",
+          "defines": [
+            "USE_TEXTURE"
+          ]
+        }
+      ],
+      "uniforms": [
+        {
+          "name": "texture",
+          "type": 13,
+          "defines": [
+            "USE_TEXTURE"
+          ]
+        },
+        {
+          "name": "dissolveTexture",
+          "type": 13,
+          "defines": [
+            "USE_TEXTURE"
+          ]
+        },
+        {
+          "name": "threshold",
+          "type": 4,
+          "defines": []
+        },
+        {
+          "name": "alphaThreshold",
+          "type": 4,
+          "property": true,
+          "defines": [
+            "USE_ALPHA_TEST"
+          ]
+        }
+      ],
+      "attributes": [
+        {
+          "name": "a_position",
+          "type": 6,
+          "defines": []
+        },
+        {
+          "name": "a_color",
+          "type": 7,
+          "defines": []
+        },
+        {
+          "name": "a_uv0",
+          "type": 5,
+          "defines": [
+            "USE_TEXTURE"
+          ]
+        }
+      ],
+      "extensions": [],
+      "name": "573f6ec56738957d43b58af3b1f1ccc475039f61ce7140ec2c2c5595"
+    }
+  ]
+}

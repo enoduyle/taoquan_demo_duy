@@ -1,0 +1,13 @@
+{
+  "__type__": "cc.Material",
+  "_name": "ShockWaveMaterial",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "d9c29ad8-0a38-4225-afa3-34d995f0104c"
+  },
+  "_defines": {
+    "USE_TEXTURE": true
+  },
+  "_props": {}
+}

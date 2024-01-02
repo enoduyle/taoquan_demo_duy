@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Btn_JPHistory_normal",
+    "texture": "2831aefd-af55-4df4-8368-dc85c9fd346b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      310,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      310,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

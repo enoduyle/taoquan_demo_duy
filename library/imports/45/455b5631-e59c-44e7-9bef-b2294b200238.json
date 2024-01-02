@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Icon_Roll",
+    "texture": "9aa8984c-6a2f-41bb-b66c-4206de8e8532",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      128,
+      97
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      128,
+      97
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

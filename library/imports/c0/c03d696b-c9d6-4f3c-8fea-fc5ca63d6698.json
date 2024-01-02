@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "coins waiting",
+    "texture": "786ed019-2466-4506-b901-6250b4b812b2",
+    "atlas": "",
+    "rect": [
+      4,
+      3,
+      885,
+      223
+    ],
+    "offset": [
+      -65.5,
+      13.5
+    ],
+    "originalSize": [
+      1024,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

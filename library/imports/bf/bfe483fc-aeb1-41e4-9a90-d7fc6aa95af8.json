@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Btn_ChiTiet_normal",
+    "texture": "23630097-477b-429e-99e3-561eff6e2a87",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      114,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      114,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

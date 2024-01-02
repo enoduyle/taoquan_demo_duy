@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Btn_Detail_hover",
+    "texture": "09809355-0f25-4bb2-adbc-6c79f10a1acd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      114,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      114,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

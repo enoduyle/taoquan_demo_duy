@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Roll_Left",
+    "texture": "64e3c891-e804-4a63-b709-cabce2ed037c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      72,
+      366
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      72,
+      366
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

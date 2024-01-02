@@ -1,0 +1,1 @@
+{"version":3,"sources":["JackpotTableHistory.js"],"names":["cc","Class","extends","require"],"mappings":";;;;;;AAAAA,GAAGC,KAAH,CAAS;AACLC,aAASC,QAAQ,kBAAR;AADJ,CAAT","file":"JackpotTableHistory.js","sourceRoot":"../../../../../../../assets/cc-common/cc-share-v1/History/Scripts","sourcesContent":["cc.Class({\n    extends: require(\"BaseTableHistory\"),\n});\n"]}

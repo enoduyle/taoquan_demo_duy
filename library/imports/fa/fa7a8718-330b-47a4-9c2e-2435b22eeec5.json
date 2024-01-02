@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "smiley_19",
+    "texture": "04d4c636-a987-44af-ba20-5167474552e2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      73,
+      67
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      73,
+      67
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

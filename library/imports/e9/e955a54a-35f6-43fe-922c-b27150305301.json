@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "FishRoll_Blue",
+    "texture": "0a9f9d02-cd6b-4d26-b4d9-4633a94ba178",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      158,
+      290
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      158,
+      290
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

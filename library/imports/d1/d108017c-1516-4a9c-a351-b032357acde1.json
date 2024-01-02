@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Roll_Green",
+    "texture": "c2efcdf6-8cc5-4fe9-b031-d4c5a14f4f7f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      157,
+      38
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      158,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

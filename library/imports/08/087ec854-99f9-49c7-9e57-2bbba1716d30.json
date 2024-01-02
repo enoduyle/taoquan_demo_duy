@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Anton_R_Gold-export",
+    "texture": "b47e79e1-c786-448d-b036-2ab093b17198",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      240,
+      253
+    ],
+    "offset": [
+      -1.5,
+      1.5
+    ],
+    "originalSize": [
+      243,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

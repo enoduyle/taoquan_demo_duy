@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Text_ALLWAYS",
+    "texture": "8e9c411b-93a2-4cb8-9b97-59fe8662d0da",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      23,
+      82
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      23,
+      82
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

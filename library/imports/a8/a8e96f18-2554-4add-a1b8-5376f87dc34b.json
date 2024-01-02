@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "winning-lighting",
+    "texture": "58b21865-5593-470a-8427-96ff7b4e2211",
+    "atlas": "",
+    "rect": [
+      0,
+      3,
+      1071,
+      1011
+    ],
+    "offset": [
+      0,
+      -1.5
+    ],
+    "originalSize": [
+      1071,
+      1014
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

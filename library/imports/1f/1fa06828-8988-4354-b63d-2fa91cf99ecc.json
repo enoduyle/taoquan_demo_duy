@@ -1,0 +1,128 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "RoomUI.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "CreateTable-btn@3x 2": {
+      "__uuid__": "92310cf4-4297-4807-a7f5-6c6c8b1b0510"
+    },
+    "CreateTable-btn@3x": {
+      "__uuid__": "409bdafd-2973-4937-9cd6-ee57b76af6fa"
+    },
+    "CreateTable-group45@3x": {
+      "__uuid__": "959afd25-057b-4d0d-9491-dc0a01f3a948"
+    },
+    "CreateTable-rectangle6@3x": {
+      "__uuid__": "c254e77e-acac-412f-93e6-8533b70d76df"
+    },
+    "CreateTable-roundedRectangle1@3x": {
+      "__uuid__": "ededc4ec-e16d-45ac-abb2-df79d21051b7"
+    },
+    "CreateTable-slideBar@3x": {
+      "__uuid__": "bb8e6dc2-8cf5-4a7f-b2b3-e7367c707554"
+    },
+    "ban5@3x": {
+      "__uuid__": "b62067c5-456d-45e2-9163-a61a25f39957"
+    },
+    "ban5Disable@3x": {
+      "__uuid__": "8773cb7e-1746-45fe-ad0e-7daaed6d3d73"
+    },
+    "ban7@3x": {
+      "__uuid__": "afde494d-c12f-4de7-9d31-94a25104fa27"
+    },
+    "ban7Disable@3x": {
+      "__uuid__": "55807f20-a071-4a5b-98d3-99aaef017fa9"
+    },
+    "ban9@3x": {
+      "__uuid__": "0ffc0145-be2b-417e-9167-062090229f8c"
+    },
+    "ban9Disable@3x": {
+      "__uuid__": "ee513148-07af-48e1-8e58-a193c0b69139"
+    },
+    "bonusBaiDep@3x": {
+      "__uuid__": "ff1cd59e-5e37-451b-8d73-af027cb44c32"
+    },
+    "btnHuongDan@3x": {
+      "__uuid__": "ce8ab1b1-3b2d-4edd-b331-df039120de2c"
+    },
+    "btnLutChoi@3x": {
+      "__uuid__": "ea324e56-adff-4f96-b60f-7595bcc523de"
+    },
+    "btnSuKien@3x": {
+      "__uuid__": "fcbf9d55-7cd8-4c2d-87ff-097555bbd72e"
+    },
+    "btnTaoBan@3x": {
+      "__uuid__": "1e77b83f-8fba-4baa-9922-5b91915786b3"
+    },
+    "btnThoat@3x": {
+      "__uuid__": "991975c3-6c00-4735-9594-2f67044a5b13"
+    },
+    "btnTinTuc@3x": {
+      "__uuid__": "4cd10362-599b-483f-82d5-54d12ae955b3"
+    },
+    "btnVaoNhanh@3x": {
+      "__uuid__": "e1a1b7d3-88a0-4729-8861-2a1a5228f5d3"
+    },
+    "btnXephang@3x": {
+      "__uuid__": "0e747b38-bc84-4deb-9cea-f9c26b3250de"
+    },
+    "buttonHighlight4Nguoi@3x": {
+      "__uuid__": "49d032a4-9e41-4f5b-abc0-dff038f017d4"
+    },
+    "buttonHighlightSolo@3x": {
+      "__uuid__": "971fde19-d800-4448-b77d-432b76cdcc54"
+    },
+    "buttonNormal4Nguoi@3x": {
+      "__uuid__": "cb44699e-537e-41e6-a5cb-d9a523ed3aa2"
+    },
+    "buttonNormalSolo@3x": {
+      "__uuid__": "dceb1fb0-c741-46f6-81ff-a87922f6e7b3"
+    },
+    "buyin_bgActive": {
+      "__uuid__": "37fb2abd-d7f4-494e-b204-be73d80d63fb"
+    },
+    "buyin_bgThanh": {
+      "__uuid__": "9e1e3377-a938-43a4-97d5-27f866327be4"
+    },
+    "buyin_bgmoney": {
+      "__uuid__": "899f035b-04f1-41bd-a5e3-f8bf0d4dec8a"
+    },
+    "buyin_thanhtruot": {
+      "__uuid__": "e4237d7d-1af2-4bc8-9780-27ad05017ef9"
+    },
+    "group35@3x": {
+      "__uuid__": "4c3e8279-c208-4c93-8046-18d89ec83ec8"
+    },
+    "group43@3x": {
+      "__uuid__": "9986ccbf-c65e-4274-8514-2f72bbcf4f43"
+    },
+    "lock": {
+      "__uuid__": "7c850ed0-1de1-405e-9613-d2757aa463e0"
+    },
+    "mUBinh@3x": {
+      "__uuid__": "701d105f-12fe-4b1d-b1fb-f794d7323f31"
+    },
+    "omaha@3x": {
+      "__uuid__": "9f3d92a4-87a8-4561-bde6-551d244fbca1"
+    },
+    "phM@3x": {
+      "__uuid__": "054521ce-0e7a-4f51-9a2d-e02ff00348f1"
+    },
+    "table7 copy": {
+      "__uuid__": "0a8089c2-9398-4594-b5a5-990bd38902c3"
+    },
+    "table7": {
+      "__uuid__": "ce4b208e-3e8d-4674-93da-336bb3726d17"
+    },
+    "table9": {
+      "__uuid__": "fb6220cf-836d-4f9c-9fc8-a9fbb33ace54"
+    },
+    "texas@3x": {
+      "__uuid__": "a48879e3-5bf8-48be-933c-1515c3144ac4"
+    },
+    "tiNLNMiNNam@3x": {
+      "__uuid__": "3e7fdfff-aea2-4f8a-892d-be1daab33909"
+    }
+  }
+}

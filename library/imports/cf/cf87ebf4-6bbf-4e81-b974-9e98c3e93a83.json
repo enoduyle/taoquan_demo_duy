@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "loadingBanChung",
+    "texture": "0b1f9c46-a959-432d-9892-bb7fb8826d4e",
+    "atlas": "50be15b8-8c48-4753-8e1c-c3e9d3da6f0b",
+    "rect": [
+      1477,
+      145,
+      238,
+      44
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      238,
+      44
+    ],
+    "rotated": 1,
+    "capInsets": [
+      58,
+      0,
+      24,
+      0
+    ]
+  }
+}

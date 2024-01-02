@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Btn_JPHistory_hover",
+    "texture": "477a2026-85d2-4d0a-8c3a-e96b8adec553",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      333,
+      94
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      333,
+      94
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

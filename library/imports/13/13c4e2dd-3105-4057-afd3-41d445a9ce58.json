@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "FishRoll_Silver",
+    "texture": "646b02d2-56b6-4bfa-b7dd-3084ef3a8094",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      158,
+      290
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      158,
+      290
+    ],
+    "capInsets": [
+      0,
+      92,
+      0,
+      99
+    ]
+  }
+}

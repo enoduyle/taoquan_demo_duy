@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Avatar21",
+    "texture": "04a6a000-015b-4a1b-8cd9-8880f6775788",
+    "atlas": "036a8316-ee81-487b-9ff9-8f79f3dd9c58",
+    "rect": [
+      291,
+      146,
+      142,
+      141
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      142,
+      141
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BandanhPhe",
+    "texture": "5d353723-f983-4bc3-b768-7a00e92ed66f",
+    "atlas": "0a052ca3-016e-4ba3-9a3e-8b0f88490a07",
+    "rect": [
+      1809,
+      1,
+      141,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      141,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

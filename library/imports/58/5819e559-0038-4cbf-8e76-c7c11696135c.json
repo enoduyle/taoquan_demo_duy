@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "X15-XanhLa",
+    "texture": "290e80e4-f3a5-40e6-b8a6-46e3fc499635",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      108,
+      72
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      108,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

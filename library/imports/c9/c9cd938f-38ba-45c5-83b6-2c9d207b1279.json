@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "X5-Do",
+    "texture": "43f526a3-53c9-4a5b-902f-3f4005fbc5d6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      88,
+      72
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      88,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

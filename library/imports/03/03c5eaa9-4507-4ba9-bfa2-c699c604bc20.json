@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Btn_NextIntro_disable",
+    "texture": "a62e5907-861e-4ab3-97a8-ebd18d0815c2",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      30,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      36,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

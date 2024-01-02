@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Text_JP_Tai",
+    "texture": "32c988ff-8b6f-498f-a713-63b4f5e16277",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      104,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      104,
+      55
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

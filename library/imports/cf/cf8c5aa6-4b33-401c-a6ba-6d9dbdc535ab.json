@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "2023_Golden_Dragon",
+    "texture": "87df3173-63b5-400c-8665-bb98d07e4798",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      165,
+      121
+    ],
+    "offset": [
+      0.5,
+      1.5
+    ],
+    "originalSize": [
+      170,
+      130
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

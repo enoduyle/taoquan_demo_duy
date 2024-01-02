@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Frame_NoHu_Tai",
+    "texture": "91984d51-c6f7-4110-bb99-00e50a1f53aa",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      780,
+      287
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      780,
+      287
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

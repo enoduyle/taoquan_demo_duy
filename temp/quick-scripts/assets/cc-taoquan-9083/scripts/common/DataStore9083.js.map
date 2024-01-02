@@ -1,0 +1,1 @@
+{"version":3,"sources":["DataStore9083.js"],"names":["cc","Class","extends","require"],"mappings":";;;;;;AAAAA,GAAGC,KAAH,CAAS;AACLC,aAASC,QAAQ,aAAR;AADJ,CAAT","file":"DataStore9083.js","sourceRoot":"../../../../assets/cc-taoquan-9083","sourcesContent":["cc.Class({\n    extends: require('DataStorev2'),\n});"]}

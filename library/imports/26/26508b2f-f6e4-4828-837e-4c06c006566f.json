@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "info_2",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "<outline color=black width=1><img src='Dot' anchorY=-0.6 scale=1/><img src='Scatter2' anchorY=0.15 scale = 1.1/>3 อันขึ้นไปปรากฏขึ้นบนวงล้อที่เรียงต่อกันนับตั้งแต่วงล้อซ้ายสุดใน BASE GAME หรือ FREE GAME\n    จะเข้าเริ่มการเลือกฟีเจอร์ใน FREE GAME\n<img src='Dot' anchorY=-0.6 scale=1/>ต้องเลือกฟีเจอร์อย่างชาญฉลาด\n\n\n    \n\n\n        \n\n\n\n<img src='Dot' anchorY=-0.6 scale=1/>                                                   ปรากฏขึ้นหลังจากเข้าฟีเจอร์ FREE SPIN\n<img src='Dot' anchorY=-0.6 scale=1/>แต่ละอันจะมีจำนวนรอบและตัวคูณแตกต่างกันซึ่งใช้สำหรับ<img src='Wild2' anchorY=0.1 scale=1.1/>ทั้งหมดที่ปรากฏในชุดค่าผสมที่ชนะ</outline>"
+}

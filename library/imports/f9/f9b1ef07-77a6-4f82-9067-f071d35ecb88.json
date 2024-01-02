@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TQ_UI_TaoBayVo",
+    "texture": "fdc60a6e-c853-4b5a-9ed9-6ecfec01bb1e",
+    "atlas": "",
+    "rect": [
+      4,
+      4,
+      952,
+      443
+    ],
+    "offset": [
+      -1,
+      -0.5
+    ],
+    "originalSize": [
+      962,
+      450
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

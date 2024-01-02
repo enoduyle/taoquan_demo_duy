@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Btn_JPHistory_disable",
+    "texture": "04982670-6f1f-409b-a10d-ef341d7bdd2d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      333,
+      94
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      333,
+      94
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Icon_FreeG",
+    "texture": "4b344dee-8d2f-48da-89de-3d1b272b2ab6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      115,
+      138
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      115,
+      138
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

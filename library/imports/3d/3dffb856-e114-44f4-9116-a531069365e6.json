@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Text_ThongBao",
+    "texture": "0cc2d481-88d3-4493-ad9c-ca84c719595e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      230,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      230,
+      54
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

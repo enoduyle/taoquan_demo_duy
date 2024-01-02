@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "info_3",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "<outline color=black width=1><img src='Dot' anchorY=-0.8 scale=1/><img src='Icon_Grand' anchorY=0.1 scale=1/> และ <img src='Icon_Major' anchorY=0.1 scale=1/> อาจจะปรากฏขึ้นพร้อมกับสัญลักษณ์ทั้งหมด (ยกเว้น <img src='Scatter2' anchorY=0.1 scale = 1.1/> และ <img src='Wild2' anchorY=0.1 scale=1.1/>)</outline>\n<outline color=black width=1><img src='Dot' anchorY=-0.8  scale=1/>หาก <img src='Icon_Grand' anchorY=0.1 scale=1/> หรือ <img src='Icon_Major' anchorY=0.1 scale=1/> 5 อันเหมือนกันปรากฏขึ้น \n   ท่านจะได้รับรางวัล GRAND หรือ MAJOR JACKPOT ทันที</outline>\n\n \n\n\n\n\n<outline color=black width=1><img src='Dot' anchorY=-0.8  scale=1/>JACKPOT 2 ประเภทสำหรับการเดิมพันทั้งหมด</outline>\n<outline color=black width=1><img src='Dot' anchorY=-0.8  scale=1/>เพิ่มยอดเดิมพันเพื่อเพิ่มโอกาสในการชนะ JACKPOT</outline>"
+}

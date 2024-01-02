@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Frame_WinAmount_half",
+    "texture": "367aad27-0e14-4430-951d-721ba9399617",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      405,
+      196
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      405,
+      196
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

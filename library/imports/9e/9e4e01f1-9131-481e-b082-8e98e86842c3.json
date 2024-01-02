@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "maskTable",
+    "texture": "612d9c4d-a904-4c7b-bd6c-0d465f63322b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      718,
+      572
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      718,
+      572
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

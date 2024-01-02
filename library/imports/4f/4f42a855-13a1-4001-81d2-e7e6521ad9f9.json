@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Saber_NearWin_01",
+    "texture": "c6a1cbb1-5410-414c-8e2a-e06ecfa1f59c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      256,
+      550
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      256,
+      550
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

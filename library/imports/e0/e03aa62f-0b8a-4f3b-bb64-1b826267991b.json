@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Text_MBG",
+    "texture": "5e264c19-7eb1-4fc7-be82-aeaf6020fe07",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      343,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      343,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

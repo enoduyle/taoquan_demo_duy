@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Btn_Turbo_off",
+    "texture": "83c33570-5288-4ed8-a7b9-68f037d129fd",
+    "atlas": "",
+    "rect": [
+      3,
+      7,
+      110,
+      83
+    ],
+    "offset": [
+      -3,
+      1.5
+    ],
+    "originalSize": [
+      122,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

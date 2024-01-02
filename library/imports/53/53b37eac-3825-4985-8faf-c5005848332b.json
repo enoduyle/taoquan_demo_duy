@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "vongDemNguoc@3x",
+    "texture": "f301f96e-e22c-4052-8dbc-1d027f7eb521",
+    "atlas": "e9edbaa2-6245-4593-b0e6-3601f05f7409",
+    "rect": [
+      268,
+      688,
+      164,
+      164
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      164,
+      164
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

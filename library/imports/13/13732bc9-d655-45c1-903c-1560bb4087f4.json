@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BG_Panel_Info_half",
+    "texture": "549c60e7-ccb4-48ce-b640-b8f00282c259",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      612,
+      680
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      612,
+      680
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

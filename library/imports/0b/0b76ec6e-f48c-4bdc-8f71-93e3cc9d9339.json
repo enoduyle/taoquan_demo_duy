@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Text_BieuTuongWild",
+    "texture": "e2385902-1dd6-4066-b409-4e4f14fdc850",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      450,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      450,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

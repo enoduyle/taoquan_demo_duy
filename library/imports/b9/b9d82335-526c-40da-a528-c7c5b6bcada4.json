@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BG_Land",
+    "texture": "9958fb32-e0bb-4f59-9ba8-9a71f595a079",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      2024,
+      1200
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      2024,
+      1200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

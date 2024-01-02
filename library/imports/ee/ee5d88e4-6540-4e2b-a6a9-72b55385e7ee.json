@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Text_LuatChoi",
+    "texture": "ab94494c-56c1-475e-86b4-78f2b99bffab",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      450,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      450,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

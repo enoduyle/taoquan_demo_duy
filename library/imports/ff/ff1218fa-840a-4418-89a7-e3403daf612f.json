@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Roll_Purple",
+    "texture": "6d24c00d-4f5f-4e99-a37f-6cdeba4c4e56",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      158,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      158,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "WildInfo",
+    "texture": "7af2b9e9-7934-4664-a717-e25febe4bc67",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      850,
+      194
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      850,
+      194
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["SlotButtonBase.js"],"names":["cc","Class","extends","Component"],"mappings":";;;;;;AAEAA,GAAGC,KAAH,CAAS;AACLC,aAASF,GAAGG;AADP,CAAT","file":"SlotButtonBase.js","sourceRoot":"../../../../../../../assets/cc-common/cc-slotbase-v2/slotGame/controller","sourcesContent":["\n\ncc.Class({\n    extends: cc.Component,\n});\n"]}

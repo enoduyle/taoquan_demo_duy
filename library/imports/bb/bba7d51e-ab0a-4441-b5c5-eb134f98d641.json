@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Text_SpinNo_Purple",
+    "texture": "81e36d43-ded4-491e-9bea-ebbaccd86fcc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      125,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      125,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

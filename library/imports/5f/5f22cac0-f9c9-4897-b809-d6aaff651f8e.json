@@ -1,0 +1,128 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "GameTo.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "Chip1": {
+      "__uuid__": "90aba401-1dbf-4c3f-87a7-c26ff3e39484"
+    },
+    "Chip2": {
+      "__uuid__": "25d1cf84-4836-413d-9ee6-1cabdcd93756"
+    },
+    "Chip3": {
+      "__uuid__": "9650dd8e-a634-4710-a64c-a719f222458a"
+    },
+    "Chip4": {
+      "__uuid__": "6d14f893-f463-4dd8-ab31-2f1bc6082c17"
+    },
+    "Chip5": {
+      "__uuid__": "52f29565-3c47-4507-8ee8-dbed7d5bc3c7"
+    },
+    "Chip6": {
+      "__uuid__": "d59e997f-6f54-4ab8-8692-0c15a962020f"
+    },
+    "Chip7": {
+      "__uuid__": "381f8d28-4602-430d-9d1f-b4795b709bbc"
+    },
+    "Chip8": {
+      "__uuid__": "a3e0ee28-e24c-4b9b-a6ad-6ef4ca7372b1"
+    },
+    "Chip9": {
+      "__uuid__": "56f8a127-7dd3-4392-8e30-149b4e4895c2"
+    },
+    "allIn": {
+      "__uuid__": "d6480884-415c-47a8-b100-7c71c5b04446"
+    },
+    "bb": {
+      "__uuid__": "867ff312-f246-44cb-b516-14519addd0d7"
+    },
+    "boxUser": {
+      "__uuid__": "f5fd23b4-6089-4b85-981f-1f6cce904d1d"
+    },
+    "btn": {
+      "__uuid__": "4b196d99-880e-4b8d-8401-bb1406727f95"
+    },
+    "btn12": {
+      "__uuid__": "91672eb5-ba21-49f7-9143-ffd008185528"
+    },
+    "btnPot": {
+      "__uuid__": "d6f99b87-84f7-4b3c-ace3-182705c72c65"
+    },
+    "buttonTheo": {
+      "__uuid__": "a4ad973e-4c9d-4310-b534-724cd055b481"
+    },
+    "buttonTheoHet": {
+      "__uuid__": "b7b8a6d1-34fe-40ed-a0cd-c941a104dfcd"
+    },
+    "buttonTheoHetHighlight": {
+      "__uuid__": "1d066d0a-2ac9-4c29-9f57-2473592b5326"
+    },
+    "buttonTo": {
+      "__uuid__": "2d8c5265-037d-4354-9d44-148945a47cd1"
+    },
+    "buttonUp": {
+      "__uuid__": "16dd0ce4-28cc-46cd-a798-0dbe10c6bf25"
+    },
+    "buttonXacNhan": {
+      "__uuid__": "7e6257cd-1ced-4ed0-9d2f-768ac66ee7b5"
+    },
+    "buttonXem": {
+      "__uuid__": "49c8f5f6-53ff-4609-982d-8293826de837"
+    },
+    "buttonXemUp": {
+      "__uuid__": "daba552a-e115-4fcd-89c0-7782d0079f4d"
+    },
+    "buttonXemUpCopyHighlight": {
+      "__uuid__": "037e19ca-bf13-439e-8331-4e8406545ad6"
+    },
+    "footerBar1": {
+      "__uuid__": "b0c1441f-5e06-4718-bb87-d32ba099f9ab"
+    },
+    "footerBar2": {
+      "__uuid__": "782b4daf-2363-4be1-9fd6-26f7faf68fc8"
+    },
+    "keyBbCopy": {
+      "__uuid__": "e19a1041-3156-42ce-8a2a-a5fa4d1b0e0f"
+    },
+    "keyD": {
+      "__uuid__": "fa13b1e3-fb6e-4435-95b2-261ac3b8144b"
+    },
+    "keySb": {
+      "__uuid__": "79712c6d-945e-49bc-bd3e-a5eedced7d97"
+    },
+    "mCCC": {
+      "__uuid__": "f248f5ba-bac6-446a-ab15-311254fc51d6"
+    },
+    "min": {
+      "__uuid__": "5899d491-5a1b-4976-8874-ffd68fc830ab"
+    },
+    "pokerOmaha copy": {
+      "__uuid__": "29a13cb7-e616-4a94-ad59-e7cef70824e6"
+    },
+    "pokerOmaha": {
+      "__uuid__": "8b59b8c5-c82b-4d7a-856b-421201c6e7c6"
+    },
+    "pot": {
+      "__uuid__": "dcc843ab-f048-4dda-987d-efc06bf0a2c1"
+    },
+    "raiseTo": {
+      "__uuid__": "cf725505-a5dd-4e2d-8655-9bf2b3d7c6a4"
+    },
+    "roundedRectangle4": {
+      "__uuid__": "8966d234-d6b1-4e35-85c1-867aab76f2f9"
+    },
+    "slideTruot": {
+      "__uuid__": "a0af9636-5bd3-4e79-889b-14e271d97c00"
+    },
+    "thanhToLopbong": {
+      "__uuid__": "5d3be2e0-9816-4c0e-b9a3-64a2bded6c93"
+    },
+    "thanhtoBase": {
+      "__uuid__": "ef85f6f4-cdbd-43f8-a074-c76389494c55"
+    },
+    "thanhtoLopmau": {
+      "__uuid__": "c4d4b495-382f-4154-9cde-c621a4f625d6"
+    }
+  }
+}

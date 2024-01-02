@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Symbol_J",
+    "texture": "d230f205-c7c8-4b14-824c-e2ae246b7599",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      134,
+      119
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      138,
+      123
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

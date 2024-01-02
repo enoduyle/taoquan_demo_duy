@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "info_1",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "<outline color=black width=1><img src='Dot' anchorY=-0.6 scale=1/>แทนที่สัญลักษณ์ทั้งหมดนอกจาก<img src='Scatter2' anchorY=0.1 scale = 1.1/>และปรากฏบนรีล 2-3-4 เท่านั้น\n<img src='Dot' anchorY=-0.6 scale=1/>ปรากฏทั้งใน BASE GAME และ FREE GAME แบบสุ่มด้วยตัวคูณที่มีมูลค่า x1, x2, \n    x3, x5, x8, x10, x15, x30 และ x40 \n<img src='Dot' anchorY=-0.6 scale=1/>ตัวคูณจะใช้กับไวลด์ทั้งหมดในชุดค่าผสมที่ชนะ</outline>"
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BG_FreeG_half",
+    "texture": "ab5776da-7aa5-4e7b-8160-7bc642550696",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1012,
+      1200
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1012,
+      1200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

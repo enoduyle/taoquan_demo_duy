@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SVN-franko-stroke",
+    "texture": "9d30419f-5ec1-4675-a475-3a33841526f5",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      507,
+      325
+    ],
+    "offset": [
+      -0.5,
+      91.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

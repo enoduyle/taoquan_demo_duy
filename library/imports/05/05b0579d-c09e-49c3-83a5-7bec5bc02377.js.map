@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../assets/mock/assets/mock/hardTokenTest.js"],"names":["globalNetwork","require","token"],"mappings":";;;;;;AAAA,IAAMA,gBAAgBC,QAAQ,eAAR,CAAtB;AACAD,cAAcE,KAAd,GAAsB,aAAtB","file":"hardTokenTest.js","sourceRoot":"../../../../assets/mock","sourcesContent":["const globalNetwork = require('globalNetwork');\nglobalNetwork.token = 'CLIENT_TEST';"]}

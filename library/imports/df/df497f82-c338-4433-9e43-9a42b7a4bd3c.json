@@ -1,0 +1,10 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "version",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "v": "0.0.1",
+    "ev": "3.1.1"
+  }
+}

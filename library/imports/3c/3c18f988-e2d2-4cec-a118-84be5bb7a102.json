@@ -1,0 +1,107 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "NewLobby.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "QRCode": {
+      "__uuid__": "4fcbccfe-a848-4296-bf37-673998a407d7"
+    },
+    "avatar": {
+      "__uuid__": "843e580e-842c-4929-8e88-f5c7ec1bc817"
+    },
+    "boderGold": {
+      "__uuid__": "d78a6f69-d1aa-4b2d-8423-babb94dac0de"
+    },
+    "boderSetting": {
+      "__uuid__": "055aa95f-8fe2-4330-84b5-931bab4ae368"
+    },
+    "caiDatICon": {
+      "__uuid__": "f5a52b0e-8e58-4b20-9d8e-c7614754255c"
+    },
+    "footerBar": {
+      "__uuid__": "75ab2a06-c16d-4c08-b11c-bd54d6a8646d"
+    },
+    "gradianL": {
+      "__uuid__": "83e5e09a-d323-4d44-9203-31dbaeff137f"
+    },
+    "gradianNotication": {
+      "__uuid__": "7a65f526-213a-44cf-b5ae-49c5b57cdc5f"
+    },
+    "iConNews": {
+      "__uuid__": "82228319-abef-40a0-a4b9-477022506f1e"
+    },
+    "iConSettings": {
+      "__uuid__": "9d37585f-ffcd-4401-ac3f-a3a46d0a3b8d"
+    },
+    "icoAddgoldCopy": {
+      "__uuid__": "983ba311-364a-4218-bb4d-8ad0331870ee"
+    },
+    "icoAvatar": {
+      "__uuid__": "7403d77b-3354-4800-b020-30d9ebe67c94"
+    },
+    "icoBack": {
+      "__uuid__": "5da599a7-f4ef-41e8-94ee-4b27111e8ab4"
+    },
+    "icoCaiDat": {
+      "__uuid__": "04d798b4-3d5c-4775-a336-3bd9e81483e1"
+    },
+    "icoDollaL": {
+      "__uuid__": "b0dd8dca-a5f2-4902-8fd1-90b7d53a666f"
+    },
+    "icoFbMessenger": {
+      "__uuid__": "325f6550-093a-4cdc-94d3-3f8a44c3bb88"
+    },
+    "icoHoTro": {
+      "__uuid__": "737a7a5b-5f87-4bdd-934f-45779e6b04c1"
+    },
+    "icoHotline": {
+      "__uuid__": "e1605484-7781-4076-a096-aef871f4b66d"
+    },
+    "icoInbox": {
+      "__uuid__": "02f09d23-ff4d-45d2-b8d9-c56b6eba3c7b"
+    },
+    "icoLiveChat": {
+      "__uuid__": "462bc8d0-47ee-403e-9453-8894eacf5d7a"
+    },
+    "icoNext": {
+      "__uuid__": "8804ecff-0a10-4e82-a972-60cb8f4bb74f"
+    },
+    "icoRutTien": {
+      "__uuid__": "92b5bfeb-c896-4fca-9e8b-d69856f3911b"
+    },
+    "icoViber": {
+      "__uuid__": "e6101df9-39a5-48c9-b0e4-3e298613fdb8"
+    },
+    "icoline": {
+      "__uuid__": "28116087-77e8-42b6-b7d4-7a7e07f2682d"
+    },
+    "iconLoa": {
+      "__uuid__": "74769c11-5ab1-4c26-a3fe-00b06a825d27"
+    },
+    "iconSettingTong": {
+      "__uuid__": "f270a252-b819-4c3b-a28a-fdd143bf87ff"
+    },
+    "iconTopcup": {
+      "__uuid__": "97693297-dec8-41a8-af84-5a01f639fdf3"
+    },
+    "lineNgang": {
+      "__uuid__": "af5411f0-a39c-4a36-8ae7-78778c24f321"
+    },
+    "livestream": {
+      "__uuid__": "6314cff8-853f-43d5-8fb0-34b1d13998bc"
+    },
+    "tinTucICon": {
+      "__uuid__": "c3d9452a-e077-496a-9ace-d28a9624190f"
+    },
+    "topCenter": {
+      "__uuid__": "9561d357-e1dc-44f8-ba09-e6a99a1beecd"
+    },
+    "topLeft": {
+      "__uuid__": "13a52b7a-cbd8-4bb7-8992-540a42722a61"
+    },
+    "xepHangICon": {
+      "__uuid__": "be53ce21-1783-4b89-8959-3d7fd4dbb778"
+    }
+  }
+}

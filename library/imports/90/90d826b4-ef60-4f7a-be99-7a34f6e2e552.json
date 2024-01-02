@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Title_CTLichSuCuoc",
+    "texture": "4562e017-44c0-40bb-822e-b5a186d9099c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      518,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      518,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

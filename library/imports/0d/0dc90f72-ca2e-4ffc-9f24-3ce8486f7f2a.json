@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Box_diem_win",
+    "texture": "a9aae9c3-dd1c-4cb6-8734-7bdb4308b767",
+    "atlas": "6cf9ce08-cd59-491b-beda-a5fbabc314d0",
+    "rect": [
+      141,
+      96,
+      141,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      141,
+      48
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

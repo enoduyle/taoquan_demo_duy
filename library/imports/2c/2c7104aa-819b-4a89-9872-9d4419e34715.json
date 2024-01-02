@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "9983_UI_TotalWin",
+    "texture": "cc2520f0-3ab9-463b-88ce-cafc57cac64b",
+    "atlas": "",
+    "rect": [
+      2,
+      45,
+      575,
+      530
+    ],
+    "offset": [
+      -0.5,
+      -21
+    ],
+    "originalSize": [
+      580,
+      578
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

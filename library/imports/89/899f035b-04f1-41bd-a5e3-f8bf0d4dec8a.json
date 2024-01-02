@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "buyin_bgmoney",
+    "texture": "6fb30082-149f-48ae-9903-420069a4c309",
+    "atlas": "1fa06828-8988-4354-b63d-2fa91cf99ecc",
+    "rect": [
+      1,
+      843,
+      295,
+      59
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      295,
+      59
+    ],
+    "capInsets": [
+      81,
+      0,
+      89,
+      0
+    ]
+  }
+}

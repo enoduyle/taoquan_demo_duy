@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BG_NgocHoang",
+    "texture": "55d8c408-9698-40db-8751-07a221f76525",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      445,
+      398
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      445,
+      398
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Frame_JP_Major",
+    "texture": "9daaee80-0b85-4261-9de2-bed114356900",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      268,
+      95
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      268,
+      95
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "HemiHeadNumber",
+    "texture": "a1863121-69fd-4ddc-9cd4-d83198199a8f",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      118,
+      91
+    ],
+    "offset": [
+      -3,
+      16.5
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

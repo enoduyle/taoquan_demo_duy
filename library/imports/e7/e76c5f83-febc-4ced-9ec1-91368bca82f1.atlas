@@ -1,0 +1,111 @@
+
+TQ_UI_TaoTrenMay.png
+size: 631,629
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 162, 148
+  size: 159, 361
+  orig: 159, 361
+  offset: 0, 0
+  index: -1
+Cloud Cover
+  rotate: false
+  xy: 503, 28
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Dau_Xanh
+  rotate: false
+  xy: 503, 57
+  size: 106, 128
+  orig: 106, 128
+  offset: 0, 0
+  index: -1
+Day
+  rotate: true
+  xy: 163, 46
+  size: 100, 179
+  orig: 100, 179
+  offset: 0, 0
+  index: -1
+Hair_Back
+  rotate: true
+  xy: 611, 521
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+Hand
+  rotate: false
+  xy: 2, 7
+  size: 159, 134
+  orig: 159, 134
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 544, 520
+  size: 65, 107
+  orig: 65, 107
+  offset: 0, 0
+  index: -1
+Smoke Blue
+  rotate: false
+  xy: 2, 511
+  size: 540, 116
+  orig: 540, 116
+  offset: 0, 0
+  index: -1
+String_Left
+  rotate: false
+  xy: 611, 535
+  size: 13, 92
+  orig: 13, 92
+  offset: 0, 0
+  index: -1
+String_Right
+  rotate: true
+  xy: 163, 31
+  size: 13, 119
+  orig: 13, 119
+  offset: 0, 0
+  index: -1
+Tay_Xanh
+  rotate: false
+  xy: 344, 7
+  size: 157, 155
+  orig: 157, 155
+  offset: 0, 0
+  index: -1
+Than_Xanh
+  rotate: false
+  xy: 323, 164
+  size: 157, 345
+  orig: 157, 345
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 482, 187
+  size: 90, 133
+  orig: 90, 133
+  offset: 0, 0
+  index: -1
+tay
+  rotate: false
+  xy: 482, 322
+  size: 92, 187
+  orig: 92, 187
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 2, 143
+  size: 158, 366
+  orig: 158, 366
+  offset: 0, 0
+  index: -1

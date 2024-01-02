@@ -1,0 +1,55 @@
+
+bigwin.png
+size: 1034,570
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+No hu2_TQ
+  rotate: false
+  xy: 2, 335
+  size: 918, 233
+  orig: 918, 233
+  offset: 0, 0
+  index: -1
+effect light1
+  rotate: false
+  xy: 408, 16
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+tex_Tai
+  rotate: false
+  xy: 2, 2
+  size: 201, 96
+  orig: 201, 96
+  offset: 0, 0
+  index: -1
+tex_Tai2
+  rotate: false
+  xy: 205, 2
+  size: 201, 96
+  orig: 201, 96
+  offset: 0, 0
+  index: -1
+text_Loc
+  rotate: true
+  xy: 922, 354
+  size: 214, 110
+  orig: 214, 110
+  offset: 0, 0
+  index: -1
+text_Loc2
+  rotate: true
+  xy: 922, 138
+  size: 214, 110
+  orig: 214, 110
+  offset: 0, 0
+  index: -1
+thanglon
+  rotate: false
+  xy: 2, 100
+  size: 918, 233
+  orig: 918, 233
+  offset: 0, 0
+  index: -1

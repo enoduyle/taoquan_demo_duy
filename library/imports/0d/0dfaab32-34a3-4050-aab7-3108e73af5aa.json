@@ -1,0 +1,251 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "UiKit.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "avatarLarge": {
+      "__uuid__": "9c5b62f2-f8d2-47af-9121-70e07ba91dc7"
+    },
+    "avatarNormal": {
+      "__uuid__": "a32a3910-f9d7-43a4-a9ed-49aa47346026"
+    },
+    "bannerThongBao": {
+      "__uuid__": "7c316b7c-0f64-41de-950d-53e7450c8071"
+    },
+    "boderAvatar": {
+      "__uuid__": "55100695-c262-439c-88a0-0548b94cc6de"
+    },
+    "boderAvatarmini": {
+      "__uuid__": "ec2f8c00-b187-4f20-b48a-86039844d462"
+    },
+    "boderAvatrnormal": {
+      "__uuid__": "0bd28e44-73c5-48f5-bec9-1175b1a4b3ae"
+    },
+    "boderBan": {
+      "__uuid__": "1cc9139e-866d-4307-ad69-e5acb44c06ef"
+    },
+    "boderBlack": {
+      "__uuid__": "e9858d7b-3bd5-4c82-802f-da0e44af1060"
+    },
+    "boderChatLarge": {
+      "__uuid__": "85664743-936a-4461-9de9-e30049032107"
+    },
+    "boderCheckpont": {
+      "__uuid__": "72e5b0d6-3c36-448b-95b3-0f26467e9ac1"
+    },
+    "boderCuoc": {
+      "__uuid__": "ec5ffa7f-8ad1-438d-8cf9-5cea70c4a3f0"
+    },
+    "boderLoadingBanChoi": {
+      "__uuid__": "6a1b014b-e5bd-48ca-a42d-0a05cbc455b0"
+    },
+    "boderMoiBan": {
+      "__uuid__": "e3005587-4f48-438b-b850-c4b908f0375f"
+    },
+    "boderMoneyLose": {
+      "__uuid__": "41aa2582-8dd9-47c1-b97b-5df508383811"
+    },
+    "boderMoneyWin": {
+      "__uuid__": "89034b0d-ec57-47a1-8002-061fdcd3802d"
+    },
+    "boderMoneyWinCopy2": {
+      "__uuid__": "e735a2a9-5b11-423a-bf57-df3d2bf3be16"
+    },
+    "boderNamgeGame": {
+      "__uuid__": "5ff9172c-cfab-41e8-b85b-0110265f3609"
+    },
+    "boderNoiDungChat": {
+      "__uuid__": "2e03b1ca-d1e4-4c21-b8be-809016f45926"
+    },
+    "boderNoiDungChatCopy": {
+      "__uuid__": "8692c042-e32a-43fe-97ae-abdca7605b79"
+    },
+    "boderSetting": {
+      "__uuid__": "ef9cfa54-e4db-4c9b-9cf5-176e080d6bf3"
+    },
+    "btnBb": {
+      "__uuid__": "6685febe-274d-4f86-bfbf-767e522e4277"
+    },
+    "btnD": {
+      "__uuid__": "4ed5c33e-cea7-4a1f-ad14-d242b1a1a561"
+    },
+    "btnSb": {
+      "__uuid__": "4102aa05-5c88-42f0-b852-e4428749f53f"
+    },
+    "buttonAnBai": {
+      "__uuid__": "7f55a6a5-d15d-4725-8fa3-675012c14f14"
+    },
+    "buttonBaoBinh": {
+      "__uuid__": "9f37e1d6-f494-4dc2-948e-a260ba17e960"
+    },
+    "buttonBaoSam": {
+      "__uuid__": "f5188d52-f25b-4ec1-969d-b60307ee6a02"
+    },
+    "buttonBaoU": {
+      "__uuid__": "c4a68465-fd3c-419a-bb4b-c7b7a1c45416"
+    },
+    "buttonBatDau": {
+      "__uuid__": "200323b0-c2e7-4348-9815-3465aa97d106"
+    },
+    "buttonBoLuot": {
+      "__uuid__": "b1e6ace3-9543-4943-a9cc-0ff3677a30d2"
+    },
+    "buttonChi1": {
+      "__uuid__": "42a25500-dd60-4676-8299-15d9a67b3fb2"
+    },
+    "buttonChi2": {
+      "__uuid__": "4b256980-a93c-4726-a844-c94f9325b53a"
+    },
+    "buttonChi3": {
+      "__uuid__": "fb8b81ab-cf21-4612-be29-817f82fa358f"
+    },
+    "buttonDanh": {
+      "__uuid__": "058e387e-c070-4d06-867d-8e59d0ca0274"
+    },
+    "buttonDongY": {
+      "__uuid__": "71914382-a303-4642-af2a-31a9a49bab63"
+    },
+    "buttonHuy": {
+      "__uuid__": "8a28709b-cc3a-4544-88cd-5f03681a8bf5"
+    },
+    "buttonKetQua": {
+      "__uuid__": "5204a421-b713-42b9-934d-999a018e352f"
+    },
+    "buttonKhongText": {
+      "__uuid__": "223fab2d-0ae8-459b-9ac8-88bfa422ad87"
+    },
+    "buttonLichSu": {
+      "__uuid__": "0edcbd28-58d7-42f7-a268-ae5babef6ce0"
+    },
+    "buttonMoi": {
+      "__uuid__": "a63d71f4-6794-4a4e-ba8c-95728925fb33"
+    },
+    "buttonOnOf": {
+      "__uuid__": "e9b21ad2-738e-47d9-a0de-b2ea7996f397"
+    },
+    "buttonSanSang": {
+      "__uuid__": "a5a423de-1514-4a47-a068-bfb518653284"
+    },
+    "buttonTuChoi": {
+      "__uuid__": "20d1671e-ceba-487c-b3e9-c5f3207979e3"
+    },
+    "buttonXPLai": {
+      "__uuid__": "2b6ea242-bef6-4d0f-83c6-8f208ec03b9a"
+    },
+    "buttonXacNhan": {
+      "__uuid__": "15f33be9-37b0-4dd4-a6f4-b063598f04d8"
+    },
+    "buttonXepNhanh": {
+      "__uuid__": "5050e5ff-7328-4a65-b2d5-28f10e607f92"
+    },
+    "buttonXepXong": {
+      "__uuid__": "564e18b4-a468-410b-8a24-bf29d20a2a6e"
+    },
+    "buttonXepbai": {
+      "__uuid__": "d127e44a-3430-4837-8f2b-7e12ebebfd1a"
+    },
+    "chatAutoOff": {
+      "__uuid__": "a2ebf9ef-bae5-44b5-9c54-0264c6cf046e"
+    },
+    "chatHistoryOn": {
+      "__uuid__": "22940312-023f-428a-8092-eba7c40f468f"
+    },
+    "chatInputOn": {
+      "__uuid__": "a86d7ab7-6fe9-4fbf-8a4d-59e0bd393701"
+    },
+    "chatIputOff": {
+      "__uuid__": "113448c7-a052-4cca-a34c-0d0c82ff40ab"
+    },
+    "checkpoint": {
+      "__uuid__": "e701a5ab-366f-441f-9ed7-fb5eba626be8"
+    },
+    "effectLoeSang": {
+      "__uuid__": "3f9dc372-8b80-454c-8c2f-7405b05c15e2"
+    },
+    "emoji": {
+      "__uuid__": "22b8c10b-4e18-432f-a5dd-3a687b710263"
+    },
+    "gradianBuyIn": {
+      "__uuid__": "3e1d426a-1851-4d3c-80b5-4ba21dea136b"
+    },
+    "gradiandChat": {
+      "__uuid__": "a524d624-7119-48e3-9bba-50f46f6b89e8"
+    },
+    "iconBaoVay": {
+      "__uuid__": "94a8e9dc-6ec1-478d-baea-1d19d2ac0ace"
+    },
+    "iconBoderCheck": {
+      "__uuid__": "a3f39c2e-7b18-4cee-898c-c4e5eaffcf85"
+    },
+    "iconChat 2": {
+      "__uuid__": "7f8ddb4c-0f71-4083-a790-02acbdb632cf"
+    },
+    "iconChat": {
+      "__uuid__": "48dc09f0-2729-4e5c-81e1-3f77d42c530a"
+    },
+    "iconCheckCopy": {
+      "__uuid__": "f78f4fb3-5d85-4412-85d1-745c9cd198f9"
+    },
+    "iconClose": {
+      "__uuid__": "aec10167-0ec9-4f42-9e62-b754ce0d2199"
+    },
+    "iconHuongDan": {
+      "__uuid__": "eea8f1c2-58f4-4429-b1fb-2efd79240455"
+    },
+    "iconOnoff": {
+      "__uuid__": "80ee86d9-7bce-48c1-a295-f801ea879dac"
+    },
+    "iconPlus": {
+      "__uuid__": "3525955c-5a10-4845-8a70-db6245571459"
+    },
+    "iconPopupChat": {
+      "__uuid__": "61b2364a-1e25-4b9d-a798-c836665da18f"
+    },
+    "iconRutBai": {
+      "__uuid__": "2610011c-9fd0-4636-930a-ff33c694765b"
+    },
+    "iconSetting": {
+      "__uuid__": "6c6fa7d5-cba8-4ac7-affa-be1c783a8c37"
+    },
+    "iconSetting2": {
+      "__uuid__": "0ee5b329-05f9-4d07-8797-0537571b5de6"
+    },
+    "iconThayAvatar": {
+      "__uuid__": "d6400f0d-589f-4a35-8069-a9f60083e387"
+    },
+    "iconThoatBan": {
+      "__uuid__": "f8c77786-2f17-4d3a-8e2b-ab407a417eb7"
+    },
+    "icondolla": {
+      "__uuid__": "0fd15f1b-beaa-498e-a633-6b027775d02d"
+    },
+    "inputTexthat": {
+      "__uuid__": "1ebbe3b8-5200-41b1-97bd-01835eac9774"
+    },
+    "lingNgang": {
+      "__uuid__": "0eedcf8f-60db-4f6c-8dd3-a2eafc3b1100"
+    },
+    "loadingBanChoi": {
+      "__uuid__": "7a6b37d1-cce7-4442-81aa-86af8c6215e6"
+    },
+    "loadingLarge": {
+      "__uuid__": "6e0c1db6-570b-4fcb-a422-40b3fcf380c5"
+    },
+    "loadingNormal": {
+      "__uuid__": "c9bf1048-da70-4aaf-abb1-656261f0ebb5"
+    },
+    "masterRoom": {
+      "__uuid__": "468bf889-4f6b-4462-93e0-404feb83cf20"
+    },
+    "nameBoderCopy": {
+      "__uuid__": "4526e1fc-6705-48c2-b648-401f894321ce"
+    },
+    "popupChat": {
+      "__uuid__": "30bb25af-f17f-4718-a214-81870b41e53c"
+    },
+    "timeCountdown": {
+      "__uuid__": "1fe1bc60-24a4-4197-adf9-7076e47c10d6"
+    }
+  }
+}

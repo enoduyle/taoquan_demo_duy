@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Arial",
+    "texture": "c26e9d7a-f59b-4f11-b78f-e6816d787fb5",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      507,
+      249
+    ],
+    "offset": [
+      -0.5,
+      1.5
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

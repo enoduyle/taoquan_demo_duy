@@ -1,0 +1,1 @@
+{"version":3,"sources":["BetHistory4LBase.js"],"names":["cc","Class","extends","require"],"mappings":";;;;;;AAEAA,GAAGC,KAAH,CAAS;AACLC,aAASC,QAAQ,YAAR;AADJ,CAAT","file":"BetHistory4LBase.js","sourceRoot":"../../../../../../../assets/cc-common/cc-slotbase-v2/slotGame/BetHistory","sourcesContent":["\n\ncc.Class({\n    extends: require(\"BetHistory\"),\n});\n"]}

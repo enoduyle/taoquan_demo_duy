@@ -1,0 +1,167 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "CardsBlur.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "icCard10A": {
+      "__uuid__": "d6b06287-4364-4a2d-8d2c-e4369aec5339"
+    },
+    "icCard10B": {
+      "__uuid__": "eeb92d85-0615-4695-bf4e-28b7d5a066c9"
+    },
+    "icCard10C": {
+      "__uuid__": "b9e1c13e-ac43-4c3f-af08-7c5c5ecae1f2"
+    },
+    "icCard10D": {
+      "__uuid__": "a7a4347f-3dc8-467e-b03b-9b63bbbb7721"
+    },
+    "icCard11A": {
+      "__uuid__": "91c128c8-3721-40ec-a840-61a7ea408231"
+    },
+    "icCard11B": {
+      "__uuid__": "b1e17488-ff10-45f3-85e4-15d998175240"
+    },
+    "icCard11C": {
+      "__uuid__": "471893b6-f587-474b-aaf8-5c42b4329924"
+    },
+    "icCard11D": {
+      "__uuid__": "97e97902-972d-4c13-834b-c7d6bab2be26"
+    },
+    "icCard12A": {
+      "__uuid__": "66ca222f-abde-4337-ba80-e973e693918a"
+    },
+    "icCard12B": {
+      "__uuid__": "1e941253-85cf-45f5-b1f6-2b015d84acb9"
+    },
+    "icCard12C": {
+      "__uuid__": "12251ecf-6e3b-4472-bfed-7102f9bd9d4f"
+    },
+    "icCard12D": {
+      "__uuid__": "f0fc78f3-c3ea-4a27-9a4c-08bbe4ac0141"
+    },
+    "icCard13A": {
+      "__uuid__": "e36f9669-0d63-4596-8fa0-085ebce9bf51"
+    },
+    "icCard13B": {
+      "__uuid__": "4f6f4794-e259-40ac-8530-9b4aa71d7b3d"
+    },
+    "icCard13C": {
+      "__uuid__": "dea8bdef-25a6-47e8-80f9-4d0ca5656c72"
+    },
+    "icCard13D": {
+      "__uuid__": "5d07e19b-26ed-46c1-8b9f-7e937b9992bb"
+    },
+    "icCard1A": {
+      "__uuid__": "dcbf3c12-d331-401f-9844-8218a7684df2"
+    },
+    "icCard1B": {
+      "__uuid__": "df407377-9488-405b-b07c-e0b1e72c1228"
+    },
+    "icCard1C": {
+      "__uuid__": "bae5833a-39ed-4776-9233-2fde31232712"
+    },
+    "icCard1D": {
+      "__uuid__": "5a08e26b-06e9-418c-856a-4147809d4cb0"
+    },
+    "icCard2A": {
+      "__uuid__": "c08fcb44-747f-4345-b26f-c90fd29f35a1"
+    },
+    "icCard2B": {
+      "__uuid__": "e8e76061-75bd-4f9c-93ba-06047ff79dff"
+    },
+    "icCard2C": {
+      "__uuid__": "82513d65-bc23-44fc-a910-4670fb49c6f0"
+    },
+    "icCard2D": {
+      "__uuid__": "211db978-5102-4c76-8d39-2de9cc0cc22e"
+    },
+    "icCard3A": {
+      "__uuid__": "cc52f4f2-d9c8-4211-b548-9a2c0b64201e"
+    },
+    "icCard3B": {
+      "__uuid__": "91796a51-c56b-4a71-9a0e-8c098e9d0d55"
+    },
+    "icCard3C": {
+      "__uuid__": "642e0ff2-152a-46b5-b52b-6ea16153e034"
+    },
+    "icCard3D": {
+      "__uuid__": "61b0130c-9d84-4ba3-894a-d678b37e8cd8"
+    },
+    "icCard4A": {
+      "__uuid__": "e69dea8c-4221-4f5e-b862-e6a80a744eff"
+    },
+    "icCard4B": {
+      "__uuid__": "fd6d3740-726d-4341-8e62-d412ce9bed4b"
+    },
+    "icCard4C": {
+      "__uuid__": "bcc3a3df-eb73-4ad5-8aa1-32ddf9d9a397"
+    },
+    "icCard4D": {
+      "__uuid__": "459e278b-1443-4b91-b9b6-618f1312b611"
+    },
+    "icCard5A": {
+      "__uuid__": "b2e1450d-88c9-4953-9f38-1816574f80f2"
+    },
+    "icCard5B": {
+      "__uuid__": "be213439-d3b0-48e2-a6cb-2676ff02287b"
+    },
+    "icCard5C": {
+      "__uuid__": "048319ef-876e-47af-af88-bfba79765738"
+    },
+    "icCard5D": {
+      "__uuid__": "e26487e1-9906-44b2-b4e3-3e2c8fc1a0ee"
+    },
+    "icCard6A": {
+      "__uuid__": "ca506ddd-0cea-4794-a201-680c2787a0a6"
+    },
+    "icCard6B": {
+      "__uuid__": "20e58a5a-b18f-44d3-a7d7-24a12e660770"
+    },
+    "icCard6C": {
+      "__uuid__": "a3c68a43-1098-46ba-8749-97a84d6c0110"
+    },
+    "icCard6D": {
+      "__uuid__": "e7f06519-a15f-41ed-b117-872532842ead"
+    },
+    "icCard7A": {
+      "__uuid__": "4cea8c90-b830-4a78-b099-a8cf3bda6c31"
+    },
+    "icCard7B": {
+      "__uuid__": "155dfb97-173e-48d2-b899-b58825ce9abf"
+    },
+    "icCard7C": {
+      "__uuid__": "a5de32a4-1776-4986-a0e2-e7e00d6df282"
+    },
+    "icCard7D": {
+      "__uuid__": "48effd9f-5245-4dc1-a1a5-eb9b123edac1"
+    },
+    "icCard8A": {
+      "__uuid__": "7904130b-ad15-41a7-88e3-ed763a12bf6f"
+    },
+    "icCard8B": {
+      "__uuid__": "4fa3e90f-c08c-4fcb-a803-53fd83e4e966"
+    },
+    "icCard8C": {
+      "__uuid__": "471c0f25-7acb-41e7-98f0-fab28604cac9"
+    },
+    "icCard8D": {
+      "__uuid__": "3e7ded9d-ff7d-4a13-bd40-6fcd77a43ffc"
+    },
+    "icCard9A": {
+      "__uuid__": "7c7b70d5-fe87-43f2-82ce-9092ac86f47b"
+    },
+    "icCard9B": {
+      "__uuid__": "1098ebf3-71dd-4557-9d18-9af484941502"
+    },
+    "icCard9C": {
+      "__uuid__": "0bdd6e44-b154-4dae-9b20-10904334cc4c"
+    },
+    "icCard9D": {
+      "__uuid__": "e677cbde-cf69-4e50-a3a8-b5d317976238"
+    },
+    "icCardback": {
+      "__uuid__": "443aef37-9bae-435f-b976-92aba0b5bac7"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BG_Mask",
+    "texture": "b38ab81a-3a67-4cad-8657-7f969f54dca1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      2024,
+      1200
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      2024,
+      1200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

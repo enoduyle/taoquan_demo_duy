@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "X2-Tim",
+    "texture": "643e085d-70e9-40e6-acfc-55796dca3f24",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      84,
+      72
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      84,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

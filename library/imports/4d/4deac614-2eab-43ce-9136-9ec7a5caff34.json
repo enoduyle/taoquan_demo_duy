@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Text_HuTaiLoc",
+    "texture": "bf49c863-8231-44f6-b4f9-bb9cac919b0f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      450,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      450,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SVN-franko",
+    "texture": "1785bb15-1087-4800-ae14-0ba6d65f496c",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      507,
+      256
+    ],
+    "offset": [
+      -0.5,
+      126
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TQ_VFX_WinLine_02",
+    "texture": "0ac1d84a-8def-4f33-9704-801c3e122789",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      254,
+      260
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      254,
+      260
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

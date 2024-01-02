@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icCard7C",
+    "texture": "b1d13ff2-e864-431b-a5d1-34760783ce91",
+    "atlas": "ff58aa00-45c4-4995-83f4-85a40f0685c4",
+    "rect": [
+      394,
+      1010,
+      123,
+      193
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      123,
+      193
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icCard10B",
+    "texture": "b493bba9-cb19-408d-ba21-cb96060b8888",
+    "atlas": "073544bf-f2e3-4fbc-bebc-93829bd840ef",
+    "rect": [
+      2,
+      162,
+      123,
+      157
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      123,
+      157
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

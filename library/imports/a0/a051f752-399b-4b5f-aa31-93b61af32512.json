@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Decor_Button",
+    "texture": "5fc0ac11-8715-45fa-ad7e-4dee61a89017",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      45,
+      232
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      46,
+      232
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

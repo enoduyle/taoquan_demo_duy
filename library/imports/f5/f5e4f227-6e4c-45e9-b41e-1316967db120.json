@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wildSymbol_KTT",
+    "texture": "1629432b-77d2-4009-9b24-2bbe25643b7d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      268,
+      744
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      268,
+      744
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

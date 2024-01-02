@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Btn_Next_disable",
+    "texture": "8e8b0cb8-7841-443b-b5d2-221364bee6ab",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      66,
+      122
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      66,
+      122
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Swiss_YO_Br-export",
+    "texture": "42567c95-72af-49e2-93de-93967a3374fa",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      512,
+      511.6
+    ],
+    "offset": [
+      0,
+      0.19999999999998863
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

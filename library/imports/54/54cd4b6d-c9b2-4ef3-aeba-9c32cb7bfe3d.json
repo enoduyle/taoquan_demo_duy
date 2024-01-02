@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Paytable",
+    "texture": "75475da3-e13e-4d43-98b3-dc249ac90927",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      900,
+      340
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      900,
+      340
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

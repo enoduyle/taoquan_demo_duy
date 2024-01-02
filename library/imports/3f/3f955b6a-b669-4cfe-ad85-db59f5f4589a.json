@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TotalBet",
+    "texture": "5536a680-dec7-42fb-92cb-ee214abe9a36",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      204,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      204,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

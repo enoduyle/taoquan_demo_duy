@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ScatterInfo",
+    "texture": "42ee75e9-6e72-471c-9614-5921f9677f55",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      828,
+      142
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      828,
+      142
+    ],
+    "capInsets": [
+      263,
+      0,
+      52,
+      0
+    ]
+  }
+}

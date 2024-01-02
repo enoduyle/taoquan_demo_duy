@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Frame_Noti",
+    "texture": "d77881e0-dbcd-4036-838d-0f820f7cce2c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      502,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      502,
+      60
+    ],
+    "capInsets": [
+      0,
+      23,
+      0,
+      26
+    ]
+  }
+}

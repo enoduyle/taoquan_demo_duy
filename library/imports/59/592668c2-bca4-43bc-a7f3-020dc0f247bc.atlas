@@ -1,0 +1,125 @@
+
+Symbol_5.png
+size: 961,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_new
+  rotate: false
+  xy: 470, 118
+  size: 158, 150
+  orig: 158, 150
+  offset: 0, 0
+  index: -1
+Frame_Bright_new
+  rotate: false
+  xy: 630, 118
+  size: 158, 150
+  orig: 158, 150
+  offset: 0, 0
+  index: -1
+Frame_new
+  rotate: false
+  xy: 790, 118
+  size: 158, 150
+  orig: 158, 150
+  offset: 0, 0
+  index: -1
+L_eyewhite
+  rotate: true
+  xy: 2, 2
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+L_pupil
+  rotate: false
+  xy: 369, 26
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+Light
+  rotate: false
+  xy: 2, 18
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+Light_Ray
+  rotate: false
+  xy: 254, 54
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+R_eyewhite
+  rotate: false
+  xy: 595, 50
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+R_pupil
+  rotate: false
+  xy: 595, 28
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 470, 19
+  size: 123, 56
+  orig: 123, 56
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 322, 12
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+lower_jaw
+  rotate: false
+  xy: 771, 18
+  size: 133, 98
+  orig: 133, 98
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 470, 77
+  size: 162, 39
+  orig: 162, 39
+  offset: 0, 0
+  index: -1
+paw
+  rotate: false
+  xy: 254, 7
+  size: 66, 45
+  orig: 66, 45
+  offset: 0, 0
+  index: -1
+sphere
+  rotate: true
+  xy: 906, 62
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+sphere_glow
+  rotate: true
+  xy: 906, 6
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+upper_jaw
+  rotate: false
+  xy: 634, 11
+  size: 135, 105
+  orig: 135, 105
+  offset: 0, 0
+  index: -1

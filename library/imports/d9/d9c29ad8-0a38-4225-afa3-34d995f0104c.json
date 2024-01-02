@@ -1,0 +1,145 @@
+{
+  "__type__": "cc.EffectAsset",
+  "_name": "ShockWaveEffect",
+  "_objFlags": 0,
+  "_native": "",
+  "properties": {
+    "texture": {
+      "type": 13,
+      "value": null
+    },
+    "alphaThreshold": {
+      "value": 0.5
+    }
+  },
+  "techniques": [
+    {
+      "passes": [
+        {
+          "cullMode": 0,
+          "blend": true,
+          "program": "3fcf6c68f9c6dbb73b9cadb4d0924fd0e899ee003bfa4f648c2ee47e"
+        }
+      ],
+      "layer": 0,
+      "stages": [
+        "opaque"
+      ],
+      "queue": 0,
+      "priority": 0
+    }
+  ],
+  "shaders": [
+    {
+      "vert": "\n#define _IS_VERT_SHADER 1\n\nprecision highp float;\n\nuniform mat4 cc_matViewProj;\n\n#if _USE_MODEL\n  uniform mat4 cc_matWorld;\n#endif\n\nattribute vec3 a_position;\nattribute lowp vec4 a_color;\n\n#if USE_TEXTURE\n  attribute mediump vec2 a_uv0;\n  varying mediump vec2 v_uv0;\n#endif\n\nvarying lowp vec4 v_color;\n\nvoid main () {\n  mat4 mvp;\n  \n  #if _USE_MODEL\n    mvp = cc_matViewProj * cc_matWorld;\n  #else\n    mvp = cc_matViewProj;\n  #endif\n\n  #if USE_TEXTURE\n    v_uv0 = a_uv0;\n  #endif\n\n  v_color = a_color;\n\n  gl_Position = mvp * vec4(a_position, 1);\n}\n\n\n",
+      "frag": "\n#define _IS_FRAG_SHADER 1\n\nprecision highp float;\n\n#if USE_TEXTURE\n  uniform sampler2D texture;\n  varying mediump vec2 v_uv0;\n#endif\n\n#if USE_ALPHA_TEST\n  uniform float alphaThreshold;\n#endif\n\nvoid ALPHA_TEST (in vec4 color) {\n  #if USE_ALPHA_TEST\n      if (color.a < alphaThreshold) discard;\n  #endif\n}\n\nvoid ALPHA_TEST (in float alpha) {\n  #if USE_ALPHA_TEST\n      if (alpha < alphaThreshold) discard;\n  #endif\n}\n\nuniform vec4 filterArea;\nuniform vec4 filterClamp;\nuniform vec2 center;\nuniform float amplitude;\nuniform float wavelength;\nuniform float brightness;\nuniform float speed;\nuniform float radius;\nuniform float time;\n\nconst float PI = 3.14159;\n\nvarying lowp vec4 v_color;\n\nvoid main () {\n  vec4 color = v_color;\n\n  #if USE_TEXTURE\n    color *= texture2D(texture, v_uv0);\n    #if _USE_ETC1_TEXTURE\n      color.a *= texture2D(texture, v_uv0 + vec2(0, 0.5)).r;\n    #endif\n  #endif\n\n  ALPHA_TEST(color);\n\n  float halfWavelength = wavelength * 0.5 / filterArea.x;\n  float maxRadius = radius / filterArea.x;\n  float currentRadius = time * speed / filterArea.x;\n\n  float fade = 1.0;\n\n  if (maxRadius > 0.0) {\n      if (currentRadius > maxRadius) {\n          gl_FragColor = texture2D(texture, v_uv0);\n          return;\n      }\n      fade = 1.0 - pow(currentRadius / maxRadius, 2.0);\n  }\n\n  vec2 dir = vec2(v_uv0 - center / filterArea.xy);\n  dir.y *= filterArea.y / filterArea.x;\n  float dist = length(dir);\n\n  if (dist <= 0.0 || dist < currentRadius - halfWavelength || dist > currentRadius + halfWavelength) {\n      gl_FragColor = texture2D(texture, v_uv0);\n      return;\n  }\n\n  vec2 diffUV = normalize(dir);\n\n  float diff = (dist - currentRadius) / halfWavelength;\n\n  float p = 1.0 - pow(abs(diff), 2.0);\n\n  float powDiff = 1.25 * sin(diff * PI) * p * ( amplitude * fade );\n\n  vec2 offset = diffUV * powDiff / filterArea.xy;\n\n  vec2 coord = v_uv0 + offset;\n  vec2 clampedCoord = clamp(coord, filterClamp.xy, filterClamp.zw);\n  color = texture2D(texture, clampedCoord);\n  if (coord != clampedCoord) {\n      color *= max(0.0, 1.0 - length(coord - clampedCoord));\n  }\n\n  color.rgb *= 1.0 + (brightness - 1.0) * p * fade;\n\n  gl_FragColor = color;\n\n}\n\n\n",
+      "defines": [
+        {
+          "name": "_USE_MODEL",
+          "type": "boolean",
+          "defines": []
+        },
+        {
+          "name": "USE_TEXTURE",
+          "type": "boolean",
+          "defines": []
+        },
+        {
+          "name": "USE_ALPHA_TEST",
+          "type": "boolean",
+          "defines": []
+        },
+        {
+          "name": "_USE_ETC1_TEXTURE",
+          "type": "boolean",
+          "defines": [
+            "USE_TEXTURE"
+          ]
+        }
+      ],
+      "uniforms": [
+        {
+          "name": "texture",
+          "type": 13,
+          "defines": [
+            "USE_TEXTURE"
+          ]
+        },
+        {
+          "name": "alphaThreshold",
+          "type": 4,
+          "property": true,
+          "defines": [
+            "USE_ALPHA_TEST"
+          ]
+        },
+        {
+          "name": "filterArea",
+          "type": 7,
+          "defines": []
+        },
+        {
+          "name": "filterClamp",
+          "type": 7,
+          "defines": []
+        },
+        {
+          "name": "center",
+          "type": 5,
+          "defines": []
+        },
+        {
+          "name": "amplitude",
+          "type": 4,
+          "defines": []
+        },
+        {
+          "name": "wavelength",
+          "type": 4,
+          "defines": []
+        },
+        {
+          "name": "brightness",
+          "type": 4,
+          "defines": []
+        },
+        {
+          "name": "speed",
+          "type": 4,
+          "defines": []
+        },
+        {
+          "name": "radius",
+          "type": 4,
+          "defines": []
+        },
+        {
+          "name": "time",
+          "type": 4,
+          "defines": []
+        }
+      ],
+      "attributes": [
+        {
+          "name": "a_position",
+          "type": 6,
+          "defines": []
+        },
+        {
+          "name": "a_color",
+          "type": 7,
+          "defines": []
+        },
+        {
+          "name": "a_uv0",
+          "type": 5,
+          "defines": [
+            "USE_TEXTURE"
+          ]
+        }
+      ],
+      "extensions": [],
+      "name": "3fcf6c68f9c6dbb73b9cadb4d0924fd0e899ee003bfa4f648c2ee47e"
+    }
+  ]
+}

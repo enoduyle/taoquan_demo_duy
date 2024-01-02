@@ -1,0 +1,15 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "config",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "maxSpeed": 720,
+    "speedUpTime": 2,
+    "delayStop": 2,
+    "endSpeed": 10,
+    "slowDownTime": 2,
+    "bufferStop": 0.4,
+    "totalItem": 12
+  }
+}

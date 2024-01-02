@@ -1,0 +1,1 @@
+{"version":3,"sources":["SlotGameWriter9083.js"],"names":["cc","Class","extends","require"],"mappings":";;;;;;AAAAA,GAAGC,KAAH,CAAS;AACLC,aAASC,QAAQ,gBAAR;AADJ,CAAT","file":"SlotGameWriter9083.js","sourceRoot":"../../../../assets/cc-taoquan-9083","sourcesContent":["cc.Class({\n    extends: require('SlotGameWriter'),\n});"]}

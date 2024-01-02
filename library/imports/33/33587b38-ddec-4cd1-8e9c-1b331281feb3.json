@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "X10-Vang",
+    "texture": "5033c781-912b-4513-87db-386e2447ab53",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      117,
+      72
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      117,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

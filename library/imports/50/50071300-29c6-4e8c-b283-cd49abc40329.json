@@ -1,0 +1,256 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "18",
+  "_objFlags": 0,
+  "_native": "",
+  "skeletonJsonStr": "{\"skeleton\":{\"hash\":\"/Zq1ILIy+t8X7gqAhCXWzqD4Zio\",\"spine\":\"2.1.27\",\"width\":85,\"height\":101.73,\"images\":\"\"},\"bones\":[{\"name\":\"root\"},{\"name\":\"khuonmat\",\"parent\":\"root\"},{\"name\":\"mieng\",\"parent\":\"root\",\"x\":-3.8,\"y\":-24.27},{\"name\":\"socsoc\",\"parent\":\"root\",\"x\":7.37,\"y\":39.72},{\"name\":\"taycamco\",\"parent\":\"root\",\"x\":30.55,\"y\":-33.59}],\"slots\":[{\"name\":\"images/bong\",\"bone\":\"root\",\"attachment\":\"images/bong\"},{\"name\":\"images/khuonmat\",\"bone\":\"khuonmat\",\"attachment\":\"images/khuonmat\"},{\"name\":\"images/mieng\",\"bone\":\"mieng\",\"attachment\":\"images/mieng\"},{\"name\":\"images/socsoc\",\"bone\":\"socsoc\",\"attachment\":\"images/socsoc\"},{\"name\":\"images/taycamco\",\"bone\":\"taycamco\",\"attachment\":\"images/taycamco\"}],\"skins\":{\"default\":{\"images/bong\":{\"images/bong\":{\"y\":-44.01,\"width\":83,\"height\":12}},\"images/khuonmat\":{\"images/khuonmat\":{\"width\":85,\"height\":85}},\"images/mieng\":{\"images/mieng\":{\"width\":27,\"height\":15}},\"images/socsoc\":{\"images/socsoc\":{\"width\":14,\"height\":24}},\"images/taycamco\":{\"images/taycamco\":{\"x\":-15.04,\"y\":26.58,\"width\":47,\"height\":71}}}},\"animations\":{\"animation\":{\"bones\":{\"taycamco\":{\"rotate\":[{\"time\":0,\"angle\":0},{\"time\":0.2666,\"angle\":-51.08},{\"time\":0.5,\"angle\":0}],\"translate\":[{\"time\":0,\"x\":0,\"y\":0},{\"time\":0.2666,\"x\":0.68,\"y\":-4.44},{\"time\":0.5,\"x\":0,\"y\":0}],\"scale\":[{\"time\":0,\"x\":1,\"y\":1,\"curve\":\"stepped\"},{\"time\":0.5,\"x\":1,\"y\":1}]},\"socsoc\":{\"rotate\":[{\"time\":0,\"angle\":0}],\"translate\":[{\"time\":0,\"x\":0,\"y\":0}],\"scale\":[{\"time\":0,\"x\":1,\"y\":1}]},\"mieng\":{\"rotate\":[{\"time\":0,\"angle\":0,\"curve\":\"stepped\"},{\"time\":0.5,\"angle\":0}],\"translate\":[{\"time\":0,\"x\":0,\"y\":0,\"curve\":\"stepped\"},{\"time\":0.5,\"x\":0,\"y\":0}],\"scale\":[{\"time\":0,\"x\":1,\"y\":1},{\"time\":0.2666,\"x\":1.174,\"y\":1.122},{\"time\":0.5,\"x\":1,\"y\":1}]},\"khuonmat\":{\"rotate\":[{\"time\":0,\"angle\":0}],\"translate\":[{\"time\":0,\"x\":0,\"y\":0}],\"scale\":[{\"time\":0,\"x\":1,\"y\":1}]}}}}}",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "/Zq1ILIy+t8X7gqAhCXWzqD4Zio",
+      "spine": "2.1.27",
+      "width": 85,
+      "height": 101.73,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "khuonmat",
+        "parent": "root"
+      },
+      {
+        "name": "mieng",
+        "parent": "root",
+        "x": -3.8,
+        "y": -24.27
+      },
+      {
+        "name": "socsoc",
+        "parent": "root",
+        "x": 7.37,
+        "y": 39.72
+      },
+      {
+        "name": "taycamco",
+        "parent": "root",
+        "x": 30.55,
+        "y": -33.59
+      }
+    ],
+    "slots": [
+      {
+        "name": "images/bong",
+        "bone": "root",
+        "attachment": "images/bong"
+      },
+      {
+        "name": "images/khuonmat",
+        "bone": "khuonmat",
+        "attachment": "images/khuonmat"
+      },
+      {
+        "name": "images/mieng",
+        "bone": "mieng",
+        "attachment": "images/mieng"
+      },
+      {
+        "name": "images/socsoc",
+        "bone": "socsoc",
+        "attachment": "images/socsoc"
+      },
+      {
+        "name": "images/taycamco",
+        "bone": "taycamco",
+        "attachment": "images/taycamco"
+      }
+    ],
+    "skins": {
+      "default": {
+        "images/bong": {
+          "images/bong": {
+            "y": -44.01,
+            "width": 83,
+            "height": 12
+          }
+        },
+        "images/khuonmat": {
+          "images/khuonmat": {
+            "width": 85,
+            "height": 85
+          }
+        },
+        "images/mieng": {
+          "images/mieng": {
+            "width": 27,
+            "height": 15
+          }
+        },
+        "images/socsoc": {
+          "images/socsoc": {
+            "width": 14,
+            "height": 24
+          }
+        },
+        "images/taycamco": {
+          "images/taycamco": {
+            "x": -15.04,
+            "y": 26.58,
+            "width": 47,
+            "height": 71
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "bones": {
+          "taycamco": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 0.2666,
+                "angle": -51.08
+              },
+              {
+                "time": 0.5,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.2666,
+                "x": 0.68,
+                "y": -4.44
+              },
+              {
+                "time": 0.5,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.5,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "socsoc": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "mieng": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.5,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.5,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.2666,
+                "x": 1.174,
+                "y": 1.122
+              },
+              {
+                "time": 0.5,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          },
+          "khuonmat": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\n18.png\nsize: 256,128\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nimages/bong\n  rotate: false\n  xy: 2, 18\n  size: 83, 12\n  orig: 83, 12\n  offset: 0, 0\n  index: -1\nimages/khuonmat\n  rotate: false\n  xy: 2, 32\n  size: 85, 85\n  orig: 85, 85\n  offset: 0, 0\n  index: -1\nimages/mieng\n  rotate: false\n  xy: 138, 102\n  size: 27, 15\n  orig: 27, 15\n  offset: 0, 0\n  index: -1\nimages/socsoc\n  rotate: true\n  xy: 2, 2\n  size: 14, 24\n  orig: 14, 24\n  offset: 0, 0\n  index: -1\nimages/taycamco\n  rotate: false\n  xy: 89, 46\n  size: 47, 71\n  orig: 47, 71\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "3acacd7d-d4f2-4bf2-be66-4bae73ae1445"
+    }
+  ],
+  "textureNames": [
+    "18.png"
+  ],
+  "scale": 1
+}

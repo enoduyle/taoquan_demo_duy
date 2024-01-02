@@ -1,0 +1,216 @@
+
+9983_VFX_WinLine.png
+size: 1007,1005
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FbF_210/FbF_Saber_00
+  rotate: true
+  xy: 389, 48
+  size: 188, 191
+  orig: 201, 201
+  offset: 12, 2
+  index: -1
+FbF_210/FbF_Saber_01
+  rotate: true
+  xy: 2, 264
+  size: 175, 193
+  orig: 201, 201
+  offset: 25, 3
+  index: -1
+FbF_210/FbF_Saber_02
+  rotate: true
+  xy: 2, 607
+  size: 144, 193
+  orig: 201, 201
+  offset: 56, 4
+  index: -1
+FbF_210/FbF_Saber_03
+  rotate: true
+  xy: 205, 883
+  size: 120, 193
+  orig: 201, 201
+  offset: 79, 5
+  index: -1
+FbF_210/FbF_Saber_04
+  rotate: true
+  xy: 599, 878
+  size: 125, 194
+  orig: 201, 201
+  offset: 74, 5
+  index: -1
+FbF_210/FbF_Saber_05
+  rotate: true
+  xy: 197, 602
+  size: 144, 195
+  orig: 201, 201
+  offset: 55, 4
+  index: -1
+FbF_210/FbF_Saber_06
+  rotate: true
+  xy: 2, 441
+  size: 159, 195
+  orig: 201, 201
+  offset: 40, 5
+  index: -1
+FbF_210/FbF_Saber_07
+  rotate: true
+  xy: 582, 39
+  size: 189, 192
+  orig: 201, 201
+  offset: 10, 7
+  index: -1
+FbF_210/FbF_Saber_08
+  rotate: false
+  xy: 191, 70
+  size: 196, 179
+  orig: 201, 201
+  offset: 3, 21
+  index: -1
+FbF_210/FbF_Saber_09
+  rotate: false
+  xy: 595, 409
+  size: 196, 163
+  orig: 201, 201
+  offset: 2, 37
+  index: -1
+FbF_210/FbF_Saber_10
+  rotate: false
+  xy: 608, 735
+  size: 198, 139
+  orig: 201, 201
+  offset: 0, 60
+  index: -1
+FbF_210/FbF_Saber_11
+  rotate: false
+  xy: 400, 882
+  size: 197, 121
+  orig: 201, 201
+  offset: 0, 79
+  index: -1
+FbF_210/FbF_Saber_12
+  rotate: false
+  xy: 808, 732
+  size: 197, 142
+  orig: 201, 201
+  offset: 0, 59
+  index: -1
+FbF_210/FbF_Saber_13
+  rotate: false
+  xy: 789, 574
+  size: 195, 156
+  orig: 201, 201
+  offset: 0, 45
+  index: -1
+FbF_210/FbF_Saber_14
+  rotate: false
+  xy: 803, 228
+  size: 195, 177
+  orig: 201, 201
+  offset: 0, 24
+  index: -1
+FbF_210/FbF_Saber_15
+  rotate: true
+  xy: 776, 36
+  size: 190, 191
+  orig: 201, 201
+  offset: 0, 8
+  index: -1
+FbF_210/FbF_Saber_16
+  rotate: true
+  xy: 197, 251
+  size: 169, 200
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+FbF_210/FbF_Saber_17
+  rotate: true
+  xy: 589, 583
+  size: 150, 198
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+FbF_210/FbF_Saber_18
+  rotate: true
+  xy: 2, 753
+  size: 130, 199
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+FbF_210/FbF_Saber_19
+  rotate: true
+  xy: 795, 876
+  size: 127, 200
+  orig: 201, 201
+  offset: 1, 0
+  index: -1
+FbF_210/FbF_Saber_20
+  rotate: true
+  xy: 394, 593
+  size: 146, 193
+  orig: 201, 201
+  offset: 1, 0
+  index: -1
+FbF_210/FbF_Saber_21
+  rotate: true
+  xy: 199, 432
+  size: 168, 192
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+FbF_210/FbF_Saber_22
+  rotate: false
+  xy: 2, 75
+  size: 187, 187
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+FbF_210/FbF_Saber_23
+  rotate: false
+  xy: 602, 230
+  size: 199, 175
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+FbF_210/FbF_Saber_24
+  rotate: false
+  xy: 793, 407
+  size: 200, 165
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+FbF_210/FbF_Saber_25
+  rotate: false
+  xy: 406, 741
+  size: 200, 135
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+FbF_210/FbF_Saber_26
+  rotate: false
+  xy: 2, 885
+  size: 201, 118
+  orig: 201, 201
+  offset: 0, 2
+  index: -1
+FbF_210/FbF_Saber_27
+  rotate: false
+  xy: 203, 748
+  size: 201, 132
+  orig: 201, 201
+  offset: 0, 3
+  index: -1
+FbF_210/FbF_Saber_28
+  rotate: false
+  xy: 393, 422
+  size: 200, 159
+  orig: 201, 201
+  offset: 0, 2
+  index: -1
+FbF_210/FbF_Saber_29
+  rotate: false
+  xy: 399, 238
+  size: 201, 169
+  orig: 201, 201
+  offset: 0, 3
+  index: -1

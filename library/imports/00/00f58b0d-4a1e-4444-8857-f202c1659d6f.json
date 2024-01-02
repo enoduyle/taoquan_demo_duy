@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Avatar26",
+    "texture": "39d539d5-f0fe-4590-87e0-5d84790dc016",
+    "atlas": "9c34a953-826b-41c4-8e29-757f3ccbb2df",
+    "rect": [
+      1,
+      401,
+      160,
+      124
+    ],
+    "offset": [
+      0,
+      -4
+    ],
+    "originalSize": [
+      174,
+      132
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

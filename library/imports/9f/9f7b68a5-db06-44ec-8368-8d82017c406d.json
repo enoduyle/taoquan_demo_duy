@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BG_PopupPanel_half",
+    "texture": "9d6b37a0-9c79-48f6-a9c7-3a58c12e3e45",
+    "atlas": "",
+    "rect": [
+      12,
+      6,
+      318,
+      450
+    ],
+    "offset": [
+      6,
+      0
+    ],
+    "originalSize": [
+      330,
+      462
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

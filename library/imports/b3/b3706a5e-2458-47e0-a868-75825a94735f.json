@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Table_BetHistory",
+    "texture": "fd30a272-0bfb-42e5-8c9c-90f48e9e1cba",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      942,
+      439
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      942,
+      439
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

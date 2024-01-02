@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Text_ChonCa",
+    "texture": "ffc1728b-0e0c-4359-a091-bacf778fda95",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      571,
+      79
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      571,
+      79
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

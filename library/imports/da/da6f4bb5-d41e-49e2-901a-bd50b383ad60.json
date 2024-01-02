@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bgAvatarCard",
+    "texture": "ce2fb76f-f208-49fe-a0e4-eba74f705a96",
+    "atlas": "aae1e91d-a3f1-4bdb-b723-ef054776a157",
+    "rect": [
+      1870,
+      2,
+      174,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      174,
+      49
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

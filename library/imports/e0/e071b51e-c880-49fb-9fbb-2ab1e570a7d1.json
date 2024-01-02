@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "3MoneyFall",
+    "texture": "5859f847-e5d5-4498-83c5-bee2e560f594",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      502,
+      105
+    ],
+    "offset": [
+      -3,
+      9.5
+    ],
+    "originalSize": [
+      512,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

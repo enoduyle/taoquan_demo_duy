@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "x5GrandMajor",
+    "texture": "83990aee-5570-4b62-bea3-027a66b46f86",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      580,
+      216
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      580,
+      216
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

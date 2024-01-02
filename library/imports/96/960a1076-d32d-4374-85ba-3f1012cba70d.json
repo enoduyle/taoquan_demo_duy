@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "X2-Bac",
+    "texture": "5087c278-a807-4091-83b3-1c75cc02ae1e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      84,
+      72
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      84,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Frame_PaperRoll_half",
+    "texture": "314e737d-9b23-408e-af86-46559fb600a5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      309,
+      272
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      309,
+      272
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

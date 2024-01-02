@@ -1,0 +1,861 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "9983_VFX_WinLine",
+  "_objFlags": 0,
+  "_native": "",
+  "skeletonJsonStr": "{\"skeleton\":{\"hash\":\"8dfSURaR2rG3PJHGESVJ9nTj7AM\",\"spine\":\"3.7.94\",\"width\":0,\"height\":0,\"images\":\"./images/\",\"audio\":\"D:/Work/9983_TaoQuan/Recive\"},\"bones\":[{\"name\":\"root\"},{\"name\":\"Scale_All\",\"parent\":\"root\",\"scaleX\":0.67,\"scaleY\":0.67},{\"name\":\"All\",\"parent\":\"Scale_All\"},{\"name\":\"VFX_1\",\"parent\":\"All\"},{\"name\":\"VFX_2\",\"parent\":\"All\"}],\"slots\":[{\"name\":\"FbF_210/FbF_Saber_00\",\"bone\":\"VFX_1\",\"blend\":\"additive\"},{\"name\":\"FbF_210/FbF_Saber_0\",\"bone\":\"VFX_2\",\"blend\":\"additive\"}],\"skins\":{\"default\":{\"FbF_210/FbF_Saber_0\":{\"FbF_210/FbF_Saber_00\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_01\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_02\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_03\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_04\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_05\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_06\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_07\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_08\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_09\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_10\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_11\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_12\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_13\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_14\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_15\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_16\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_17\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_18\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_19\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_20\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_21\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_22\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_23\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_24\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_25\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_26\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_27\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_28\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_29\":{\"width\":300,\"height\":300}},\"FbF_210/FbF_Saber_00\":{\"FbF_210/FbF_Saber_00\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_01\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_02\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_03\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_04\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_05\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_06\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_07\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_08\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_09\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_10\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_11\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_12\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_13\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_14\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_15\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_16\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_17\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_18\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_19\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_20\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_21\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_22\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_23\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_24\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_25\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_26\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_27\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_28\":{\"width\":300,\"height\":300},\"FbF_210/FbF_Saber_29\":{\"width\":300,\"height\":300}}}},\"animations\":{\"FreeG\":{\"slots\":{\"FbF_210/FbF_Saber_00\":{\"attachment\":[{\"time\":0,\"name\":\"FbF_210/FbF_Saber_00\"},{\"time\":0.0333,\"name\":\"FbF_210/FbF_Saber_01\"},{\"time\":0.0667,\"name\":\"FbF_210/FbF_Saber_02\"},{\"time\":0.1,\"name\":\"FbF_210/FbF_Saber_03\"},{\"time\":0.1333,\"name\":\"FbF_210/FbF_Saber_04\"},{\"time\":0.1667,\"name\":\"FbF_210/FbF_Saber_05\"},{\"time\":0.2,\"name\":\"FbF_210/FbF_Saber_06\"},{\"time\":0.2333,\"name\":\"FbF_210/FbF_Saber_07\"},{\"time\":0.2667,\"name\":\"FbF_210/FbF_Saber_08\"},{\"time\":0.3,\"name\":\"FbF_210/FbF_Saber_09\"},{\"time\":0.3333,\"name\":\"FbF_210/FbF_Saber_10\"},{\"time\":0.3667,\"name\":\"FbF_210/FbF_Saber_11\"},{\"time\":0.4,\"name\":\"FbF_210/FbF_Saber_12\"},{\"time\":0.4333,\"name\":\"FbF_210/FbF_Saber_13\"},{\"time\":0.4667,\"name\":\"FbF_210/FbF_Saber_14\"},{\"time\":0.5,\"name\":\"FbF_210/FbF_Saber_15\"},{\"time\":0.5333,\"name\":\"FbF_210/FbF_Saber_16\"},{\"time\":0.5667,\"name\":\"FbF_210/FbF_Saber_17\"},{\"time\":0.6,\"name\":\"FbF_210/FbF_Saber_18\"},{\"time\":0.6333,\"name\":\"FbF_210/FbF_Saber_19\"},{\"time\":0.6667,\"name\":\"FbF_210/FbF_Saber_20\"},{\"time\":0.7,\"name\":\"FbF_210/FbF_Saber_21\"},{\"time\":0.7333,\"name\":\"FbF_210/FbF_Saber_22\"},{\"time\":0.7667,\"name\":\"FbF_210/FbF_Saber_23\"},{\"time\":0.8,\"name\":\"FbF_210/FbF_Saber_24\"},{\"time\":0.8333,\"name\":\"FbF_210/FbF_Saber_25\"},{\"time\":0.8667,\"name\":\"FbF_210/FbF_Saber_26\"},{\"time\":0.9,\"name\":\"FbF_210/FbF_Saber_27\"},{\"time\":0.9333,\"name\":\"FbF_210/FbF_Saber_28\"},{\"time\":0.9667,\"name\":\"FbF_210/FbF_Saber_29\"},{\"time\":1,\"name\":\"FbF_210/FbF_Saber_00\"}]},\"FbF_210/FbF_Saber_0\":{\"attachment\":[{\"time\":0,\"name\":\"FbF_210/FbF_Saber_00\"},{\"time\":0.0333,\"name\":\"FbF_210/FbF_Saber_01\"},{\"time\":0.0667,\"name\":\"FbF_210/FbF_Saber_02\"},{\"time\":0.1,\"name\":\"FbF_210/FbF_Saber_03\"},{\"time\":0.1333,\"name\":\"FbF_210/FbF_Saber_04\"},{\"time\":0.1667,\"name\":\"FbF_210/FbF_Saber_05\"},{\"time\":0.2,\"name\":\"FbF_210/FbF_Saber_06\"},{\"time\":0.2333,\"name\":\"FbF_210/FbF_Saber_07\"},{\"time\":0.2667,\"name\":\"FbF_210/FbF_Saber_08\"},{\"time\":0.3,\"name\":\"FbF_210/FbF_Saber_09\"},{\"time\":0.3333,\"name\":\"FbF_210/FbF_Saber_10\"},{\"time\":0.3667,\"name\":\"FbF_210/FbF_Saber_11\"},{\"time\":0.4,\"name\":\"FbF_210/FbF_Saber_12\"},{\"time\":0.4333,\"name\":\"FbF_210/FbF_Saber_13\"},{\"time\":0.4667,\"name\":\"FbF_210/FbF_Saber_14\"},{\"time\":0.5,\"name\":\"FbF_210/FbF_Saber_15\"},{\"time\":0.5333,\"name\":\"FbF_210/FbF_Saber_16\"},{\"time\":0.5667,\"name\":\"FbF_210/FbF_Saber_17\"},{\"time\":0.6,\"name\":\"FbF_210/FbF_Saber_18\"},{\"time\":0.6333,\"name\":\"FbF_210/FbF_Saber_19\"},{\"time\":0.6667,\"name\":\"FbF_210/FbF_Saber_20\"},{\"time\":0.7,\"name\":\"FbF_210/FbF_Saber_21\"},{\"time\":0.7333,\"name\":\"FbF_210/FbF_Saber_22\"},{\"time\":0.7667,\"name\":\"FbF_210/FbF_Saber_23\"},{\"time\":0.8,\"name\":\"FbF_210/FbF_Saber_24\"},{\"time\":0.8333,\"name\":\"FbF_210/FbF_Saber_25\"},{\"time\":0.8667,\"name\":\"FbF_210/FbF_Saber_26\"},{\"time\":0.9,\"name\":\"FbF_210/FbF_Saber_27\"},{\"time\":0.9333,\"name\":\"FbF_210/FbF_Saber_28\"},{\"time\":0.9667,\"name\":\"FbF_210/FbF_Saber_29\"},{\"time\":1,\"name\":\"FbF_210/FbF_Saber_00\"}]}},\"bones\":{\"VFX_2\":{\"rotate\":[{\"time\":0,\"angle\":180}]}}},\"MainG\":{\"slots\":{\"FbF_210/FbF_Saber_00\":{\"attachment\":[{\"time\":0,\"name\":\"FbF_210/FbF_Saber_00\"},{\"time\":0.0333,\"name\":\"FbF_210/FbF_Saber_01\"},{\"time\":0.0667,\"name\":\"FbF_210/FbF_Saber_02\"},{\"time\":0.1,\"name\":\"FbF_210/FbF_Saber_03\"},{\"time\":0.1333,\"name\":\"FbF_210/FbF_Saber_04\"},{\"time\":0.1667,\"name\":\"FbF_210/FbF_Saber_05\"},{\"time\":0.2,\"name\":\"FbF_210/FbF_Saber_06\"},{\"time\":0.2333,\"name\":\"FbF_210/FbF_Saber_07\"},{\"time\":0.2667,\"name\":\"FbF_210/FbF_Saber_08\"},{\"time\":0.3,\"name\":\"FbF_210/FbF_Saber_09\"},{\"time\":0.3333,\"name\":\"FbF_210/FbF_Saber_10\"},{\"time\":0.3667,\"name\":\"FbF_210/FbF_Saber_11\"},{\"time\":0.4,\"name\":\"FbF_210/FbF_Saber_12\"},{\"time\":0.4333,\"name\":\"FbF_210/FbF_Saber_13\"},{\"time\":0.4667,\"name\":\"FbF_210/FbF_Saber_14\"},{\"time\":0.5,\"name\":\"FbF_210/FbF_Saber_15\"},{\"time\":0.5333,\"name\":\"FbF_210/FbF_Saber_16\"},{\"time\":0.5667,\"name\":\"FbF_210/FbF_Saber_17\"},{\"time\":0.6,\"name\":\"FbF_210/FbF_Saber_18\"},{\"time\":0.6333,\"name\":\"FbF_210/FbF_Saber_19\"},{\"time\":0.6667,\"name\":\"FbF_210/FbF_Saber_20\"},{\"time\":0.7,\"name\":\"FbF_210/FbF_Saber_21\"},{\"time\":0.7333,\"name\":\"FbF_210/FbF_Saber_22\"},{\"time\":0.7667,\"name\":\"FbF_210/FbF_Saber_23\"},{\"time\":0.8,\"name\":\"FbF_210/FbF_Saber_24\"},{\"time\":0.8333,\"name\":\"FbF_210/FbF_Saber_25\"},{\"time\":0.8667,\"name\":\"FbF_210/FbF_Saber_26\"},{\"time\":0.9,\"name\":\"FbF_210/FbF_Saber_27\"},{\"time\":0.9333,\"name\":\"FbF_210/FbF_Saber_28\"},{\"time\":0.9667,\"name\":\"FbF_210/FbF_Saber_29\"},{\"time\":1,\"name\":\"FbF_210/FbF_Saber_00\"}]},\"FbF_210/FbF_Saber_0\":{\"attachment\":[{\"time\":0,\"name\":\"FbF_210/FbF_Saber_00\"},{\"time\":0.0333,\"name\":\"FbF_210/FbF_Saber_01\"},{\"time\":0.0667,\"name\":\"FbF_210/FbF_Saber_02\"},{\"time\":0.1,\"name\":\"FbF_210/FbF_Saber_03\"},{\"time\":0.1333,\"name\":\"FbF_210/FbF_Saber_04\"},{\"time\":0.1667,\"name\":\"FbF_210/FbF_Saber_05\"},{\"time\":0.2,\"name\":\"FbF_210/FbF_Saber_06\"},{\"time\":0.2333,\"name\":\"FbF_210/FbF_Saber_07\"},{\"time\":0.2667,\"name\":\"FbF_210/FbF_Saber_08\"},{\"time\":0.3,\"name\":\"FbF_210/FbF_Saber_09\"},{\"time\":0.3333,\"name\":\"FbF_210/FbF_Saber_10\"},{\"time\":0.3667,\"name\":\"FbF_210/FbF_Saber_11\"},{\"time\":0.4,\"name\":\"FbF_210/FbF_Saber_12\"},{\"time\":0.4333,\"name\":\"FbF_210/FbF_Saber_13\"},{\"time\":0.4667,\"name\":\"FbF_210/FbF_Saber_14\"},{\"time\":0.5,\"name\":\"FbF_210/FbF_Saber_15\"},{\"time\":0.5333,\"name\":\"FbF_210/FbF_Saber_16\"},{\"time\":0.5667,\"name\":\"FbF_210/FbF_Saber_17\"},{\"time\":0.6,\"name\":\"FbF_210/FbF_Saber_18\"},{\"time\":0.6333,\"name\":\"FbF_210/FbF_Saber_19\"},{\"time\":0.6667,\"name\":\"FbF_210/FbF_Saber_20\"},{\"time\":0.7,\"name\":\"FbF_210/FbF_Saber_21\"},{\"time\":0.7333,\"name\":\"FbF_210/FbF_Saber_22\"},{\"time\":0.7667,\"name\":\"FbF_210/FbF_Saber_23\"},{\"time\":0.8,\"name\":\"FbF_210/FbF_Saber_24\"},{\"time\":0.8333,\"name\":\"FbF_210/FbF_Saber_25\"},{\"time\":0.8667,\"name\":\"FbF_210/FbF_Saber_26\"},{\"time\":0.9,\"name\":\"FbF_210/FbF_Saber_27\"},{\"time\":0.9333,\"name\":\"FbF_210/FbF_Saber_28\"},{\"time\":0.9667,\"name\":\"FbF_210/FbF_Saber_29\"},{\"time\":1,\"name\":\"FbF_210/FbF_Saber_00\"}]}},\"bones\":{\"VFX_2\":{\"rotate\":[{\"time\":0,\"angle\":180}]},\"All\":{\"scale\":[{\"time\":0,\"x\":1.11,\"y\":1.11}]}}}}}",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "8dfSURaR2rG3PJHGESVJ9nTj7AM",
+      "spine": "3.7.94",
+      "width": 0,
+      "height": 0,
+      "images": "./images/",
+      "audio": "D:/Work/9983_TaoQuan/Recive"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "Scale_All",
+        "parent": "root",
+        "scaleX": 0.67,
+        "scaleY": 0.67
+      },
+      {
+        "name": "All",
+        "parent": "Scale_All"
+      },
+      {
+        "name": "VFX_1",
+        "parent": "All"
+      },
+      {
+        "name": "VFX_2",
+        "parent": "All"
+      }
+    ],
+    "slots": [
+      {
+        "name": "FbF_210/FbF_Saber_00",
+        "bone": "VFX_1",
+        "blend": "additive"
+      },
+      {
+        "name": "FbF_210/FbF_Saber_0",
+        "bone": "VFX_2",
+        "blend": "additive"
+      }
+    ],
+    "skins": {
+      "default": {
+        "FbF_210/FbF_Saber_0": {
+          "FbF_210/FbF_Saber_00": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_01": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_02": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_03": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_04": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_05": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_06": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_07": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_08": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_09": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_10": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_11": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_12": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_13": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_14": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_15": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_16": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_17": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_18": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_19": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_20": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_21": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_22": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_23": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_24": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_25": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_26": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_27": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_28": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_29": {
+            "width": 300,
+            "height": 300
+          }
+        },
+        "FbF_210/FbF_Saber_00": {
+          "FbF_210/FbF_Saber_00": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_01": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_02": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_03": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_04": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_05": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_06": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_07": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_08": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_09": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_10": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_11": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_12": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_13": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_14": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_15": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_16": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_17": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_18": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_19": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_20": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_21": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_22": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_23": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_24": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_25": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_26": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_27": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_28": {
+            "width": 300,
+            "height": 300
+          },
+          "FbF_210/FbF_Saber_29": {
+            "width": 300,
+            "height": 300
+          }
+        }
+      }
+    },
+    "animations": {
+      "FreeG": {
+        "slots": {
+          "FbF_210/FbF_Saber_00": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "FbF_210/FbF_Saber_00"
+              },
+              {
+                "time": 0.0333,
+                "name": "FbF_210/FbF_Saber_01"
+              },
+              {
+                "time": 0.0667,
+                "name": "FbF_210/FbF_Saber_02"
+              },
+              {
+                "time": 0.1,
+                "name": "FbF_210/FbF_Saber_03"
+              },
+              {
+                "time": 0.1333,
+                "name": "FbF_210/FbF_Saber_04"
+              },
+              {
+                "time": 0.1667,
+                "name": "FbF_210/FbF_Saber_05"
+              },
+              {
+                "time": 0.2,
+                "name": "FbF_210/FbF_Saber_06"
+              },
+              {
+                "time": 0.2333,
+                "name": "FbF_210/FbF_Saber_07"
+              },
+              {
+                "time": 0.2667,
+                "name": "FbF_210/FbF_Saber_08"
+              },
+              {
+                "time": 0.3,
+                "name": "FbF_210/FbF_Saber_09"
+              },
+              {
+                "time": 0.3333,
+                "name": "FbF_210/FbF_Saber_10"
+              },
+              {
+                "time": 0.3667,
+                "name": "FbF_210/FbF_Saber_11"
+              },
+              {
+                "time": 0.4,
+                "name": "FbF_210/FbF_Saber_12"
+              },
+              {
+                "time": 0.4333,
+                "name": "FbF_210/FbF_Saber_13"
+              },
+              {
+                "time": 0.4667,
+                "name": "FbF_210/FbF_Saber_14"
+              },
+              {
+                "time": 0.5,
+                "name": "FbF_210/FbF_Saber_15"
+              },
+              {
+                "time": 0.5333,
+                "name": "FbF_210/FbF_Saber_16"
+              },
+              {
+                "time": 0.5667,
+                "name": "FbF_210/FbF_Saber_17"
+              },
+              {
+                "time": 0.6,
+                "name": "FbF_210/FbF_Saber_18"
+              },
+              {
+                "time": 0.6333,
+                "name": "FbF_210/FbF_Saber_19"
+              },
+              {
+                "time": 0.6667,
+                "name": "FbF_210/FbF_Saber_20"
+              },
+              {
+                "time": 0.7,
+                "name": "FbF_210/FbF_Saber_21"
+              },
+              {
+                "time": 0.7333,
+                "name": "FbF_210/FbF_Saber_22"
+              },
+              {
+                "time": 0.7667,
+                "name": "FbF_210/FbF_Saber_23"
+              },
+              {
+                "time": 0.8,
+                "name": "FbF_210/FbF_Saber_24"
+              },
+              {
+                "time": 0.8333,
+                "name": "FbF_210/FbF_Saber_25"
+              },
+              {
+                "time": 0.8667,
+                "name": "FbF_210/FbF_Saber_26"
+              },
+              {
+                "time": 0.9,
+                "name": "FbF_210/FbF_Saber_27"
+              },
+              {
+                "time": 0.9333,
+                "name": "FbF_210/FbF_Saber_28"
+              },
+              {
+                "time": 0.9667,
+                "name": "FbF_210/FbF_Saber_29"
+              },
+              {
+                "time": 1,
+                "name": "FbF_210/FbF_Saber_00"
+              }
+            ]
+          },
+          "FbF_210/FbF_Saber_0": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "FbF_210/FbF_Saber_00"
+              },
+              {
+                "time": 0.0333,
+                "name": "FbF_210/FbF_Saber_01"
+              },
+              {
+                "time": 0.0667,
+                "name": "FbF_210/FbF_Saber_02"
+              },
+              {
+                "time": 0.1,
+                "name": "FbF_210/FbF_Saber_03"
+              },
+              {
+                "time": 0.1333,
+                "name": "FbF_210/FbF_Saber_04"
+              },
+              {
+                "time": 0.1667,
+                "name": "FbF_210/FbF_Saber_05"
+              },
+              {
+                "time": 0.2,
+                "name": "FbF_210/FbF_Saber_06"
+              },
+              {
+                "time": 0.2333,
+                "name": "FbF_210/FbF_Saber_07"
+              },
+              {
+                "time": 0.2667,
+                "name": "FbF_210/FbF_Saber_08"
+              },
+              {
+                "time": 0.3,
+                "name": "FbF_210/FbF_Saber_09"
+              },
+              {
+                "time": 0.3333,
+                "name": "FbF_210/FbF_Saber_10"
+              },
+              {
+                "time": 0.3667,
+                "name": "FbF_210/FbF_Saber_11"
+              },
+              {
+                "time": 0.4,
+                "name": "FbF_210/FbF_Saber_12"
+              },
+              {
+                "time": 0.4333,
+                "name": "FbF_210/FbF_Saber_13"
+              },
+              {
+                "time": 0.4667,
+                "name": "FbF_210/FbF_Saber_14"
+              },
+              {
+                "time": 0.5,
+                "name": "FbF_210/FbF_Saber_15"
+              },
+              {
+                "time": 0.5333,
+                "name": "FbF_210/FbF_Saber_16"
+              },
+              {
+                "time": 0.5667,
+                "name": "FbF_210/FbF_Saber_17"
+              },
+              {
+                "time": 0.6,
+                "name": "FbF_210/FbF_Saber_18"
+              },
+              {
+                "time": 0.6333,
+                "name": "FbF_210/FbF_Saber_19"
+              },
+              {
+                "time": 0.6667,
+                "name": "FbF_210/FbF_Saber_20"
+              },
+              {
+                "time": 0.7,
+                "name": "FbF_210/FbF_Saber_21"
+              },
+              {
+                "time": 0.7333,
+                "name": "FbF_210/FbF_Saber_22"
+              },
+              {
+                "time": 0.7667,
+                "name": "FbF_210/FbF_Saber_23"
+              },
+              {
+                "time": 0.8,
+                "name": "FbF_210/FbF_Saber_24"
+              },
+              {
+                "time": 0.8333,
+                "name": "FbF_210/FbF_Saber_25"
+              },
+              {
+                "time": 0.8667,
+                "name": "FbF_210/FbF_Saber_26"
+              },
+              {
+                "time": 0.9,
+                "name": "FbF_210/FbF_Saber_27"
+              },
+              {
+                "time": 0.9333,
+                "name": "FbF_210/FbF_Saber_28"
+              },
+              {
+                "time": 0.9667,
+                "name": "FbF_210/FbF_Saber_29"
+              },
+              {
+                "time": 1,
+                "name": "FbF_210/FbF_Saber_00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "VFX_2": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 180
+              }
+            ]
+          }
+        }
+      },
+      "MainG": {
+        "slots": {
+          "FbF_210/FbF_Saber_00": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "FbF_210/FbF_Saber_00"
+              },
+              {
+                "time": 0.0333,
+                "name": "FbF_210/FbF_Saber_01"
+              },
+              {
+                "time": 0.0667,
+                "name": "FbF_210/FbF_Saber_02"
+              },
+              {
+                "time": 0.1,
+                "name": "FbF_210/FbF_Saber_03"
+              },
+              {
+                "time": 0.1333,
+                "name": "FbF_210/FbF_Saber_04"
+              },
+              {
+                "time": 0.1667,
+                "name": "FbF_210/FbF_Saber_05"
+              },
+              {
+                "time": 0.2,
+                "name": "FbF_210/FbF_Saber_06"
+              },
+              {
+                "time": 0.2333,
+                "name": "FbF_210/FbF_Saber_07"
+              },
+              {
+                "time": 0.2667,
+                "name": "FbF_210/FbF_Saber_08"
+              },
+              {
+                "time": 0.3,
+                "name": "FbF_210/FbF_Saber_09"
+              },
+              {
+                "time": 0.3333,
+                "name": "FbF_210/FbF_Saber_10"
+              },
+              {
+                "time": 0.3667,
+                "name": "FbF_210/FbF_Saber_11"
+              },
+              {
+                "time": 0.4,
+                "name": "FbF_210/FbF_Saber_12"
+              },
+              {
+                "time": 0.4333,
+                "name": "FbF_210/FbF_Saber_13"
+              },
+              {
+                "time": 0.4667,
+                "name": "FbF_210/FbF_Saber_14"
+              },
+              {
+                "time": 0.5,
+                "name": "FbF_210/FbF_Saber_15"
+              },
+              {
+                "time": 0.5333,
+                "name": "FbF_210/FbF_Saber_16"
+              },
+              {
+                "time": 0.5667,
+                "name": "FbF_210/FbF_Saber_17"
+              },
+              {
+                "time": 0.6,
+                "name": "FbF_210/FbF_Saber_18"
+              },
+              {
+                "time": 0.6333,
+                "name": "FbF_210/FbF_Saber_19"
+              },
+              {
+                "time": 0.6667,
+                "name": "FbF_210/FbF_Saber_20"
+              },
+              {
+                "time": 0.7,
+                "name": "FbF_210/FbF_Saber_21"
+              },
+              {
+                "time": 0.7333,
+                "name": "FbF_210/FbF_Saber_22"
+              },
+              {
+                "time": 0.7667,
+                "name": "FbF_210/FbF_Saber_23"
+              },
+              {
+                "time": 0.8,
+                "name": "FbF_210/FbF_Saber_24"
+              },
+              {
+                "time": 0.8333,
+                "name": "FbF_210/FbF_Saber_25"
+              },
+              {
+                "time": 0.8667,
+                "name": "FbF_210/FbF_Saber_26"
+              },
+              {
+                "time": 0.9,
+                "name": "FbF_210/FbF_Saber_27"
+              },
+              {
+                "time": 0.9333,
+                "name": "FbF_210/FbF_Saber_28"
+              },
+              {
+                "time": 0.9667,
+                "name": "FbF_210/FbF_Saber_29"
+              },
+              {
+                "time": 1,
+                "name": "FbF_210/FbF_Saber_00"
+              }
+            ]
+          },
+          "FbF_210/FbF_Saber_0": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "FbF_210/FbF_Saber_00"
+              },
+              {
+                "time": 0.0333,
+                "name": "FbF_210/FbF_Saber_01"
+              },
+              {
+                "time": 0.0667,
+                "name": "FbF_210/FbF_Saber_02"
+              },
+              {
+                "time": 0.1,
+                "name": "FbF_210/FbF_Saber_03"
+              },
+              {
+                "time": 0.1333,
+                "name": "FbF_210/FbF_Saber_04"
+              },
+              {
+                "time": 0.1667,
+                "name": "FbF_210/FbF_Saber_05"
+              },
+              {
+                "time": 0.2,
+                "name": "FbF_210/FbF_Saber_06"
+              },
+              {
+                "time": 0.2333,
+                "name": "FbF_210/FbF_Saber_07"
+              },
+              {
+                "time": 0.2667,
+                "name": "FbF_210/FbF_Saber_08"
+              },
+              {
+                "time": 0.3,
+                "name": "FbF_210/FbF_Saber_09"
+              },
+              {
+                "time": 0.3333,
+                "name": "FbF_210/FbF_Saber_10"
+              },
+              {
+                "time": 0.3667,
+                "name": "FbF_210/FbF_Saber_11"
+              },
+              {
+                "time": 0.4,
+                "name": "FbF_210/FbF_Saber_12"
+              },
+              {
+                "time": 0.4333,
+                "name": "FbF_210/FbF_Saber_13"
+              },
+              {
+                "time": 0.4667,
+                "name": "FbF_210/FbF_Saber_14"
+              },
+              {
+                "time": 0.5,
+                "name": "FbF_210/FbF_Saber_15"
+              },
+              {
+                "time": 0.5333,
+                "name": "FbF_210/FbF_Saber_16"
+              },
+              {
+                "time": 0.5667,
+                "name": "FbF_210/FbF_Saber_17"
+              },
+              {
+                "time": 0.6,
+                "name": "FbF_210/FbF_Saber_18"
+              },
+              {
+                "time": 0.6333,
+                "name": "FbF_210/FbF_Saber_19"
+              },
+              {
+                "time": 0.6667,
+                "name": "FbF_210/FbF_Saber_20"
+              },
+              {
+                "time": 0.7,
+                "name": "FbF_210/FbF_Saber_21"
+              },
+              {
+                "time": 0.7333,
+                "name": "FbF_210/FbF_Saber_22"
+              },
+              {
+                "time": 0.7667,
+                "name": "FbF_210/FbF_Saber_23"
+              },
+              {
+                "time": 0.8,
+                "name": "FbF_210/FbF_Saber_24"
+              },
+              {
+                "time": 0.8333,
+                "name": "FbF_210/FbF_Saber_25"
+              },
+              {
+                "time": 0.8667,
+                "name": "FbF_210/FbF_Saber_26"
+              },
+              {
+                "time": 0.9,
+                "name": "FbF_210/FbF_Saber_27"
+              },
+              {
+                "time": 0.9333,
+                "name": "FbF_210/FbF_Saber_28"
+              },
+              {
+                "time": 0.9667,
+                "name": "FbF_210/FbF_Saber_29"
+              },
+              {
+                "time": 1,
+                "name": "FbF_210/FbF_Saber_00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "VFX_2": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 180
+              }
+            ]
+          },
+          "All": {
+            "scale": [
+              {
+                "time": 0,
+                "x": 1.11,
+                "y": 1.11
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\n9983_VFX_WinLine.png\nsize: 1007,1005\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nFbF_210/FbF_Saber_00\n  rotate: true\n  xy: 389, 48\n  size: 188, 191\n  orig: 201, 201\n  offset: 12, 2\n  index: -1\nFbF_210/FbF_Saber_01\n  rotate: true\n  xy: 2, 264\n  size: 175, 193\n  orig: 201, 201\n  offset: 25, 3\n  index: -1\nFbF_210/FbF_Saber_02\n  rotate: true\n  xy: 2, 607\n  size: 144, 193\n  orig: 201, 201\n  offset: 56, 4\n  index: -1\nFbF_210/FbF_Saber_03\n  rotate: true\n  xy: 205, 883\n  size: 120, 193\n  orig: 201, 201\n  offset: 79, 5\n  index: -1\nFbF_210/FbF_Saber_04\n  rotate: true\n  xy: 599, 878\n  size: 125, 194\n  orig: 201, 201\n  offset: 74, 5\n  index: -1\nFbF_210/FbF_Saber_05\n  rotate: true\n  xy: 197, 602\n  size: 144, 195\n  orig: 201, 201\n  offset: 55, 4\n  index: -1\nFbF_210/FbF_Saber_06\n  rotate: true\n  xy: 2, 441\n  size: 159, 195\n  orig: 201, 201\n  offset: 40, 5\n  index: -1\nFbF_210/FbF_Saber_07\n  rotate: true\n  xy: 582, 39\n  size: 189, 192\n  orig: 201, 201\n  offset: 10, 7\n  index: -1\nFbF_210/FbF_Saber_08\n  rotate: false\n  xy: 191, 70\n  size: 196, 179\n  orig: 201, 201\n  offset: 3, 21\n  index: -1\nFbF_210/FbF_Saber_09\n  rotate: false\n  xy: 595, 409\n  size: 196, 163\n  orig: 201, 201\n  offset: 2, 37\n  index: -1\nFbF_210/FbF_Saber_10\n  rotate: false\n  xy: 608, 735\n  size: 198, 139\n  orig: 201, 201\n  offset: 0, 60\n  index: -1\nFbF_210/FbF_Saber_11\n  rotate: false\n  xy: 400, 882\n  size: 197, 121\n  orig: 201, 201\n  offset: 0, 79\n  index: -1\nFbF_210/FbF_Saber_12\n  rotate: false\n  xy: 808, 732\n  size: 197, 142\n  orig: 201, 201\n  offset: 0, 59\n  index: -1\nFbF_210/FbF_Saber_13\n  rotate: false\n  xy: 789, 574\n  size: 195, 156\n  orig: 201, 201\n  offset: 0, 45\n  index: -1\nFbF_210/FbF_Saber_14\n  rotate: false\n  xy: 803, 228\n  size: 195, 177\n  orig: 201, 201\n  offset: 0, 24\n  index: -1\nFbF_210/FbF_Saber_15\n  rotate: true\n  xy: 776, 36\n  size: 190, 191\n  orig: 201, 201\n  offset: 0, 8\n  index: -1\nFbF_210/FbF_Saber_16\n  rotate: true\n  xy: 197, 251\n  size: 169, 200\n  orig: 201, 201\n  offset: 0, 0\n  index: -1\nFbF_210/FbF_Saber_17\n  rotate: true\n  xy: 589, 583\n  size: 150, 198\n  orig: 201, 201\n  offset: 0, 0\n  index: -1\nFbF_210/FbF_Saber_18\n  rotate: true\n  xy: 2, 753\n  size: 130, 199\n  orig: 201, 201\n  offset: 0, 0\n  index: -1\nFbF_210/FbF_Saber_19\n  rotate: true\n  xy: 795, 876\n  size: 127, 200\n  orig: 201, 201\n  offset: 1, 0\n  index: -1\nFbF_210/FbF_Saber_20\n  rotate: true\n  xy: 394, 593\n  size: 146, 193\n  orig: 201, 201\n  offset: 1, 0\n  index: -1\nFbF_210/FbF_Saber_21\n  rotate: true\n  xy: 199, 432\n  size: 168, 192\n  orig: 201, 201\n  offset: 0, 0\n  index: -1\nFbF_210/FbF_Saber_22\n  rotate: false\n  xy: 2, 75\n  size: 187, 187\n  orig: 201, 201\n  offset: 0, 0\n  index: -1\nFbF_210/FbF_Saber_23\n  rotate: false\n  xy: 602, 230\n  size: 199, 175\n  orig: 201, 201\n  offset: 0, 0\n  index: -1\nFbF_210/FbF_Saber_24\n  rotate: false\n  xy: 793, 407\n  size: 200, 165\n  orig: 201, 201\n  offset: 0, 0\n  index: -1\nFbF_210/FbF_Saber_25\n  rotate: false\n  xy: 406, 741\n  size: 200, 135\n  orig: 201, 201\n  offset: 0, 0\n  index: -1\nFbF_210/FbF_Saber_26\n  rotate: false\n  xy: 2, 885\n  size: 201, 118\n  orig: 201, 201\n  offset: 0, 2\n  index: -1\nFbF_210/FbF_Saber_27\n  rotate: false\n  xy: 203, 748\n  size: 201, 132\n  orig: 201, 201\n  offset: 0, 3\n  index: -1\nFbF_210/FbF_Saber_28\n  rotate: false\n  xy: 393, 422\n  size: 200, 159\n  orig: 201, 201\n  offset: 0, 2\n  index: -1\nFbF_210/FbF_Saber_29\n  rotate: false\n  xy: 399, 238\n  size: 201, 169\n  orig: 201, 201\n  offset: 0, 3\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "7daf9bfc-17d5-4b35-8699-40e22f001012"
+    }
+  ],
+  "textureNames": [
+    "9983_VFX_WinLine.png"
+  ],
+  "scale": 1
+}

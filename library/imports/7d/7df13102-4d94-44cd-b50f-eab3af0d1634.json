@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TQ_UI_BigWin_Cracker",
+    "texture": "49fb2312-dcae-40ea-adf8-6db10f9b0ddd",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      906,
+      705
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      910,
+      709
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

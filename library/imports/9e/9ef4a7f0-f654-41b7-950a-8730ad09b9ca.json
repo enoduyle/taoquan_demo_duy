@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Red-Numbers-export",
+    "texture": "00b1df0a-51b7-479e-be49-190dc0eb78b9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      441,
+      495
+    ],
+    "offset": [
+      -35.5,
+      8.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

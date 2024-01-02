@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Frame_PaylineInfo_half",
+    "texture": "3e3f72d7-4f15-46c1-b13f-b3b7666647dd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      339,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      339,
+      48
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

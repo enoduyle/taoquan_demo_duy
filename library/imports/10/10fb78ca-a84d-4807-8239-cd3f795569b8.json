@@ -1,0 +1,1190 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "log",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "defaultLanguage": "VI-VND",
+    "localizationAssets": [
+      {
+        "name": "BG_Loading.jpg",
+        "type": ".jpg",
+        "relativePath": "/images/Loading/L10N_Loading/BG_Loading.jpg",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/Loading/L10N_Loading/BG_Loading.jpg",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/Loading/L10N_Loading/BG_Loading.jpg",
+        "uuid-TH-USD": {
+          "BG_Loading": "308d829e-f7de-4608-bdb0-37e980742ebb"
+        },
+        "uuid-EN-USD": {
+          "BG_Loading": "07c4fade-8daa-4264-a3bc-e699ecc63974"
+        }
+      },
+      {
+        "name": "Text_ChonCa.png",
+        "type": ".png",
+        "relativePath": "/images/tp_FreeGameOption/L10N_FreeGameOption/Text_ChonCa.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_FreeGameOption/L10N_FreeGameOption/Text_ChonCa.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_FreeGameOption/L10N_FreeGameOption/Text_ChonCa.png",
+        "uuid-TH-USD": {
+          "Text_ChonCa": "b92125b1-242e-4fae-b9ee-d4906575d7ed"
+        },
+        "uuid-EN-USD": {
+          "Text_ChonCa": "d92bc858-490c-4f3e-90c0-75548d3ac49b"
+        }
+      },
+      {
+        "name": "Text_SpinNo_Black.png",
+        "type": ".png",
+        "relativePath": "/images/tp_FreeGameOption/L10N_FreeGameOption/Text_SpinNo_Black.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_FreeGameOption/L10N_FreeGameOption/Text_SpinNo_Black.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_FreeGameOption/L10N_FreeGameOption/Text_SpinNo_Black.png",
+        "uuid-TH-USD": {
+          "Text_SpinNo_Black": "b7dea2b4-97af-4559-996d-a391fe6a4cfb"
+        },
+        "uuid-EN-USD": {
+          "Text_SpinNo_Black": "681b7abe-ec24-4f69-96cf-26e28fae20d6"
+        }
+      },
+      {
+        "name": "Text_SpinNo_Blue.png",
+        "type": ".png",
+        "relativePath": "/images/tp_FreeGameOption/L10N_FreeGameOption/Text_SpinNo_Blue.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_FreeGameOption/L10N_FreeGameOption/Text_SpinNo_Blue.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_FreeGameOption/L10N_FreeGameOption/Text_SpinNo_Blue.png",
+        "uuid-TH-USD": {
+          "Text_SpinNo_Blue": "0ebb09f7-c441-4402-8b83-a1385efdbe59"
+        },
+        "uuid-EN-USD": {
+          "Text_SpinNo_Blue": "73399acc-318a-40da-bb20-85617e0c38c3"
+        }
+      },
+      {
+        "name": "Text_SpinNo_Gold.png",
+        "type": ".png",
+        "relativePath": "/images/tp_FreeGameOption/L10N_FreeGameOption/Text_SpinNo_Gold.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_FreeGameOption/L10N_FreeGameOption/Text_SpinNo_Gold.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_FreeGameOption/L10N_FreeGameOption/Text_SpinNo_Gold.png",
+        "uuid-TH-USD": {
+          "Text_SpinNo_Gold": "3fd27059-7012-4117-bb24-8c1a40f30508"
+        },
+        "uuid-EN-USD": {
+          "Text_SpinNo_Gold": "6068867c-ca34-466b-90b6-4fa01f69fdd3"
+        }
+      },
+      {
+        "name": "Text_SpinNo_Green.png",
+        "type": ".png",
+        "relativePath": "/images/tp_FreeGameOption/L10N_FreeGameOption/Text_SpinNo_Green.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_FreeGameOption/L10N_FreeGameOption/Text_SpinNo_Green.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_FreeGameOption/L10N_FreeGameOption/Text_SpinNo_Green.png",
+        "uuid-TH-USD": {
+          "Text_SpinNo_Green": "2ef80ef9-6743-4202-b0fb-bb8c71d8ebde"
+        },
+        "uuid-EN-USD": {
+          "Text_SpinNo_Green": "65b9a9f9-83d9-4c6d-90e0-ffa66196f827"
+        }
+      },
+      {
+        "name": "Text_SpinNo_Purple.png",
+        "type": ".png",
+        "relativePath": "/images/tp_FreeGameOption/L10N_FreeGameOption/Text_SpinNo_Purple.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_FreeGameOption/L10N_FreeGameOption/Text_SpinNo_Purple.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_FreeGameOption/L10N_FreeGameOption/Text_SpinNo_Purple.png",
+        "uuid-TH-USD": {
+          "Text_SpinNo_Purple": "fa6debab-defc-4580-81a3-a3943ec1afe4"
+        },
+        "uuid-EN-USD": {
+          "Text_SpinNo_Purple": "37e47561-3323-4b22-9891-2841da247148"
+        }
+      },
+      {
+        "name": "Text_SpinNo_Red.png",
+        "type": ".png",
+        "relativePath": "/images/tp_FreeGameOption/L10N_FreeGameOption/Text_SpinNo_Red.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_FreeGameOption/L10N_FreeGameOption/Text_SpinNo_Red.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_FreeGameOption/L10N_FreeGameOption/Text_SpinNo_Red.png",
+        "uuid-TH-USD": {
+          "Text_SpinNo_Red": "14e87794-709c-4e13-99e1-2b229b0060df"
+        },
+        "uuid-EN-USD": {
+          "Text_SpinNo_Red": "c18ee486-658a-4824-bb1b-3e142c7c616e"
+        }
+      },
+      {
+        "name": "Text_SpinNo_Silver.png",
+        "type": ".png",
+        "relativePath": "/images/tp_FreeGameOption/L10N_FreeGameOption/Text_SpinNo_Silver.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_FreeGameOption/L10N_FreeGameOption/Text_SpinNo_Silver.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_FreeGameOption/L10N_FreeGameOption/Text_SpinNo_Silver.png",
+        "uuid-TH-USD": {
+          "Text_SpinNo_Silver": "91b151c5-c2f5-4488-ac76-c0adc610f3c0"
+        },
+        "uuid-EN-USD": {
+          "Text_SpinNo_Silver": "ba30ee06-d460-4f1d-97be-905740550a0b"
+        }
+      },
+      {
+        "name": "Text_WildX_Purple.png",
+        "type": ".png",
+        "relativePath": "/images/tp_FreeGameOption/L10N_FreeGameOption/Text_WildX_Purple.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_FreeGameOption/L10N_FreeGameOption/Text_WildX_Purple.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_FreeGameOption/L10N_FreeGameOption/Text_WildX_Purple.png",
+        "uuid-TH-USD": {
+          "Text_WildX_Purple": "efe0235d-6502-469e-a04d-07ab1fbffb68"
+        },
+        "uuid-EN-USD": {
+          "Text_WildX_Purple": "eb565b91-af80-4a8a-85a0-ba27453aa026"
+        }
+      },
+      {
+        "name": "Bg_2.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_History/Bg_2.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_History/Bg_2.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_History/Bg_2.png",
+        "uuid-TH-USD": {
+          "Bg_2": "e492ad60-c088-4834-9c9c-d783039ebd4b"
+        },
+        "uuid-EN-USD": {
+          "Bg_2": "a05f72ed-86c7-4909-aa2c-60681d38a812"
+        }
+      },
+      {
+        "name": "Bg_3.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_History/Bg_3.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_History/Bg_3.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_History/Bg_3.png",
+        "uuid-TH-USD": {
+          "Bg_3": "50c50298-624d-43e8-bc9a-97e1cbef8b02"
+        },
+        "uuid-EN-USD": {
+          "Bg_3": "b99ae76c-39a3-4145-8e2f-2ec02abb3475"
+        }
+      },
+      {
+        "name": "Btn_ChiTiet_disable.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_History/Btn_ChiTiet_disable.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_History/Btn_ChiTiet_disable.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_History/Btn_ChiTiet_disable.png",
+        "uuid-TH-USD": {
+          "Btn_ChiTiet_disable": "98ff995a-af98-4a89-af6e-d8722da644d3"
+        },
+        "uuid-EN-USD": {
+          "Btn_ChiTiet_disable": "250be907-1153-4c1d-af95-a66fcde4d8f3"
+        }
+      },
+      {
+        "name": "Btn_ChiTiet_hover.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_History/Btn_ChiTiet_hover.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_History/Btn_ChiTiet_hover.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_History/Btn_ChiTiet_hover.png",
+        "uuid-TH-USD": {
+          "Btn_ChiTiet_hover": "c99d4e84-d10c-419f-bdc2-6b3c87f0ad87"
+        },
+        "uuid-EN-USD": {
+          "Btn_ChiTiet_hover": "c17ce69a-85da-472c-8695-8e14a8b8c3dd"
+        }
+      },
+      {
+        "name": "Btn_ChiTiet_normal.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_History/Btn_ChiTiet_normal.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_History/Btn_ChiTiet_normal.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_History/Btn_ChiTiet_normal.png",
+        "uuid-TH-USD": {
+          "Btn_ChiTiet_normal": "bfe483fc-aeb1-41e4-9a90-d7fc6aa95af8"
+        },
+        "uuid-EN-USD": {
+          "Btn_ChiTiet_normal": "5b8ead9b-65a8-4411-982a-32ddfb214af5"
+        }
+      },
+      {
+        "name": "Btn_ChiTiet_pressed.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_History/Btn_ChiTiet_pressed.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_History/Btn_ChiTiet_pressed.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_History/Btn_ChiTiet_pressed.png",
+        "uuid-TH-USD": {
+          "Btn_ChiTiet_pressed": "03536a31-9b39-410a-a0b9-fd52303759cc"
+        },
+        "uuid-EN-USD": {
+          "Btn_ChiTiet_pressed": "3627a6b7-e25c-4b5d-8977-ad1891a03691"
+        }
+      },
+      {
+        "name": "Icon_FreeG.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_History/Icon_FreeG.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_History/Icon_FreeG.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_History/Icon_FreeG.png",
+        "uuid-TH-USD": {
+          "Icon_FreeG": "d0fb4ecb-e2e5-4f1c-adee-75d8a82303c6"
+        },
+        "uuid-EN-USD": {
+          "Icon_FreeG": "5eab8333-9e1e-4d0e-9f58-c0c9ed79df14"
+        }
+      },
+      {
+        "name": "Icon_Jackpot_1.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_History/Icon_Jackpot_1.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_History/Icon_Jackpot_1.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_History/Icon_Jackpot_1.png",
+        "uuid-TH-USD": {
+          "Icon_Jackpot_1": "81703f2e-2a61-4726-977c-86b6ff99b92c"
+        },
+        "uuid-EN-USD": {
+          "Icon_Jackpot_1": "a6aac7ad-7cf8-4902-a2a9-430f563c5f2b"
+        }
+      },
+      {
+        "name": "Icon_Jackpot_2.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_History/Icon_Jackpot_2.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_History/Icon_Jackpot_2.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_History/Icon_Jackpot_2.png",
+        "uuid-TH-USD": {
+          "Icon_Jackpot_2": "6737d749-65ae-4faa-a691-12f26aa0b729"
+        },
+        "uuid-EN-USD": {
+          "Icon_Jackpot_2": "12976da6-ecfc-4dff-a8ca-8b22a13aaa10"
+        }
+      },
+      {
+        "name": "Icon_Loc.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_History/Icon_Loc.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_History/Icon_Loc.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_History/Icon_Loc.png",
+        "uuid-TH-USD": {
+          "Icon_Loc": "75f2eb24-b38c-4954-b345-d51803aa4426"
+        },
+        "uuid-EN-USD": {
+          "Icon_Loc": "059be6ef-2dbb-4d4e-afae-75ef74291afc"
+        }
+      },
+      {
+        "name": "Icon_NormalG.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_History/Icon_NormalG.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_History/Icon_NormalG.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_History/Icon_NormalG.png",
+        "uuid-TH-USD": {
+          "Icon_NormalG": "8095ef83-ec6b-42ff-8f24-f6ffe2003e8a"
+        },
+        "uuid-EN-USD": {
+          "Icon_NormalG": "422ab7dc-3763-4fa9-820e-7485e912c576"
+        }
+      },
+      {
+        "name": "Icon_Tai.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_History/Icon_Tai.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_History/Icon_Tai.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_History/Icon_Tai.png",
+        "uuid-TH-USD": {
+          "Icon_Tai": "be9fad54-a28f-4959-9f9e-95d54ac8a936"
+        },
+        "uuid-EN-USD": {
+          "Icon_Tai": "080ffbca-0438-4aea-80b1-f5af3ad803cc"
+        }
+      },
+      {
+        "name": "Table_BetHistory.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_History/Table_BetHistory.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_History/Table_BetHistory.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_History/Table_BetHistory.png",
+        "uuid-TH-USD": {
+          "Table_BetHistory": "b3706a5e-2458-47e0-a868-75825a94735f"
+        },
+        "uuid-EN-USD": {
+          "Table_BetHistory": "3da9a1e1-69eb-46f2-a800-d4a338494279"
+        }
+      },
+      {
+        "name": "Table_JPHistory.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_History/Table_JPHistory.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_History/Table_JPHistory.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_History/Table_JPHistory.png",
+        "uuid-TH-USD": {
+          "Table_JPHistory": "20c625c0-a175-436f-a9f2-f7a48b125760"
+        },
+        "uuid-EN-USD": {
+          "Table_JPHistory": "b42724ca-25a3-4f92-9196-8b56d819180e"
+        }
+      },
+      {
+        "name": "Title_CTLichSuCuoc.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_History/Title_CTLichSuCuoc.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_History/Title_CTLichSuCuoc.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_History/Title_CTLichSuCuoc.png",
+        "uuid-TH-USD": {
+          "Title_CTLichSuCuoc": "0e972324-0e36-430e-92a1-335cd037952e"
+        },
+        "uuid-EN-USD": {
+          "Title_CTLichSuCuoc": "90d826b4-ef60-4f7a-be99-7a34f6e2e552"
+        }
+      },
+      {
+        "name": "Title_Info_1.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_History/Title_Info_1.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_History/Title_Info_1.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_History/Title_Info_1.png",
+        "uuid-TH-USD": {
+          "Title_Info_1": "7398b746-8043-47f4-bc35-962edeb61171"
+        },
+        "uuid-EN-USD": {
+          "Title_Info_1": "cbe7f834-d29c-4c2b-a58e-0a2b35a73ca9"
+        }
+      },
+      {
+        "name": "Title_Info_2.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_History/Title_Info_2.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_History/Title_Info_2.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_History/Title_Info_2.png",
+        "uuid-TH-USD": {
+          "Title_Info_2": "cddbc596-6486-4d14-9ccf-6b890ac305e5"
+        },
+        "uuid-EN-USD": {
+          "Title_Info_2": "fbd02a8b-ea69-4044-a0c5-8a182829885c"
+        }
+      },
+      {
+        "name": "Title_LichSuCuoc.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_History/Title_LichSuCuoc.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_History/Title_LichSuCuoc.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_History/Title_LichSuCuoc.png",
+        "uuid-TH-USD": {
+          "Title_LichSuCuoc": "8dfce61b-8658-4829-9a30-e7c20eadd129"
+        },
+        "uuid-EN-USD": {
+          "Title_LichSuCuoc": "ff4f7f02-396a-4431-94b3-9e43c6d61a3e"
+        }
+      },
+      {
+        "name": "Title_LichSuHu.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_History/Title_LichSuHu.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_History/Title_LichSuHu.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_History/Title_LichSuHu.png",
+        "uuid-TH-USD": {
+          "Title_LichSuHu": "6311289c-f2d6-41ef-b71a-d44735e86e7d"
+        },
+        "uuid-EN-USD": {
+          "Title_LichSuHu": "1e8a9400-adae-48fb-a625-a0b3c8ea7e5c"
+        }
+      },
+      {
+        "name": "Title_Info_1.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_Info/Title_Info_1.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_Info/Title_Info_1.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_Info/Title_Info_1.png",
+        "uuid-TH-USD": {
+          "Title_Info_1": "d981a07f-ed9e-4c89-a05a-c3be837e2020"
+        },
+        "uuid-EN-USD": {
+          "Title_Info_1": "137d625c-1113-4b59-b64e-7ef41d9c4456"
+        }
+      },
+      {
+        "name": "Title_Info_2.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_Info/Title_Info_2.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_Info/Title_Info_2.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_Info/Title_Info_2.png",
+        "uuid-TH-USD": {
+          "Title_Info_2": "3fa33dd2-60af-45ca-8ee2-5ffab16bf18b"
+        },
+        "uuid-EN-USD": {
+          "Title_Info_2": "fb65214a-b5b8-40c3-9ee2-add306fc44d9"
+        }
+      },
+      {
+        "name": "Title_Info_3.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_Info/Title_Info_3.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_Info/Title_Info_3.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_Info/Title_Info_3.png",
+        "uuid-TH-USD": {
+          "Title_Info_3": "17e49eb1-016f-40e3-8935-277e9028273c"
+        },
+        "uuid-EN-USD": {
+          "Title_Info_3": "24472e71-a243-45c6-8558-5a97fe873d9c"
+        }
+      },
+      {
+        "name": "Title_Info_4.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_Info/Title_Info_4.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_Info/Title_Info_4.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_Info/Title_Info_4.png",
+        "uuid-TH-USD": {
+          "Title_Info_4": "f6fa0039-91ff-44a7-b133-aa315ca9aa05"
+        },
+        "uuid-EN-USD": {
+          "Title_Info_4": "706b1318-2e64-4911-a7ac-994d938d5bfc"
+        }
+      },
+      {
+        "name": "Title_Info_5.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_Info/Title_Info_5.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_Info/Title_Info_5.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_Info/Title_Info_5.png",
+        "uuid-TH-USD": {
+          "Title_Info_5": "b03423a8-fa4b-4219-b85c-d4e5bf68c33a"
+        },
+        "uuid-EN-USD": {
+          "Title_Info_5": "f96a13bb-04f0-4f92-bdb1-01142843e45b"
+        }
+      },
+      {
+        "name": "Btn_BetHistory_disable.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_Popups/Btn_BetHistory_disable.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_Popups/Btn_BetHistory_disable.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_Popups/Btn_BetHistory_disable.png",
+        "uuid-TH-USD": {
+          "Btn_BetHistory_disable": "a7e44e76-771c-487b-bf3c-808111c69c36"
+        },
+        "uuid-EN-USD": {
+          "Btn_BetHistory_disable": "4058fdde-37c2-4dc6-9d90-a2f50f81fd8f"
+        }
+      },
+      {
+        "name": "Btn_BetHistory_hover.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_Popups/Btn_BetHistory_hover.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_Popups/Btn_BetHistory_hover.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_Popups/Btn_BetHistory_hover.png",
+        "uuid-TH-USD": {
+          "Btn_BetHistory_hover": "114ab146-a7c6-4159-95cb-360ce2f0f3c0"
+        },
+        "uuid-EN-USD": {
+          "Btn_BetHistory_hover": "a2989e25-971a-4ffe-a831-83dac34e5a03"
+        }
+      },
+      {
+        "name": "Btn_BetHistory_normal.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_Popups/Btn_BetHistory_normal.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_Popups/Btn_BetHistory_normal.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_Popups/Btn_BetHistory_normal.png",
+        "uuid-TH-USD": {
+          "Btn_BetHistory_normal": "9047c986-1e1c-49d6-81a0-97ae2adc72c9"
+        },
+        "uuid-EN-USD": {
+          "Btn_BetHistory_normal": "0313b6cc-c563-434c-bdf3-a54d5049bdb3"
+        }
+      },
+      {
+        "name": "Btn_BetHistory_pressed.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_Popups/Btn_BetHistory_pressed.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_Popups/Btn_BetHistory_pressed.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_Popups/Btn_BetHistory_pressed.png",
+        "uuid-TH-USD": {
+          "Btn_BetHistory_pressed": "40af9602-5e92-4f15-bdae-bd7ed22f1aa6"
+        },
+        "uuid-EN-USD": {
+          "Btn_BetHistory_pressed": "d9e9c1ff-5ab3-4dce-94a3-77bdfda19d08"
+        }
+      },
+      {
+        "name": "Btn_Cancel_disable.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_Popups/Btn_Cancel_disable.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_Popups/Btn_Cancel_disable.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_Popups/Btn_Cancel_disable.png",
+        "uuid-TH-USD": {
+          "Btn_Cancel_disable": "5eeac9aa-7b4e-4593-86a1-dc98d227a304"
+        },
+        "uuid-EN-USD": {
+          "Btn_Cancel_disable": "86964d90-d40f-41db-8778-2fdb9f28d359"
+        }
+      },
+      {
+        "name": "Btn_Cancel_hover.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_Popups/Btn_Cancel_hover.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_Popups/Btn_Cancel_hover.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_Popups/Btn_Cancel_hover.png",
+        "uuid-TH-USD": {
+          "Btn_Cancel_hover": "bd18db5d-844e-4342-9b30-18b105c5027b"
+        },
+        "uuid-EN-USD": {
+          "Btn_Cancel_hover": "8ae5c179-ac6b-4c0a-8359-324410c353ab"
+        }
+      },
+      {
+        "name": "Btn_Cancel_normal.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_Popups/Btn_Cancel_normal.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_Popups/Btn_Cancel_normal.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_Popups/Btn_Cancel_normal.png",
+        "uuid-TH-USD": {
+          "Btn_Cancel_normal": "69030d79-ae51-4094-99b8-c70813fbf6ff"
+        },
+        "uuid-EN-USD": {
+          "Btn_Cancel_normal": "54afd945-8ff0-44a6-8cf2-38ca6f69d6c3"
+        }
+      },
+      {
+        "name": "Btn_Cancel_pressed.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_Popups/Btn_Cancel_pressed.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_Popups/Btn_Cancel_pressed.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_Popups/Btn_Cancel_pressed.png",
+        "uuid-TH-USD": {
+          "Btn_Cancel_pressed": "0d8f3211-0352-4759-8e6b-e7ca2633c665"
+        },
+        "uuid-EN-USD": {
+          "Btn_Cancel_pressed": "11d86ab4-6d61-4efc-919d-0775d57388d9"
+        }
+      },
+      {
+        "name": "Btn_JPHistory_disable.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_Popups/Btn_JPHistory_disable.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_Popups/Btn_JPHistory_disable.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_Popups/Btn_JPHistory_disable.png",
+        "uuid-TH-USD": {
+          "Btn_JPHistory_disable": "76306b5c-76c9-4657-a6c8-3737dec27d86"
+        },
+        "uuid-EN-USD": {
+          "Btn_JPHistory_disable": "0e22298e-3844-4523-9170-dedc7c70f410"
+        }
+      },
+      {
+        "name": "Btn_JPHistory_hover.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_Popups/Btn_JPHistory_hover.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_Popups/Btn_JPHistory_hover.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_Popups/Btn_JPHistory_hover.png",
+        "uuid-TH-USD": {
+          "Btn_JPHistory_hover": "946146c0-0f10-47ba-866d-3e74c7082bf8"
+        },
+        "uuid-EN-USD": {
+          "Btn_JPHistory_hover": "f65c16f2-d9c6-4e12-8c28-847d876ce45b"
+        }
+      },
+      {
+        "name": "Btn_JPHistory_normal.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_Popups/Btn_JPHistory_normal.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_Popups/Btn_JPHistory_normal.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_Popups/Btn_JPHistory_normal.png",
+        "uuid-TH-USD": {
+          "Btn_JPHistory_normal": "f6315bd6-828b-4868-9473-91e32318f7d7"
+        },
+        "uuid-EN-USD": {
+          "Btn_JPHistory_normal": "2d882b27-fb38-41b2-bf14-b77ec2bfcdf6"
+        }
+      },
+      {
+        "name": "Btn_JPHistory_pressed.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_Popups/Btn_JPHistory_pressed.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_Popups/Btn_JPHistory_pressed.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_Popups/Btn_JPHistory_pressed.png",
+        "uuid-TH-USD": {
+          "Btn_JPHistory_pressed": "ff1aec1f-77ad-42b5-86d5-a2a4060947be"
+        },
+        "uuid-EN-USD": {
+          "Btn_JPHistory_pressed": "10332e78-247b-4511-bc77-4ad4e1fb02a1"
+        }
+      },
+      {
+        "name": "Btn_OK_disable.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_Popups/Btn_OK_disable.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_Popups/Btn_OK_disable.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_Popups/Btn_OK_disable.png",
+        "uuid-TH-USD": {
+          "Btn_OK_disable": "85029def-d292-4039-be82-239899378fff"
+        },
+        "uuid-EN-USD": {
+          "Btn_OK_disable": "af85cba9-efd6-4a31-984c-0cb9764a21cb"
+        }
+      },
+      {
+        "name": "Btn_OK_hover.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_Popups/Btn_OK_hover.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_Popups/Btn_OK_hover.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_Popups/Btn_OK_hover.png",
+        "uuid-TH-USD": {
+          "Btn_OK_hover": "76f122ae-f76a-4c68-b183-90a6592f3ab5"
+        },
+        "uuid-EN-USD": {
+          "Btn_OK_hover": "f7b40b14-d2eb-4988-878c-57330fdd84ed"
+        }
+      },
+      {
+        "name": "Btn_OK_normal.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_Popups/Btn_OK_normal.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_Popups/Btn_OK_normal.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_Popups/Btn_OK_normal.png",
+        "uuid-TH-USD": {
+          "Btn_OK_normal": "c1e8a075-b8dd-4086-b4b6-a2be4b79e530"
+        },
+        "uuid-EN-USD": {
+          "Btn_OK_normal": "042101ec-5db5-4aa2-b712-9c5bfcca46dd"
+        }
+      },
+      {
+        "name": "Btn_OK_pressed.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_Popups/Btn_OK_pressed.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_Popups/Btn_OK_pressed.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_Popups/Btn_OK_pressed.png",
+        "uuid-TH-USD": {
+          "Btn_OK_pressed": "4c5dade1-6571-4787-8c51-bc668472efd1"
+        },
+        "uuid-EN-USD": {
+          "Btn_OK_pressed": "4b1b3e3b-ac3d-41e8-8512-260b090fa82e"
+        }
+      },
+      {
+        "name": "Text_CaiDat.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_Popups/Text_CaiDat.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_Popups/Text_CaiDat.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_Popups/Text_CaiDat.png",
+        "uuid-TH-USD": {
+          "Text_CaiDat": "9f9dc161-0ac1-440c-8cfe-8a3f98afec74"
+        },
+        "uuid-EN-USD": {
+          "Text_CaiDat": "6dd718df-24e1-44d5-8f00-96fab1f0a43e"
+        }
+      },
+      {
+        "name": "Text_KetQua.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_Popups/Text_KetQua.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_Popups/Text_KetQua.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_Popups/Text_KetQua.png",
+        "uuid-TH-USD": {
+          "Text_KetQua": "504dc9ce-5ade-47c5-a4f3-93f69418463a"
+        },
+        "uuid-EN-USD": {
+          "Text_KetQua": "169319c3-df6a-431b-9c70-47af15ca2cf9"
+        }
+      },
+      {
+        "name": "Text_MBG.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_Popups/Text_MBG.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_Popups/Text_MBG.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_Popups/Text_MBG.png",
+        "uuid-TH-USD": {
+          "Text_MBG": "e03aa62f-0b8a-4f3b-bb64-1b826267991b"
+        },
+        "uuid-EN-USD": {
+          "Text_MBG": "39114815-cac3-4fa9-aff1-b35cf7447699"
+        }
+      },
+      {
+        "name": "Text_SFX.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_Popups/Text_SFX.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_Popups/Text_SFX.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_Popups/Text_SFX.png",
+        "uuid-TH-USD": {
+          "Text_SFX": "adb0f59c-eefb-4690-a1ed-c4a234de2a0a"
+        },
+        "uuid-EN-USD": {
+          "Text_SFX": "ec0c053e-5310-4fe3-aa9a-876ed730f7d9"
+        }
+      },
+      {
+        "name": "Text_ThongBao.png",
+        "type": ".png",
+        "relativePath": "/images/tp_History/L10N_Popups/Text_ThongBao.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_History/L10N_Popups/Text_ThongBao.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_History/L10N_Popups/Text_ThongBao.png",
+        "uuid-TH-USD": {
+          "Text_ThongBao": "d588da93-fd43-40f3-9a07-01e11497f2d5"
+        },
+        "uuid-EN-USD": {
+          "Text_ThongBao": "786587e0-5cb1-4f4f-99b0-eb6077f962f1"
+        }
+      },
+      {
+        "name": "Btn_Turbo_off.png",
+        "type": ".png",
+        "relativePath": "/images/tp_MainUI/L10N_MainUI/Btn_Turbo_off.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_MainUI/L10N_MainUI/Btn_Turbo_off.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_MainUI/L10N_MainUI/Btn_Turbo_off.png",
+        "uuid-TH-USD": {
+          "Btn_Turbo_off": "f6348376-1174-4aef-9020-7079dd3d3155"
+        },
+        "uuid-EN-USD": {
+          "Btn_Turbo_off": "986b26c6-1503-40bb-a6c3-d4eb17f70506"
+        }
+      },
+      {
+        "name": "Frame_Bet.png",
+        "type": ".png",
+        "relativePath": "/images/tp_MainUI/L10N_MainUI/Frame_Bet.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_MainUI/L10N_MainUI/Frame_Bet.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_MainUI/L10N_MainUI/Frame_Bet.png",
+        "uuid-TH-USD": {
+          "Frame_Bet": "c555755c-7c23-4639-9b19-1efcbf47448a"
+        },
+        "uuid-EN-USD": {
+          "Frame_Bet": "36b3f721-9333-45c5-add2-a7e960d22165"
+        }
+      },
+      {
+        "name": "Frame_Wallet.png",
+        "type": ".png",
+        "relativePath": "/images/tp_MainUI/L10N_MainUI/Frame_Wallet.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_MainUI/L10N_MainUI/Frame_Wallet.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_MainUI/L10N_MainUI/Frame_Wallet.png",
+        "uuid-TH-USD": {
+          "Frame_Wallet": "4060f444-f874-496c-9058-957804260734"
+        },
+        "uuid-EN-USD": {
+          "Frame_Wallet": "3303c157-2e40-481f-a031-457ecd901b98"
+        }
+      },
+      {
+        "name": "Text_BamDeDung.png",
+        "type": ".png",
+        "relativePath": "/images/tp_MainUI/L10N_MainUI/Text_BamDeDung.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_MainUI/L10N_MainUI/Text_BamDeDung.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_MainUI/L10N_MainUI/Text_BamDeDung.png",
+        "uuid-TH-USD": {
+          "Text_BamDeDung": "95cb48f4-f0ff-4489-9f70-b4718f63a61c"
+        },
+        "uuid-EN-USD": {
+          "Text_BamDeDung": "4c17f6b9-566c-4d2f-95e5-0cd70187d500"
+        }
+      },
+      {
+        "name": "Text_GiuDeTuQuay.png",
+        "type": ".png",
+        "relativePath": "/images/tp_MainUI/L10N_MainUI/Text_GiuDeTuQuay.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_MainUI/L10N_MainUI/Text_GiuDeTuQuay.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_MainUI/L10N_MainUI/Text_GiuDeTuQuay.png",
+        "uuid-TH-USD": {
+          "Text_GiuDeTuQuay": "f4e58e80-b136-44a7-9d62-e2e67c9ff4a6"
+        },
+        "uuid-EN-USD": {
+          "Text_GiuDeTuQuay": "cd4911aa-4f9e-4f3d-8660-de44b7b29845"
+        }
+      },
+      {
+        "name": "Text_LenChau.png",
+        "type": ".png",
+        "relativePath": "/images/tp_MainUI/L10N_MainUI/Text_LenChau.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_MainUI/L10N_MainUI/Text_LenChau.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_MainUI/L10N_MainUI/Text_LenChau.png",
+        "uuid-TH-USD": {
+          "Text_LenChau": "c5613674-f54d-43b0-a65a-6ac82e5bca42"
+        },
+        "uuid-EN-USD": {
+          "Text_LenChau": "69189cc9-1ab5-48a5-a639-51ecb060d6c4"
+        }
+      },
+      {
+        "name": "s1.png",
+        "type": ".png",
+        "relativePath": "/images/tp_MainUI/L10N_MainUI/s1.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_MainUI/L10N_MainUI/s1.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_MainUI/L10N_MainUI/s1.png",
+        "uuid-TH-USD": {
+          "s1": "a3e9c7cc-75f6-41a8-99e9-bd145b123c9d"
+        },
+        "uuid-EN-USD": {
+          "s1": "881a7827-ab7f-4f2f-aaab-bf9e00ce13c2"
+        }
+      },
+      {
+        "name": "s2.png",
+        "type": ".png",
+        "relativePath": "/images/tp_MainUI/L10N_MainUI/s2.png",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/images/tp_MainUI/L10N_MainUI/s2.png",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/images/tp_MainUI/L10N_MainUI/s2.png",
+        "uuid-TH-USD": {
+          "s2": "f4660cee-e0cc-45c9-ba77-b451e96333ba"
+        },
+        "uuid-EN-USD": {
+          "s2": "58410e07-78b2-4a91-9b12-0bccba1e9107"
+        }
+      }
+    ],
+    "relatedRefs": [
+      {
+        "name": "OptionPrefab.prefab",
+        "type": ".prefab",
+        "relativePath": "/prefabs/cutScene/OptionPrefab.prefab",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/prefabs/cutScene/OptionPrefab.prefab",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/prefabs/cutScene/OptionPrefab.prefab",
+        "uuid-TH-USD": "fd46ca9b-0fd1-47f4-98a4-9761fce68485",
+        "uuid-EN-USD": "cef66fe1-f2bb-4e09-bbc2-9526101a1964"
+      },
+      {
+        "name": "BetCellHistory9983_EN.prefab",
+        "type": ".prefab",
+        "relativePath": "/prefabs/history/BetCellHistory9983_EN.prefab",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/prefabs/history/BetCellHistory9983_EN.prefab",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/prefabs/history/BetCellHistory9983_EN.prefab",
+        "uuid-TH-USD": "ed675e83-d565-4549-953d-6fa377f834ce",
+        "uuid-EN-USD": "e9eef274-bff2-450d-88b7-d3b7db10d901"
+      },
+      {
+        "name": "BetHistory9983_EN.prefab",
+        "type": ".prefab",
+        "relativePath": "/prefabs/history/BetHistory9983_EN.prefab",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/prefabs/history/BetHistory9983_EN.prefab",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/prefabs/history/BetHistory9983_EN.prefab",
+        "uuid-TH-USD": "8a0603e8-d31a-4905-870f-5590eb68ec1d",
+        "uuid-EN-USD": "1d407292-05d0-46fb-87b2-4670e49db524"
+      },
+      {
+        "name": "JackpotCellHistory9983_EN.prefab",
+        "type": ".prefab",
+        "relativePath": "/prefabs/history/JackpotCellHistory9983_EN.prefab",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/prefabs/history/JackpotCellHistory9983_EN.prefab",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/prefabs/history/JackpotCellHistory9983_EN.prefab",
+        "uuid-TH-USD": "3954bb11-3311-4655-84d3-1ebcb5e78b95",
+        "uuid-EN-USD": "f214631b-ccfc-4e31-a164-7dd45c36afa8"
+      },
+      {
+        "name": "InfoPrefab.prefab",
+        "type": ".prefab",
+        "relativePath": "/prefabs/InfoPrefab.prefab",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/prefabs/InfoPrefab.prefab",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/prefabs/InfoPrefab.prefab",
+        "uuid-TH-USD": "44e9278f-a254-418c-adbe-4b10e52b33d8",
+        "uuid-EN-USD": "eb9131d7-6360-4b0d-bbee-8edbbba32d95"
+      },
+      {
+        "name": "SlotSymbol9983_EN.prefab",
+        "type": ".prefab",
+        "relativePath": "/prefabs/SlotSymbol9983_EN.prefab",
+        "EN-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/EN-USD/prefabs/SlotSymbol9983_EN.prefab",
+        "TH-USD-url": "/Users/hue/cc-all-in-one/assets/cc-release/cc-taoquan-9983/Localization/TH-USD/prefabs/SlotSymbol9983_EN.prefab",
+        "uuid-TH-USD": "483c8edc-cda7-44bf-bc9f-d33dd7e6e022",
+        "uuid-EN-USD": "52c37a6c-abbb-4e81-b0e8-98fb065f5865"
+      }
+    ],
+    "mappingPairs": [
+      {
+        "TH-USD": "308d829e-f7de-4608-bdb0-37e980742ebb",
+        "EN-USD": "07c4fade-8daa-4264-a3bc-e699ecc63974"
+      },
+      {
+        "TH-USD": "b92125b1-242e-4fae-b9ee-d4906575d7ed",
+        "EN-USD": "d92bc858-490c-4f3e-90c0-75548d3ac49b"
+      },
+      {
+        "TH-USD": "b7dea2b4-97af-4559-996d-a391fe6a4cfb",
+        "EN-USD": "681b7abe-ec24-4f69-96cf-26e28fae20d6"
+      },
+      {
+        "TH-USD": "0ebb09f7-c441-4402-8b83-a1385efdbe59",
+        "EN-USD": "73399acc-318a-40da-bb20-85617e0c38c3"
+      },
+      {
+        "TH-USD": "3fd27059-7012-4117-bb24-8c1a40f30508",
+        "EN-USD": "6068867c-ca34-466b-90b6-4fa01f69fdd3"
+      },
+      {
+        "TH-USD": "2ef80ef9-6743-4202-b0fb-bb8c71d8ebde",
+        "EN-USD": "65b9a9f9-83d9-4c6d-90e0-ffa66196f827"
+      },
+      {
+        "TH-USD": "fa6debab-defc-4580-81a3-a3943ec1afe4",
+        "EN-USD": "37e47561-3323-4b22-9891-2841da247148"
+      },
+      {
+        "TH-USD": "14e87794-709c-4e13-99e1-2b229b0060df",
+        "EN-USD": "c18ee486-658a-4824-bb1b-3e142c7c616e"
+      },
+      {
+        "TH-USD": "91b151c5-c2f5-4488-ac76-c0adc610f3c0",
+        "EN-USD": "ba30ee06-d460-4f1d-97be-905740550a0b"
+      },
+      {
+        "TH-USD": "efe0235d-6502-469e-a04d-07ab1fbffb68",
+        "EN-USD": "eb565b91-af80-4a8a-85a0-ba27453aa026"
+      },
+      {
+        "TH-USD": "e492ad60-c088-4834-9c9c-d783039ebd4b",
+        "EN-USD": "a05f72ed-86c7-4909-aa2c-60681d38a812"
+      },
+      {
+        "TH-USD": "50c50298-624d-43e8-bc9a-97e1cbef8b02",
+        "EN-USD": "b99ae76c-39a3-4145-8e2f-2ec02abb3475"
+      },
+      {
+        "TH-USD": "98ff995a-af98-4a89-af6e-d8722da644d3",
+        "EN-USD": "250be907-1153-4c1d-af95-a66fcde4d8f3"
+      },
+      {
+        "TH-USD": "c99d4e84-d10c-419f-bdc2-6b3c87f0ad87",
+        "EN-USD": "c17ce69a-85da-472c-8695-8e14a8b8c3dd"
+      },
+      {
+        "TH-USD": "bfe483fc-aeb1-41e4-9a90-d7fc6aa95af8",
+        "EN-USD": "5b8ead9b-65a8-4411-982a-32ddfb214af5"
+      },
+      {
+        "TH-USD": "03536a31-9b39-410a-a0b9-fd52303759cc",
+        "EN-USD": "3627a6b7-e25c-4b5d-8977-ad1891a03691"
+      },
+      {
+        "TH-USD": "d0fb4ecb-e2e5-4f1c-adee-75d8a82303c6",
+        "EN-USD": "5eab8333-9e1e-4d0e-9f58-c0c9ed79df14"
+      },
+      {
+        "TH-USD": "81703f2e-2a61-4726-977c-86b6ff99b92c",
+        "EN-USD": "a6aac7ad-7cf8-4902-a2a9-430f563c5f2b"
+      },
+      {
+        "TH-USD": "6737d749-65ae-4faa-a691-12f26aa0b729",
+        "EN-USD": "12976da6-ecfc-4dff-a8ca-8b22a13aaa10"
+      },
+      {
+        "TH-USD": "75f2eb24-b38c-4954-b345-d51803aa4426",
+        "EN-USD": "059be6ef-2dbb-4d4e-afae-75ef74291afc"
+      },
+      {
+        "TH-USD": "8095ef83-ec6b-42ff-8f24-f6ffe2003e8a",
+        "EN-USD": "422ab7dc-3763-4fa9-820e-7485e912c576"
+      },
+      {
+        "TH-USD": "be9fad54-a28f-4959-9f9e-95d54ac8a936",
+        "EN-USD": "080ffbca-0438-4aea-80b1-f5af3ad803cc"
+      },
+      {
+        "TH-USD": "b3706a5e-2458-47e0-a868-75825a94735f",
+        "EN-USD": "3da9a1e1-69eb-46f2-a800-d4a338494279"
+      },
+      {
+        "TH-USD": "20c625c0-a175-436f-a9f2-f7a48b125760",
+        "EN-USD": "b42724ca-25a3-4f92-9196-8b56d819180e"
+      },
+      {
+        "TH-USD": "0e972324-0e36-430e-92a1-335cd037952e",
+        "EN-USD": "90d826b4-ef60-4f7a-be99-7a34f6e2e552"
+      },
+      {
+        "TH-USD": "7398b746-8043-47f4-bc35-962edeb61171",
+        "EN-USD": "cbe7f834-d29c-4c2b-a58e-0a2b35a73ca9"
+      },
+      {
+        "TH-USD": "cddbc596-6486-4d14-9ccf-6b890ac305e5",
+        "EN-USD": "fbd02a8b-ea69-4044-a0c5-8a182829885c"
+      },
+      {
+        "TH-USD": "8dfce61b-8658-4829-9a30-e7c20eadd129",
+        "EN-USD": "ff4f7f02-396a-4431-94b3-9e43c6d61a3e"
+      },
+      {
+        "TH-USD": "6311289c-f2d6-41ef-b71a-d44735e86e7d",
+        "EN-USD": "1e8a9400-adae-48fb-a625-a0b3c8ea7e5c"
+      },
+      {
+        "TH-USD": "d981a07f-ed9e-4c89-a05a-c3be837e2020",
+        "EN-USD": "137d625c-1113-4b59-b64e-7ef41d9c4456"
+      },
+      {
+        "TH-USD": "3fa33dd2-60af-45ca-8ee2-5ffab16bf18b",
+        "EN-USD": "fb65214a-b5b8-40c3-9ee2-add306fc44d9"
+      },
+      {
+        "TH-USD": "17e49eb1-016f-40e3-8935-277e9028273c",
+        "EN-USD": "24472e71-a243-45c6-8558-5a97fe873d9c"
+      },
+      {
+        "TH-USD": "f6fa0039-91ff-44a7-b133-aa315ca9aa05",
+        "EN-USD": "706b1318-2e64-4911-a7ac-994d938d5bfc"
+      },
+      {
+        "TH-USD": "b03423a8-fa4b-4219-b85c-d4e5bf68c33a",
+        "EN-USD": "f96a13bb-04f0-4f92-bdb1-01142843e45b"
+      },
+      {
+        "TH-USD": "a7e44e76-771c-487b-bf3c-808111c69c36",
+        "EN-USD": "4058fdde-37c2-4dc6-9d90-a2f50f81fd8f"
+      },
+      {
+        "TH-USD": "114ab146-a7c6-4159-95cb-360ce2f0f3c0",
+        "EN-USD": "a2989e25-971a-4ffe-a831-83dac34e5a03"
+      },
+      {
+        "TH-USD": "9047c986-1e1c-49d6-81a0-97ae2adc72c9",
+        "EN-USD": "0313b6cc-c563-434c-bdf3-a54d5049bdb3"
+      },
+      {
+        "TH-USD": "40af9602-5e92-4f15-bdae-bd7ed22f1aa6",
+        "EN-USD": "d9e9c1ff-5ab3-4dce-94a3-77bdfda19d08"
+      },
+      {
+        "TH-USD": "5eeac9aa-7b4e-4593-86a1-dc98d227a304",
+        "EN-USD": "86964d90-d40f-41db-8778-2fdb9f28d359"
+      },
+      {
+        "TH-USD": "bd18db5d-844e-4342-9b30-18b105c5027b",
+        "EN-USD": "8ae5c179-ac6b-4c0a-8359-324410c353ab"
+      },
+      {
+        "TH-USD": "69030d79-ae51-4094-99b8-c70813fbf6ff",
+        "EN-USD": "54afd945-8ff0-44a6-8cf2-38ca6f69d6c3"
+      },
+      {
+        "TH-USD": "0d8f3211-0352-4759-8e6b-e7ca2633c665",
+        "EN-USD": "11d86ab4-6d61-4efc-919d-0775d57388d9"
+      },
+      {
+        "TH-USD": "76306b5c-76c9-4657-a6c8-3737dec27d86",
+        "EN-USD": "0e22298e-3844-4523-9170-dedc7c70f410"
+      },
+      {
+        "TH-USD": "946146c0-0f10-47ba-866d-3e74c7082bf8",
+        "EN-USD": "f65c16f2-d9c6-4e12-8c28-847d876ce45b"
+      },
+      {
+        "TH-USD": "f6315bd6-828b-4868-9473-91e32318f7d7",
+        "EN-USD": "2d882b27-fb38-41b2-bf14-b77ec2bfcdf6"
+      },
+      {
+        "TH-USD": "ff1aec1f-77ad-42b5-86d5-a2a4060947be",
+        "EN-USD": "10332e78-247b-4511-bc77-4ad4e1fb02a1"
+      },
+      {
+        "TH-USD": "85029def-d292-4039-be82-239899378fff",
+        "EN-USD": "af85cba9-efd6-4a31-984c-0cb9764a21cb"
+      },
+      {
+        "TH-USD": "76f122ae-f76a-4c68-b183-90a6592f3ab5",
+        "EN-USD": "f7b40b14-d2eb-4988-878c-57330fdd84ed"
+      },
+      {
+        "TH-USD": "c1e8a075-b8dd-4086-b4b6-a2be4b79e530",
+        "EN-USD": "042101ec-5db5-4aa2-b712-9c5bfcca46dd"
+      },
+      {
+        "TH-USD": "4c5dade1-6571-4787-8c51-bc668472efd1",
+        "EN-USD": "4b1b3e3b-ac3d-41e8-8512-260b090fa82e"
+      },
+      {
+        "TH-USD": "9f9dc161-0ac1-440c-8cfe-8a3f98afec74",
+        "EN-USD": "6dd718df-24e1-44d5-8f00-96fab1f0a43e"
+      },
+      {
+        "TH-USD": "504dc9ce-5ade-47c5-a4f3-93f69418463a",
+        "EN-USD": "169319c3-df6a-431b-9c70-47af15ca2cf9"
+      },
+      {
+        "TH-USD": "e03aa62f-0b8a-4f3b-bb64-1b826267991b",
+        "EN-USD": "39114815-cac3-4fa9-aff1-b35cf7447699"
+      },
+      {
+        "TH-USD": "adb0f59c-eefb-4690-a1ed-c4a234de2a0a",
+        "EN-USD": "ec0c053e-5310-4fe3-aa9a-876ed730f7d9"
+      },
+      {
+        "TH-USD": "d588da93-fd43-40f3-9a07-01e11497f2d5",
+        "EN-USD": "786587e0-5cb1-4f4f-99b0-eb6077f962f1"
+      },
+      {
+        "TH-USD": "f6348376-1174-4aef-9020-7079dd3d3155",
+        "EN-USD": "986b26c6-1503-40bb-a6c3-d4eb17f70506"
+      },
+      {
+        "TH-USD": "c555755c-7c23-4639-9b19-1efcbf47448a",
+        "EN-USD": "36b3f721-9333-45c5-add2-a7e960d22165"
+      },
+      {
+        "TH-USD": "4060f444-f874-496c-9058-957804260734",
+        "EN-USD": "3303c157-2e40-481f-a031-457ecd901b98"
+      },
+      {
+        "TH-USD": "95cb48f4-f0ff-4489-9f70-b4718f63a61c",
+        "EN-USD": "4c17f6b9-566c-4d2f-95e5-0cd70187d500"
+      },
+      {
+        "TH-USD": "f4e58e80-b136-44a7-9d62-e2e67c9ff4a6",
+        "EN-USD": "cd4911aa-4f9e-4f3d-8660-de44b7b29845"
+      },
+      {
+        "TH-USD": "c5613674-f54d-43b0-a65a-6ac82e5bca42",
+        "EN-USD": "69189cc9-1ab5-48a5-a639-51ecb060d6c4"
+      },
+      {
+        "TH-USD": "a3e9c7cc-75f6-41a8-99e9-bd145b123c9d",
+        "EN-USD": "881a7827-ab7f-4f2f-aaab-bf9e00ce13c2"
+      },
+      {
+        "TH-USD": "f4660cee-e0cc-45c9-ba77-b451e96333ba",
+        "EN-USD": "58410e07-78b2-4a91-9b12-0bccba1e9107"
+      },
+      {
+        "TH-USD": "fd46ca9b-0fd1-47f4-98a4-9761fce68485",
+        "EN-USD": "cef66fe1-f2bb-4e09-bbc2-9526101a1964"
+      },
+      {
+        "TH-USD": "ed675e83-d565-4549-953d-6fa377f834ce",
+        "EN-USD": "e9eef274-bff2-450d-88b7-d3b7db10d901"
+      },
+      {
+        "TH-USD": "8a0603e8-d31a-4905-870f-5590eb68ec1d",
+        "EN-USD": "1d407292-05d0-46fb-87b2-4670e49db524"
+      },
+      {
+        "TH-USD": "3954bb11-3311-4655-84d3-1ebcb5e78b95",
+        "EN-USD": "f214631b-ccfc-4e31-a164-7dd45c36afa8"
+      },
+      {
+        "TH-USD": "44e9278f-a254-418c-adbe-4b10e52b33d8",
+        "EN-USD": "eb9131d7-6360-4b0d-bbee-8edbbba32d95"
+      },
+      {
+        "TH-USD": "483c8edc-cda7-44bf-bc9f-d33dd7e6e022",
+        "EN-USD": "52c37a6c-abbb-4e81-b0e8-98fb065f5865"
+      },
+      {
+        "TH-USD": "fd46ca9b-0fd1-47f4-98a4-9761fce68485",
+        "EN-USD": "cef66fe1-f2bb-4e09-bbc2-9526101a1964"
+      },
+      {
+        "TH-USD": "ed675e83-d565-4549-953d-6fa377f834ce",
+        "EN-USD": "e9eef274-bff2-450d-88b7-d3b7db10d901"
+      },
+      {
+        "TH-USD": "8a0603e8-d31a-4905-870f-5590eb68ec1d",
+        "EN-USD": "1d407292-05d0-46fb-87b2-4670e49db524"
+      },
+      {
+        "TH-USD": "3954bb11-3311-4655-84d3-1ebcb5e78b95",
+        "EN-USD": "f214631b-ccfc-4e31-a164-7dd45c36afa8"
+      },
+      {
+        "TH-USD": "44e9278f-a254-418c-adbe-4b10e52b33d8",
+        "EN-USD": "eb9131d7-6360-4b0d-bbee-8edbbba32d95"
+      },
+      {
+        "TH-USD": "483c8edc-cda7-44bf-bc9f-d33dd7e6e022",
+        "EN-USD": "52c37a6c-abbb-4e81-b0e8-98fb065f5865"
+      }
+    ],
+    "scenes": [],
+    "prefabRefs": []
+  }
+}

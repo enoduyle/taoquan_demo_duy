@@ -1,0 +1,152 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "Avatar.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "AnDanh": {
+      "__uuid__": "c2648775-1b9c-434e-9d2e-dc7ca1e561fd"
+    },
+    "Avatar0": {
+      "__uuid__": "c484b15c-f4c7-4c2a-93e7-09ea1982dfc7"
+    },
+    "Avatar1": {
+      "__uuid__": "cec3ac23-1f03-422b-b759-7dc38f014ab2"
+    },
+    "Avatar10": {
+      "__uuid__": "9621bd85-0a37-43d3-a2a5-e45dc139ab5e"
+    },
+    "Avatar11": {
+      "__uuid__": "92086b78-998f-47e5-9774-c3af2a5dc4be"
+    },
+    "Avatar12": {
+      "__uuid__": "a83034f0-82fd-4923-9932-96b06adf8de2"
+    },
+    "Avatar13": {
+      "__uuid__": "6a657a29-17f5-4ff5-a978-b7d286e9245b"
+    },
+    "Avatar14": {
+      "__uuid__": "d86903a1-8893-4ec5-84e3-401933d701db"
+    },
+    "Avatar15": {
+      "__uuid__": "2284b394-51bc-4f73-87e7-3a2a05fe0ad7"
+    },
+    "Avatar16": {
+      "__uuid__": "5fd61081-980d-410a-9da2-f0f68b17f511"
+    },
+    "Avatar17": {
+      "__uuid__": "643ea2fa-2ca9-4ba8-b6fd-72ebcbc9c851"
+    },
+    "Avatar18": {
+      "__uuid__": "91471e88-bcd4-43d6-9d14-5926fbe072e4"
+    },
+    "Avatar19": {
+      "__uuid__": "69608633-d86d-40c3-9577-0a2903ed6f1c"
+    },
+    "Avatar2": {
+      "__uuid__": "9fa36f81-27af-479d-a369-9aa502b22185"
+    },
+    "Avatar20": {
+      "__uuid__": "32c2e25f-1679-484f-bd14-516c0db7f91c"
+    },
+    "Avatar21": {
+      "__uuid__": "3992fc20-daf0-4357-8d58-4a5567640142"
+    },
+    "Avatar22": {
+      "__uuid__": "0dd4aa0c-04a0-4ba0-a37c-548a234c623f"
+    },
+    "Avatar23": {
+      "__uuid__": "66b80fe0-8fb8-49ae-8c23-835c8634aa65"
+    },
+    "Avatar24": {
+      "__uuid__": "87a5b92f-24aa-4975-b9c2-ea71f827e714"
+    },
+    "Avatar25": {
+      "__uuid__": "049fba47-712b-45bc-8aa5-4fe934ee8d78"
+    },
+    "Avatar26": {
+      "__uuid__": "3f72d2ef-f2b0-426d-a937-25d1c3391df6"
+    },
+    "Avatar27": {
+      "__uuid__": "f4aa7241-28bb-4065-a333-9d831a801c7f"
+    },
+    "Avatar28": {
+      "__uuid__": "fdb58f6f-e2c7-4fb8-90f9-7b288057d3e0"
+    },
+    "Avatar29": {
+      "__uuid__": "9d0ae237-943d-446c-9900-31fadd6fcfbf"
+    },
+    "Avatar3": {
+      "__uuid__": "f2ca0c2a-55c0-4cdf-b4a3-bc423a11c8bf"
+    },
+    "Avatar30": {
+      "__uuid__": "57b614ef-0278-4ed2-833c-c3c8cbcbe8fc"
+    },
+    "Avatar31": {
+      "__uuid__": "da14d940-d93c-4235-a624-674e44fddcac"
+    },
+    "Avatar32": {
+      "__uuid__": "ffc03a74-5bb2-4f90-8d5c-be116801ab66"
+    },
+    "Avatar33": {
+      "__uuid__": "cf436cfb-abc7-4666-8f9a-bf89b4d36c4c"
+    },
+    "Avatar34": {
+      "__uuid__": "4d4f827a-daa4-4061-bfaf-2e8c7a7c939e"
+    },
+    "Avatar35": {
+      "__uuid__": "9ef5ee39-05d7-4321-badc-c4ac293733a1"
+    },
+    "Avatar36": {
+      "__uuid__": "fd5dfbdb-747a-4e31-a8ea-839aeb8b7f5c"
+    },
+    "Avatar37": {
+      "__uuid__": "3fcca188-af44-492d-ad0e-d13838c18647"
+    },
+    "Avatar38": {
+      "__uuid__": "15d899d6-d0ce-46d9-8067-90b80cddeda4"
+    },
+    "Avatar39": {
+      "__uuid__": "9d0b5a6e-f4b8-43a2-8542-67e64863f47d"
+    },
+    "Avatar4": {
+      "__uuid__": "42c5dfd0-4f65-4fef-a9ca-e2938c1ea567"
+    },
+    "Avatar40": {
+      "__uuid__": "69c52aa5-5658-48c3-aa4f-30459ec17e85"
+    },
+    "Avatar41": {
+      "__uuid__": "5bba1ef0-e3ba-464b-918a-1abc64f65a9e"
+    },
+    "Avatar5": {
+      "__uuid__": "141c3aa9-80f7-4d7c-ad2c-6783bcddee82"
+    },
+    "Avatar6": {
+      "__uuid__": "34e7c3b0-dc64-457d-9d62-101d49ffa0df"
+    },
+    "Avatar7": {
+      "__uuid__": "f28cbeac-c5de-47f0-8fce-913e4caf6a99"
+    },
+    "Avatar8": {
+      "__uuid__": "3c8ffc52-53e2-4184-be57-4c7406ebc7b5"
+    },
+    "Avatar9": {
+      "__uuid__": "4fc1f952-ab40-452e-aaa8-56fbcd1c887b"
+    },
+    "avatarLarge": {
+      "__uuid__": "1a9487b3-a3e0-4217-a7e6-6f40515b2645"
+    },
+    "iconBoderCheck": {
+      "__uuid__": "a365e001-00b1-4300-bf3a-eb88edaf86f3"
+    },
+    "iconCheckCopy": {
+      "__uuid__": "2d0f61e3-f7a6-49e3-a623-2c5f86484b11"
+    },
+    "iconThoatBan": {
+      "__uuid__": "4426ddc0-388a-4979-a400-bef1ad4d6afb"
+    },
+    "masterRoom": {
+      "__uuid__": "d175324c-26a9-4973-8d26-f80c1b5cd592"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btnSuKien@3x",
+    "texture": "6fb30082-149f-48ae-9903-420069a4c309",
+    "atlas": "1fa06828-8988-4354-b63d-2fa91cf99ecc",
+    "rect": [
+      635,
+      864,
+      67,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      67,
+      65
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "ReadMe",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "### Test Back To Lobby\n\n- Change properties:\n    + sceneName: ${yourScene}\n\n- Change appConfig.js:  \n    + LOBBY_SCENE_NAME: \"LobbyTest\",\n"
+}

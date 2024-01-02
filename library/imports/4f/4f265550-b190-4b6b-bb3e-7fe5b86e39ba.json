@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Roll_Black",
+    "texture": "f3ed09ff-3b1a-4b64-ab7a-9e86eb58673b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      157,
+      37
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      158,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

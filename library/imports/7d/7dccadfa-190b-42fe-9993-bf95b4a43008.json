@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Spakles_TotalWin",
+    "texture": "d3e61abd-6816-4cd2-b3b1-3dd5c2f8843a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      182,
+      86
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      182,
+      86
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

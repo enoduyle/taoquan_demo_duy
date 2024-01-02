@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../assets/cc-taoquan-9083/assets/cc-taoquan-9083/JackpotWin9083.js"],"names":["cc","Class","extends","require"],"mappings":";;;;;;AAAAA,GAAGC,KAAH,CAAS;AACLC,aAASC,QAAQ,cAAR;AADJ,CAAT","file":"JackpotWin9083.js","sourceRoot":"../../../../assets/cc-taoquan-9083","sourcesContent":["cc.Class({\n    extends: require('JackpotWinv2'),\n});"]}

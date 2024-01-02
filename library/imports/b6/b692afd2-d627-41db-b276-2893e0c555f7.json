@@ -1,0 +1,423 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "23",
+  "_objFlags": 0,
+  "_native": "",
+  "skeletonJsonStr": "{\"skeleton\":{\"hash\":\"GH1GoWks1IyaNAspMhi/bYbD74g\",\"spine\":\"2.1.27\",\"width\":85,\"height\":94.1,\"images\":\"\"},\"bones\":[{\"name\":\"root\"},{\"name\":\"khuonmat\",\"parent\":\"root\"},{\"name\":\"luoi\",\"parent\":\"root\",\"x\":23.92,\"y\":-24.56},{\"name\":\"mat\",\"parent\":\"root\",\"x\":2.55,\"y\":29.17},{\"name\":\"mieng\",\"parent\":\"root\",\"x\":1.7,\"y\":-18.7},{\"name\":\"tien1\",\"parent\":\"root\",\"x\":19.2,\"y\":29.46},{\"name\":\"tien2\",\"parent\":\"root\",\"x\":-17.43,\"y\":24.94,\"scaleX\":0.8,\"scaleY\":0.8}],\"slots\":[{\"name\":\"images/bong\",\"bone\":\"root\",\"attachment\":\"images/bong\"},{\"name\":\"images/khuonmat\",\"bone\":\"khuonmat\",\"attachment\":\"images/khuonmat\"},{\"name\":\"images/mat\",\"bone\":\"mat\",\"attachment\":\"images/mat\"},{\"name\":\"images/mieng\",\"bone\":\"mieng\",\"attachment\":\"images/mieng\"},{\"name\":\"images/luoi\",\"bone\":\"luoi\",\"attachment\":\"images/luoi\"},{\"name\":\"images/tien0001\",\"bone\":\"tien1\",\"attachment\":\"images/tien0001\"},{\"name\":\"images/tien1\",\"bone\":\"tien2\",\"attachment\":\"images/tien0001\"},{\"name\":\"images/tien0002\",\"bone\":\"tien1\"},{\"name\":\"images/tien2\",\"bone\":\"tien2\"},{\"name\":\"images/tien0003\",\"bone\":\"tien1\"},{\"name\":\"images/tien3\",\"bone\":\"tien2\"},{\"name\":\"images/tien0004\",\"bone\":\"tien1\"},{\"name\":\"images/tien4\",\"bone\":\"tien2\"},{\"name\":\"images/tien0005\",\"bone\":\"tien1\"},{\"name\":\"images/tien5\",\"bone\":\"tien2\"}],\"skins\":{\"default\":{\"images/bong\":{\"images/bong\":{\"y\":-42.92,\"width\":83,\"height\":12}},\"images/khuonmat\":{\"images/khuonmat\":{\"width\":85,\"height\":85}},\"images/luoi\":{\"images/luoi\":{\"x\":0.93,\"y\":-9.12,\"width\":22,\"height\":24}},\"images/mat\":{\"images/mat\":{\"width\":67,\"height\":32}},\"images/mieng\":{\"images/mieng\":{\"width\":74,\"height\":33}},\"images/tien0001\":{\"images/tien0001\":{\"width\":12,\"height\":29}},\"images/tien0002\":{\"images/tien0002\":{\"width\":12,\"height\":29}},\"images/tien0003\":{\"images/tien0003\":{\"width\":12,\"height\":29}},\"images/tien0004\":{\"images/tien0004\":{\"width\":12,\"height\":29}},\"images/tien0005\":{\"images/tien0005\":{\"width\":12,\"height\":29}},\"images/tien1\":{\"images/tien0001\":{\"width\":12,\"height\":29}},\"images/tien2\":{\"images/tien0002\":{\"width\":12,\"height\":29}},\"images/tien3\":{\"images/tien0003\":{\"width\":12,\"height\":29}},\"images/tien4\":{\"images/tien0004\":{\"width\":12,\"height\":29}},\"images/tien5\":{\"images/tien0005\":{\"width\":12,\"height\":29}}}},\"animations\":{\"animation\":{\"slots\":{\"images/tien0001\":{\"attachment\":[{\"time\":0,\"name\":\"images/tien0001\"},{\"time\":0.0666,\"name\":null}]},\"images/tien1\":{\"attachment\":[{\"time\":0,\"name\":\"images/tien0001\"},{\"time\":0.0666,\"name\":null}]},\"images/tien0002\":{\"attachment\":[{\"time\":0.0666,\"name\":\"images/tien0002\"},{\"time\":0.1333,\"name\":null}]},\"images/tien2\":{\"attachment\":[{\"time\":0.0666,\"name\":\"images/tien0002\"},{\"time\":0.1333,\"name\":null}]},\"images/tien0003\":{\"attachment\":[{\"time\":0.1333,\"name\":\"images/tien0003\"},{\"time\":0.2,\"name\":null}]},\"images/tien3\":{\"attachment\":[{\"time\":0.1333,\"name\":\"images/tien0003\"},{\"time\":0.2,\"name\":null}]},\"images/tien0004\":{\"attachment\":[{\"time\":0.2,\"name\":\"images/tien0004\"},{\"time\":0.2666,\"name\":null}]},\"images/tien4\":{\"attachment\":[{\"time\":0.2,\"name\":\"images/tien0004\"},{\"time\":0.2666,\"name\":null}]},\"images/tien0005\":{\"attachment\":[{\"time\":0.2666,\"name\":\"images/tien0005\"}]},\"images/tien5\":{\"attachment\":[{\"time\":0.2666,\"name\":\"images/tien0005\"}]}},\"bones\":{\"luoi\":{\"rotate\":[{\"time\":0,\"angle\":0},{\"time\":0.0666,\"angle\":17.09},{\"time\":0.1666,\"angle\":0},{\"time\":0.2666,\"angle\":-19.56},{\"time\":0.3333,\"angle\":0}],\"translate\":[{\"time\":0,\"x\":0,\"y\":0},{\"time\":0.0666,\"x\":0,\"y\":1.87},{\"time\":0.1666,\"x\":0,\"y\":0},{\"time\":0.2666,\"x\":0,\"y\":-0.23},{\"time\":0.3333,\"x\":0,\"y\":0}],\"scale\":[{\"time\":0,\"x\":1,\"y\":1,\"curve\":\"stepped\"},{\"time\":0.1666,\"x\":1,\"y\":1,\"curve\":\"stepped\"},{\"time\":0.3333,\"x\":1,\"y\":1}]}}}}}",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "GH1GoWks1IyaNAspMhi/bYbD74g",
+      "spine": "2.1.27",
+      "width": 85,
+      "height": 94.1,
+      "images": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "khuonmat",
+        "parent": "root"
+      },
+      {
+        "name": "luoi",
+        "parent": "root",
+        "x": 23.92,
+        "y": -24.56
+      },
+      {
+        "name": "mat",
+        "parent": "root",
+        "x": 2.55,
+        "y": 29.17
+      },
+      {
+        "name": "mieng",
+        "parent": "root",
+        "x": 1.7,
+        "y": -18.7
+      },
+      {
+        "name": "tien1",
+        "parent": "root",
+        "x": 19.2,
+        "y": 29.46
+      },
+      {
+        "name": "tien2",
+        "parent": "root",
+        "x": -17.43,
+        "y": 24.94,
+        "scaleX": 0.8,
+        "scaleY": 0.8
+      }
+    ],
+    "slots": [
+      {
+        "name": "images/bong",
+        "bone": "root",
+        "attachment": "images/bong"
+      },
+      {
+        "name": "images/khuonmat",
+        "bone": "khuonmat",
+        "attachment": "images/khuonmat"
+      },
+      {
+        "name": "images/mat",
+        "bone": "mat",
+        "attachment": "images/mat"
+      },
+      {
+        "name": "images/mieng",
+        "bone": "mieng",
+        "attachment": "images/mieng"
+      },
+      {
+        "name": "images/luoi",
+        "bone": "luoi",
+        "attachment": "images/luoi"
+      },
+      {
+        "name": "images/tien0001",
+        "bone": "tien1",
+        "attachment": "images/tien0001"
+      },
+      {
+        "name": "images/tien1",
+        "bone": "tien2",
+        "attachment": "images/tien0001"
+      },
+      {
+        "name": "images/tien0002",
+        "bone": "tien1"
+      },
+      {
+        "name": "images/tien2",
+        "bone": "tien2"
+      },
+      {
+        "name": "images/tien0003",
+        "bone": "tien1"
+      },
+      {
+        "name": "images/tien3",
+        "bone": "tien2"
+      },
+      {
+        "name": "images/tien0004",
+        "bone": "tien1"
+      },
+      {
+        "name": "images/tien4",
+        "bone": "tien2"
+      },
+      {
+        "name": "images/tien0005",
+        "bone": "tien1"
+      },
+      {
+        "name": "images/tien5",
+        "bone": "tien2"
+      }
+    ],
+    "skins": {
+      "default": {
+        "images/bong": {
+          "images/bong": {
+            "y": -42.92,
+            "width": 83,
+            "height": 12
+          }
+        },
+        "images/khuonmat": {
+          "images/khuonmat": {
+            "width": 85,
+            "height": 85
+          }
+        },
+        "images/luoi": {
+          "images/luoi": {
+            "x": 0.93,
+            "y": -9.12,
+            "width": 22,
+            "height": 24
+          }
+        },
+        "images/mat": {
+          "images/mat": {
+            "width": 67,
+            "height": 32
+          }
+        },
+        "images/mieng": {
+          "images/mieng": {
+            "width": 74,
+            "height": 33
+          }
+        },
+        "images/tien0001": {
+          "images/tien0001": {
+            "width": 12,
+            "height": 29
+          }
+        },
+        "images/tien0002": {
+          "images/tien0002": {
+            "width": 12,
+            "height": 29
+          }
+        },
+        "images/tien0003": {
+          "images/tien0003": {
+            "width": 12,
+            "height": 29
+          }
+        },
+        "images/tien0004": {
+          "images/tien0004": {
+            "width": 12,
+            "height": 29
+          }
+        },
+        "images/tien0005": {
+          "images/tien0005": {
+            "width": 12,
+            "height": 29
+          }
+        },
+        "images/tien1": {
+          "images/tien0001": {
+            "width": 12,
+            "height": 29
+          }
+        },
+        "images/tien2": {
+          "images/tien0002": {
+            "width": 12,
+            "height": 29
+          }
+        },
+        "images/tien3": {
+          "images/tien0003": {
+            "width": 12,
+            "height": 29
+          }
+        },
+        "images/tien4": {
+          "images/tien0004": {
+            "width": 12,
+            "height": 29
+          }
+        },
+        "images/tien5": {
+          "images/tien0005": {
+            "width": 12,
+            "height": 29
+          }
+        }
+      }
+    },
+    "animations": {
+      "animation": {
+        "slots": {
+          "images/tien0001": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "images/tien0001"
+              },
+              {
+                "time": 0.0666,
+                "name": null
+              }
+            ]
+          },
+          "images/tien1": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "images/tien0001"
+              },
+              {
+                "time": 0.0666,
+                "name": null
+              }
+            ]
+          },
+          "images/tien0002": {
+            "attachment": [
+              {
+                "time": 0.0666,
+                "name": "images/tien0002"
+              },
+              {
+                "time": 0.1333,
+                "name": null
+              }
+            ]
+          },
+          "images/tien2": {
+            "attachment": [
+              {
+                "time": 0.0666,
+                "name": "images/tien0002"
+              },
+              {
+                "time": 0.1333,
+                "name": null
+              }
+            ]
+          },
+          "images/tien0003": {
+            "attachment": [
+              {
+                "time": 0.1333,
+                "name": "images/tien0003"
+              },
+              {
+                "time": 0.2,
+                "name": null
+              }
+            ]
+          },
+          "images/tien3": {
+            "attachment": [
+              {
+                "time": 0.1333,
+                "name": "images/tien0003"
+              },
+              {
+                "time": 0.2,
+                "name": null
+              }
+            ]
+          },
+          "images/tien0004": {
+            "attachment": [
+              {
+                "time": 0.2,
+                "name": "images/tien0004"
+              },
+              {
+                "time": 0.2666,
+                "name": null
+              }
+            ]
+          },
+          "images/tien4": {
+            "attachment": [
+              {
+                "time": 0.2,
+                "name": "images/tien0004"
+              },
+              {
+                "time": 0.2666,
+                "name": null
+              }
+            ]
+          },
+          "images/tien0005": {
+            "attachment": [
+              {
+                "time": 0.2666,
+                "name": "images/tien0005"
+              }
+            ]
+          },
+          "images/tien5": {
+            "attachment": [
+              {
+                "time": 0.2666,
+                "name": "images/tien0005"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "luoi": {
+            "rotate": [
+              {
+                "time": 0,
+                "angle": 0
+              },
+              {
+                "time": 0.0666,
+                "angle": 17.09
+              },
+              {
+                "time": 0.1666,
+                "angle": 0
+              },
+              {
+                "time": 0.2666,
+                "angle": -19.56
+              },
+              {
+                "time": 0.3333,
+                "angle": 0
+              }
+            ],
+            "translate": [
+              {
+                "time": 0,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.0666,
+                "x": 0,
+                "y": 1.87
+              },
+              {
+                "time": 0.1666,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.2666,
+                "x": 0,
+                "y": -0.23
+              },
+              {
+                "time": 0.3333,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.1666,
+                "x": 1,
+                "y": 1,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3333,
+                "x": 1,
+                "y": 1
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\n23.png\nsize: 256,128\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nimages/bong\n  rotate: false\n  xy: 158, 110\n  size: 83, 12\n  orig: 83, 12\n  offset: 0, 0\n  index: -1\nimages/khuonmat\n  rotate: false\n  xy: 2, 37\n  size: 85, 85\n  orig: 85, 85\n  offset: 0, 0\n  index: -1\nimages/luoi\n  rotate: false\n  xy: 89, 64\n  size: 22, 24\n  orig: 22, 24\n  offset: 0, 0\n  index: -1\nimages/mat\n  rotate: false\n  xy: 89, 90\n  size: 67, 32\n  orig: 67, 32\n  offset: 0, 0\n  index: -1\nimages/mieng\n  rotate: false\n  xy: 2, 2\n  size: 74, 33\n  orig: 74, 33\n  offset: 0, 0\n  index: -1\nimages/tien0001\n  rotate: true\n  xy: 158, 96\n  size: 12, 29\n  orig: 12, 29\n  offset: 0, 0\n  index: -1\nimages/tien0002\n  rotate: true\n  xy: 113, 76\n  size: 12, 29\n  orig: 12, 29\n  offset: 0, 0\n  index: -1\nimages/tien0003\n  rotate: true\n  xy: 189, 96\n  size: 12, 29\n  orig: 12, 29\n  offset: 0, 0\n  index: -1\nimages/tien0004\n  rotate: true\n  xy: 113, 62\n  size: 12, 29\n  orig: 12, 29\n  offset: 0, 0\n  index: -1\nimages/tien0005\n  rotate: false\n  xy: 78, 6\n  size: 12, 29\n  orig: 12, 29\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "dd21d48d-c620-416f-9065-ed35c9475bc2"
+    }
+  ],
+  "textureNames": [
+    "23.png"
+  ],
+  "scale": 1
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["SlotTablePayline9083.js"],"names":["cc","Class","extends","require"],"mappings":";;;;;;AAAAA,GAAGC,KAAH,CAAS;AACLC,aAASC,QAAQ,oBAAR;AADJ,CAAT","file":"SlotTablePayline9083.js","sourceRoot":"../../../../assets/cc-taoquan-9083","sourcesContent":["cc.Class({\n    extends: require('SlotTablePaylinev2'),\n});"]}

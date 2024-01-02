@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ArialB_W_K38-export",
+    "texture": "dc79d6c7-7daa-450d-b101-43a804f83479",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      533,
+      535
+    ],
+    "offset": [
+      -1.5,
+      1.5
+    ],
+    "originalSize": [
+      536,
+      538
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

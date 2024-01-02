@@ -1,0 +1,92 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "gameIcon.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "1": {
+      "__uuid__": "e0a4262f-4a8a-4f9d-87e9-bab82da5a0c7"
+    },
+    "2": {
+      "__uuid__": "d2d8c044-4504-42cf-9b5a-8a4de947899c"
+    },
+    "3": {
+      "__uuid__": "17c0905e-5333-488e-b23b-a4d13598bdbd"
+    },
+    "4": {
+      "__uuid__": "e606043d-7cf6-48c8-a115-b1d5fb2eef8a"
+    },
+    "6": {
+      "__uuid__": "c0b21a6f-259d-41a8-994a-cf02df4fc354"
+    },
+    "7": {
+      "__uuid__": "aa0c3dc2-a0de-4596-9b94-76d1f778f8ad"
+    },
+    "8": {
+      "__uuid__": "d443234d-192a-43e2-9081-fe46b193beba"
+    },
+    "9": {
+      "__uuid__": "c5a66315-9ebe-4ce6-866d-bcabed5117db"
+    },
+    "10": {
+      "__uuid__": "3747937a-0ea3-4ce2-b7e3-e4f0ed50ed32"
+    },
+    "11": {
+      "__uuid__": "bbd17867-b859-464c-ba93-38e9fec05f1a"
+    },
+    "12": {
+      "__uuid__": "be2ce6fe-e74d-41c2-b95c-7dc89a2777d6"
+    },
+    "13": {
+      "__uuid__": "c5e88c95-0b9c-477d-8ad6-379d8af1e22f"
+    },
+    "14": {
+      "__uuid__": "62c3f282-f47b-42bf-af62-6a048280d5a5"
+    },
+    "16": {
+      "__uuid__": "3069bdc0-2ca9-4f5c-8985-679890e4a81c"
+    },
+    "17": {
+      "__uuid__": "ec1de97a-a5c9-4860-9bb3-73778f3f3249"
+    },
+    "18": {
+      "__uuid__": "acc638c5-e29e-4705-b1e7-4c90d013860e"
+    },
+    "21": {
+      "__uuid__": "f90126bf-42b6-49a2-b9b7-69387f2d3810"
+    },
+    "22": {
+      "__uuid__": "92b0ea4f-cfb9-487b-a97c-2e9adddcccec"
+    },
+    "23": {
+      "__uuid__": "a460ee55-1622-43d0-bf49-fc7951cb5ce3"
+    },
+    "24": {
+      "__uuid__": "3d7cd3f2-d30e-4086-9407-3787da8bb057"
+    },
+    "25": {
+      "__uuid__": "cedf8756-f9df-4167-b6a9-bb829fb37aba"
+    },
+    "26": {
+      "__uuid__": "3bd17f1c-4db9-4c51-87d6-36c83f69bc67"
+    },
+    "29": {
+      "__uuid__": "5c6b6772-4ad4-4a03-ab29-2169fc10d4fc"
+    },
+    "borderNameGame": {
+      "__uuid__": "ef95b5b5-4b54-4ec6-a0cd-6e2b15dafeae"
+    },
+    "comingSoomLarge": {
+      "__uuid__": "822cceb0-2b39-4ef6-b83b-4b0b5c5d857a"
+    },
+    "comingsoonMini": {
+      "__uuid__": "ea9dfc6d-de0d-4e6a-aac2-8c4ed1e5a0bf"
+    },
+    "icoline": {
+      "__uuid__": "54772622-1deb-40f1-ae80-c864881e5c60"
+    },
+    "lichSuCuocTheThao": {
+      "__uuid__": "96abecf4-4f77-42e7-9131-e4ef3466c97c"
+    }
+  }
+}

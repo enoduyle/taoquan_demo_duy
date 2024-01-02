@@ -1,0 +1,11 @@
+{
+    "isPortrait": false,
+    "games": {
+        "9906": {
+            "isPortrait": false,
+            "startScene": "g9906",
+            "isActive": true,
+            "icon": "9906"
+        }
+    }
+}

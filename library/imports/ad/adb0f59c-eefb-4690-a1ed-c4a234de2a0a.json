@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Text_SFX",
+    "texture": "5661b68d-3a68-45a8-8e5a-cd7762e7d331",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      343,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      343,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

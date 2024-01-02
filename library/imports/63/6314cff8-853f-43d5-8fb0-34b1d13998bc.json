@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "livestream",
+    "texture": "f69f1e96-b3af-46ab-a60f-30201ba74b93",
+    "atlas": "3c18f988-e2d2-4cec-a118-84be5bb7a102",
+    "rect": [
+      305,
+      1803,
+      125,
+      61
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      125,
+      61
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

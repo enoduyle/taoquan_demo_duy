@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "info_5_2",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "<outline color=black width=1>\n   <color=yellow>เหรียญที่ชนะทั้งหมด</color> = วิถีทางเดิมพันที่ชนะทั้งหมด x ตารางการชำระเงิน = (2 x 1 x 3) x 15 = 90\n</outline>"
+}

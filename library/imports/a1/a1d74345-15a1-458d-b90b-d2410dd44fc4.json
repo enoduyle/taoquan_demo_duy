@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "textLastWin",
+    "texture": "cbc6fb1e-a8af-473d-9703-d64f29ac7a51",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      207,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      207,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

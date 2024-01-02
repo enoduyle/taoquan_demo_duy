@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "info_5",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "<outline color=black width=1><img src='Dot' anchorY=-0.6 scale=1/><color=yellow>เทพเจ้าเตาไฟ</color=yellow>เป็นวิดีโอสล็อต 5 รีล 3 แถวที่มี<color=yellow>ตัวคูณ Wild</color=yellow>\n<img src='Dot' anchorY=-0.6 scale=1/>เกมนี้เล่นด้วย 50 เดิมพันฐานสำหรับ 243 วิธีในการชนะ\n<img src='Dot' anchorY=-0.6 scale=1/><color=yellow>เดิมพันรวม</color> = เดิมพันฐาน x เดนอม\n<img src='Dot' anchorY=-0.6 scale=1/>วิถีทางเดิมพันจะชนะหากสัญลักษณ์ที่ชนะเรียงต่อกันจากวงล้อซ้ายสุดไปทางขวา\n<img src='Dot' anchorY=-0.6 scale=1/>เฉพาะชัยชนะสูงสุดในแต่ละเพย์ไลน์เท่านั้นที่จะได้รับการจ่าย\n<img src='Dot' anchorY=-0.6 scale=1/>จำนวนวิถีทางเดิมพันที่ชนะทั้งหมดสำหรับแต่ละสัญลักษณ์คำนวณโดยการคูณจำนวนสัญลักษณ์ที่ชนะ\n   ที่อยู่ติดกันในแต่ละสัญลักษณ์จากวงล้อซ้ายสุดไปทางขวา\n<img src='Dot' anchorY=-0.6 scale=1/>การจ่ายเงินจะทำตาม \"ตารางการชำระเงิน\"\n\n\n\n\n<img src='Dot' anchorY=-0.6 scale=1/>เงินชนะทั้งหมด = เหรียญที่ชนะทั้งหมด x เดนอม\n<img src='Dot' anchorY=-0.6 scale=1/>ชัยชนะทั้งหมดแสดงเป็นเงินสด\n<img src='Dot' anchorY=-0.6 scale=1/>ฟีเจอร์การหมุนฟรีจะเล่นที่ \"เดิมพันรวม\" เดียวกันกับการหมุนที่ทำให้เกิดฟีเจอร์การหมุนฟรี</outline>"
+}

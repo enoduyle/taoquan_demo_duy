@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.Material",
+  "_name": "BG_Water",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "1b036179-f78b-4432-8caf-a56a38e3792e"
+  },
+  "_defines": {
+    "USE_TEXTURE": true
+  },
+  "_props": {
+    "LandTexture": {
+      "__uuid__": "f5086f52-e9d0-41eb-82d9-b5228a48eef0"
+    },
+    "LandMaskTexture": {
+      "__uuid__": "9396853f-27c3-4c5b-8a78-1520caef17b0"
+    },
+    "WaterTexture": {
+      "__uuid__": "5cc77be3-77b0-410a-82b6-d38de58aa03f"
+    },
+    "WaterNoiseScaleX": 1,
+    "WaterNoiseScaleY": 20,
+    "WaterNoiseSpeed": 0.1,
+    "WaterNoisePower": 0.1,
+    "NoiseTexture": {
+      "__uuid__": "3795131d-c76a-4405-bc42-7527b7eabe5f"
+    }
+  }
+}

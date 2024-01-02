@@ -1,0 +1,95 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "roomUi.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "banChung": {
+      "__uuid__": "fa30302b-9b84-4332-85a8-7e46c0fdf17f"
+    },
+    "banThuong": {
+      "__uuid__": "9b0c33cf-a0be-4192-a030-e1c4cbc34b53"
+    },
+    "boderFooterLeft": {
+      "__uuid__": "ec16d637-7e93-4e64-8527-d029e8e3be4e"
+    },
+    "boderFooterRight": {
+      "__uuid__": "02ee1c56-3aaf-46b9-8898-0f1e37e9f289"
+    },
+    "borderLeft": {
+      "__uuid__": "922aef15-8510-4e2b-b9d8-9249302595e7"
+    },
+    "borderMask": {
+      "__uuid__": "a064081c-4431-478b-981a-b6b805d602f1"
+    },
+    "btnChoiNhanhOn": {
+      "__uuid__": "4e94103a-7a3d-4c92-b075-b3e8c2ae7db3"
+    },
+    "btnTaoBanOn": {
+      "__uuid__": "85b4f0e3-aa12-4941-b678-f38b4463bd2e"
+    },
+    "header": {
+      "__uuid__": "76d9e5bb-ba42-43fb-93a0-534bc8d7ea89"
+    },
+    "headerGameTo": {
+      "__uuid__": "4d6ec6db-8b8a-4354-ab56-cbe84a215394"
+    },
+    "iConNews": {
+      "__uuid__": "c82fafe1-2279-4bd1-9c3d-3b7f90f3cacc"
+    },
+    "icChoiNhanh": {
+      "__uuid__": "b50c1a64-3a00-4f66-8369-ad1818b5dbd3"
+    },
+    "icClock": {
+      "__uuid__": "29ee332e-1f2c-4809-accd-8e36a1c76ab6"
+    },
+    "icHuongDan": {
+      "__uuid__": "9df39abe-d5a8-4af8-a7aa-676457d6f394"
+    },
+    "icMoneyMini": {
+      "__uuid__": "9e97597a-5ea6-4941-bce5-b1ae4ddc049d"
+    },
+    "icRank": {
+      "__uuid__": "8e73dc6b-63be-4ea0-8260-9a72c33bb26d"
+    },
+    "icTaoBan": {
+      "__uuid__": "8b36faf0-1d5a-49ab-9330-886d383a7a30"
+    },
+    "iconBanChung": {
+      "__uuid__": "4f255c0e-72f8-4f9a-a656-544e534e80f3"
+    },
+    "iconBanChungXocDia": {
+      "__uuid__": "b3283b04-ada5-4325-9b86-e57fcd0b8ef0"
+    },
+    "iconBanRieng": {
+      "__uuid__": "c8e2812b-b8a0-49ce-a0c3-71863ffb3de0"
+    },
+    "loadingBanChung": {
+      "__uuid__": "cf87ebf4-6bbf-4e81-b974-9e98c3e93a83"
+    },
+    "loadingonline": {
+      "__uuid__": "794f4677-743a-4d79-a5ea-2516b23ab2c1"
+    },
+    "popupnoti": {
+      "__uuid__": "d8dff3c6-f907-4fdc-b111-fe9f31542201"
+    },
+    "textCongBangChongDanhVay": {
+      "__uuid__": "02953467-a388-4ac3-9199-d5fee1316e9d"
+    },
+    "topCenter": {
+      "__uuid__": "5aec4679-3269-415e-99b4-9e6f2273f3c0"
+    },
+    "topLeft": {
+      "__uuid__": "6ff67011-77d4-42a4-bcba-2821adbaef15"
+    },
+    "topRight": {
+      "__uuid__": "be360cd5-7d88-4096-a3aa-b8b64b2fafd6"
+    },
+    "txtChoiNhanh": {
+      "__uuid__": "a65f42a1-0914-4faa-b5c9-e1b6a7c78bef"
+    },
+    "txtTaoBan": {
+      "__uuid__": "378892a0-8f64-4f44-a645-a4832c12de81"
+    }
+  }
+}

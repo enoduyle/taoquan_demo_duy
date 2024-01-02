@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icCard12D",
+    "texture": "1c6a6bd1-60d0-4002-8c3f-717e9e62e68b",
+    "atlas": "02470586-ac77-4228-ac32-f737c7825d9a",
+    "rect": [
+      280,
+      118,
+      115,
+      158
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      115,
+      158
+    ],
+    "rotated": 1,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

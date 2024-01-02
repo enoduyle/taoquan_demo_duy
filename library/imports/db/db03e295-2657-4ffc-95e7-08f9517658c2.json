@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "UI_Fish",
+    "texture": "35f52541-a590-419d-8e80-a182bc2da51c",
+    "atlas": "",
+    "rect": [
+      2,
+      4,
+      1997,
+      1237
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      2001,
+      1243
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

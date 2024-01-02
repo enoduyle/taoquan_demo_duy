@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Text_GiuDeTuQuay",
+    "texture": "f1ac9dd8-0646-44aa-86da-3c544fd7996f",
+    "atlas": "",
+    "rect": [
+      4,
+      4,
+      141,
+      51
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      148,
+      59
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

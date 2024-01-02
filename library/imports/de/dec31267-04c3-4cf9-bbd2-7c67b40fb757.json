@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Frame_NoHu_Loc",
+    "texture": "b388df58-9c97-422a-8eca-cefb054e9f6d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      780,
+      287
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      780,
+      287
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Symbol_K",
+    "texture": "f75c1924-6337-49c0-ab1d-21ff05be9319",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      894,
+      294
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      898,
+      298
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

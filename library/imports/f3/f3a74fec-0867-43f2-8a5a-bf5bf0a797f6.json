@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "X8-Tim",
+    "texture": "9dc285fc-40d9-4360-b467-ac5327231592",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      89,
+      72
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      89,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Tab_Anchor",
+    "texture": "d6dbb9ef-d28c-4cc1-a04b-7d74f4303962",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      204,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      204,
+      60
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

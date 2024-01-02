@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "borderNameGame",
+    "texture": "b5fe3530-b576-4bf8-811d-a83a7d3c1c8d",
+    "atlas": "73788b50-892e-4694-a3ce-3f185d58ca34",
+    "rect": [
+      1085,
+      1106,
+      290,
+      33
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      290,
+      33
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

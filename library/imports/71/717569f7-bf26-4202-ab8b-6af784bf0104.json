@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SVN-Zero",
+    "texture": "c126bb14-3ed5-4c39-b845-cdc46e5df4cc",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      504,
+      329
+    ],
+    "offset": [
+      -2,
+      89.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "X8-Den",
+    "texture": "99ebd1d8-06f2-4742-8374-45a1e5c2355a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      89,
+      72
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      89,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TQ_UI_TaoTrenMay",
+    "texture": "f930423e-8e4e-4ca4-96c5-4e1469b43c40",
+    "atlas": "",
+    "rect": [
+      2,
+      7,
+      627,
+      620
+    ],
+    "offset": [
+      0,
+      -2.5
+    ],
+    "originalSize": [
+      631,
+      629
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

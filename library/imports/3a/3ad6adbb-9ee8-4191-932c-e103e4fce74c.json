@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "X8-XanhDuong",
+    "texture": "6a961de4-ef0d-4cd8-8bef-09d6ab4a2fbd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      89,
+      72
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      89,
+      72
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

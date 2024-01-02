@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Text_BamDeDung",
+    "texture": "26d90d88-9100-4948-9cd9-235ef5c7e694",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      156,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      156,
+      62
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

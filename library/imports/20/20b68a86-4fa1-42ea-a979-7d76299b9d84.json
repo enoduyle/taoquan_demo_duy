@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Roll_Blue",
+    "texture": "78dcf6bd-49a2-48e3-a80b-342fda410ec5",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      155,
+      38
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      158,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

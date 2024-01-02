@@ -1,80 +1,79 @@
-2024-01-02T08:29:39.849Z - normal: Load ~/.CocosCreator/settings.json
-2024-01-02T08:29:39.890Z - normal: Initializing Asset Database
-2024-01-02T08:29:39.897Z - normal: checking language setting...
-2024-01-02T08:29:39.897Z - normal: Language: en
-2024-01-02T08:29:40.355Z - success: preview server running at http://localhost:7456
-2024-01-02T08:29:40.370Z - success: protocol editor-framework registered
-2024-01-02T08:29:40.370Z - success: protocol app registered
-2024-01-02T08:29:40.370Z - success: protocol theme registered
-2024-01-02T08:29:40.370Z - success: protocol packages registered
-2024-01-02T08:29:40.371Z - success: protocol uuid registerred
-2024-01-02T08:29:40.371Z - success: protocol db registerred
-2024-01-02T08:29:40.371Z - success: protocol thumbnail registerred
-2024-01-02T08:29:40.371Z - success: protocol unpack registerred
-2024-01-02T08:29:40.371Z - success: protocol disable-commonjs registerred
-2024-01-02T08:29:41.963Z - normal: connected!
-2024-01-02T08:29:41.963Z - normal: Check project /Users/user/taoquan_demo_duy
-2024-01-02T08:29:41.964Z - normal: Initializing project /Users/user/taoquan_demo_duy
-2024-01-02T08:29:42.222Z - normal: Initializing Cocos2d
-2024-01-02T08:29:42.645Z - normal: Initializing engine extends
-2024-01-02T08:29:42.662Z - success: alipay-adapter loaded
-2024-01-02T08:29:42.667Z - success: asset-db-debugger loaded
-2024-01-02T08:29:42.670Z - success: baidu-adapter loaded
-2024-01-02T08:29:42.674Z - success: color-picker loaded
-2024-01-02T08:29:42.766Z - success: fb-audience-network loaded
-2024-01-02T08:29:42.802Z - success: fb-live-stream loaded
-2024-01-02T08:29:42.804Z - success: google-play-instant loaded
-2024-01-02T08:29:42.807Z - success: huawei-runtime loaded
-2024-01-02T08:29:42.956Z - success: cpk-publish loaded
-2024-01-02T08:29:42.957Z - success: jsb-adapter loaded
-2024-01-02T08:29:42.959Z - success: oppo-runtime loaded
-2024-01-02T08:29:42.962Z - success: package-manager loaded
-2024-01-02T08:29:43.034Z - success: qqplay-adapter loaded
-2024-01-02T08:29:43.035Z - success: runtime-dev-tools loaded
-2024-01-02T08:29:43.038Z - success: sdkbox loaded
-2024-01-02T08:29:43.040Z - success: tester loaded
-2024-01-02T08:29:43.042Z - success: ui-kit-preview-extra loaded
-2024-01-02T08:29:43.043Z - success: ui-kit-preview loaded
-2024-01-02T08:29:43.045Z - success: ui-kit loaded
-2024-01-02T08:29:43.048Z - success: vivo-runtime loaded
-2024-01-02T08:29:43.049Z - success: weapp-adapter loaded
-2024-01-02T08:29:43.049Z - success: xiaomi-adapter loaded
-2024-01-02T08:29:43.051Z - success: alipay-minigame loaded
-2024-01-02T08:29:43.081Z - success: assets loaded
-2024-01-02T08:29:43.084Z - success: builder loaded
-2024-01-02T08:29:43.243Z - success: cocos-services loaded
-2024-01-02T08:29:43.247Z - success: console loaded
-2024-01-02T08:29:43.270Z - success: fb-instant-games loaded
-2024-01-02T08:29:43.274Z - success: game-window loaded
-2024-01-02T08:29:43.275Z - success: google-instant-games loaded
-2024-01-02T08:29:43.278Z - success: hierarchy loaded
-2024-01-02T08:29:43.281Z - success: inspector loaded
-2024-01-02T08:29:43.282Z - success: keystore loaded
-2024-01-02T08:29:43.285Z - success: node-library loaded
-2024-01-02T08:29:43.286Z - success: package-asset loaded
-2024-01-02T08:29:43.286Z - success: preferences loaded
-2024-01-02T08:29:43.288Z - success: project-exporter loaded
-2024-01-02T08:29:43.291Z - success: project-importer loaded
-2024-01-02T08:29:43.294Z - success: project-settings loaded
-2024-01-02T08:29:43.298Z - success: scene loaded
-2024-01-02T08:29:43.300Z - success: simulator-debugger loaded
-2024-01-02T08:29:43.300Z - success: sprite-editor loaded
-2024-01-02T08:29:43.303Z - success: store loaded
-2024-01-02T08:29:43.307Z - success: timeline loaded
-2024-01-02T08:29:43.310Z - success: xiaomi-runtime loaded
-2024-01-02T08:29:43.443Z - success: im-plugin loaded
-2024-01-02T08:29:43.470Z - success: generate-loc-scene loaded
-2024-01-02T08:29:43.476Z - success: pack-textures loaded
-2024-01-02T08:29:43.487Z - normal: ===========Loaded rng-clone-games===========
-2024-01-02T08:29:43.496Z - success: rng-clone-games loaded
-2024-01-02T08:29:43.500Z - success: slot loaded
-2024-01-02T08:29:43.503Z - success: unpack-textures-modify-prefab loaded
-2024-01-02T08:29:51.324Z - normal: Loading packages
-2024-01-02T08:29:51.342Z - normal: Watching packages
-2024-01-02T08:29:51.445Z - normal: Run Application
-2024-01-02T08:29:56.541Z - info: Cocos Services load base data!
-2024-01-02T08:29:57.807Z - normal: VERSION GAME 1.0.0
-2024-01-02T08:29:57.842Z - failed: load script [livekit-client] failed : Error: Cannot find module 'livekit-client'
+2024-01-02T08:50:20.727Z - normal: Load ~/.CocosCreator/settings.json
+2024-01-02T08:50:20.764Z - normal: Initializing Asset Database
+2024-01-02T08:50:20.769Z - normal: checking language setting...
+2024-01-02T08:50:20.769Z - normal: Language: en
+2024-01-02T08:50:21.182Z - success: preview server running at http://localhost:7456
+2024-01-02T08:50:21.195Z - success: protocol editor-framework registered
+2024-01-02T08:50:21.195Z - success: protocol app registered
+2024-01-02T08:50:21.195Z - success: protocol theme registered
+2024-01-02T08:50:21.195Z - success: protocol packages registered
+2024-01-02T08:50:21.196Z - success: protocol uuid registerred
+2024-01-02T08:50:21.196Z - success: protocol db registerred
+2024-01-02T08:50:21.196Z - success: protocol thumbnail registerred
+2024-01-02T08:50:21.196Z - success: protocol unpack registerred
+2024-01-02T08:50:21.196Z - success: protocol disable-commonjs registerred
+2024-01-02T08:50:23.092Z - normal: connected!
+2024-01-02T08:50:23.093Z - normal: Check project /Users/user/taoquan_demo_duy
+2024-01-02T08:50:23.095Z - normal: Initializing project /Users/user/taoquan_demo_duy
+2024-01-02T08:50:23.317Z - normal: Initializing Cocos2d
+2024-01-02T08:50:23.702Z - normal: Initializing engine extends
+2024-01-02T08:50:23.718Z - success: alipay-adapter loaded
+2024-01-02T08:50:23.724Z - success: asset-db-debugger loaded
+2024-01-02T08:50:23.728Z - success: baidu-adapter loaded
+2024-01-02T08:50:23.731Z - success: color-picker loaded
+2024-01-02T08:50:23.810Z - success: fb-audience-network loaded
+2024-01-02T08:50:23.851Z - success: fb-live-stream loaded
+2024-01-02T08:50:23.853Z - success: google-play-instant loaded
+2024-01-02T08:50:23.856Z - success: huawei-runtime loaded
+2024-01-02T08:50:23.984Z - success: cpk-publish loaded
+2024-01-02T08:50:23.984Z - success: jsb-adapter loaded
+2024-01-02T08:50:23.987Z - success: oppo-runtime loaded
+2024-01-02T08:50:23.990Z - success: package-manager loaded
+2024-01-02T08:50:24.059Z - success: qqplay-adapter loaded
+2024-01-02T08:50:24.060Z - success: runtime-dev-tools loaded
+2024-01-02T08:50:24.063Z - success: sdkbox loaded
+2024-01-02T08:50:24.065Z - success: tester loaded
+2024-01-02T08:50:24.067Z - success: ui-kit-preview-extra loaded
+2024-01-02T08:50:24.069Z - success: ui-kit-preview loaded
+2024-01-02T08:50:24.071Z - success: ui-kit loaded
+2024-01-02T08:50:24.074Z - success: vivo-runtime loaded
+2024-01-02T08:50:24.074Z - success: weapp-adapter loaded
+2024-01-02T08:50:24.075Z - success: xiaomi-adapter loaded
+2024-01-02T08:50:24.076Z - success: alipay-minigame loaded
+2024-01-02T08:50:24.103Z - success: assets loaded
+2024-01-02T08:50:24.105Z - success: builder loaded
+2024-01-02T08:50:24.263Z - success: cocos-services loaded
+2024-01-02T08:50:24.267Z - success: console loaded
+2024-01-02T08:50:24.289Z - success: fb-instant-games loaded
+2024-01-02T08:50:24.292Z - success: game-window loaded
+2024-01-02T08:50:24.294Z - success: google-instant-games loaded
+2024-01-02T08:50:24.299Z - success: hierarchy loaded
+2024-01-02T08:50:24.302Z - success: inspector loaded
+2024-01-02T08:50:24.303Z - success: keystore loaded
+2024-01-02T08:50:24.306Z - success: node-library loaded
+2024-01-02T08:50:24.307Z - success: package-asset loaded
+2024-01-02T08:50:24.308Z - success: preferences loaded
+2024-01-02T08:50:24.310Z - success: project-exporter loaded
+2024-01-02T08:50:24.313Z - success: project-importer loaded
+2024-01-02T08:50:24.316Z - success: project-settings loaded
+2024-01-02T08:50:24.319Z - success: scene loaded
+2024-01-02T08:50:24.319Z - success: simulator-debugger loaded
+2024-01-02T08:50:24.320Z - success: sprite-editor loaded
+2024-01-02T08:50:24.322Z - success: store loaded
+2024-01-02T08:50:24.327Z - success: timeline loaded
+2024-01-02T08:50:24.330Z - success: xiaomi-runtime loaded
+2024-01-02T08:50:24.450Z - success: im-plugin loaded
+2024-01-02T08:50:24.473Z - success: generate-loc-scene loaded
+2024-01-02T08:50:24.478Z - success: pack-textures loaded
+2024-01-02T08:50:24.484Z - normal: ===========Loaded rng-clone-games===========
+2024-01-02T08:50:24.490Z - success: rng-clone-games loaded
+2024-01-02T08:50:24.494Z - success: slot loaded
+2024-01-02T08:50:24.496Z - success: unpack-textures-modify-prefab loaded
+2024-01-02T08:50:32.611Z - normal: Loading packages
+2024-01-02T08:50:32.669Z - normal: Watching packages
+2024-01-02T08:50:32.802Z - normal: Run Application
+2024-01-02T08:50:38.996Z - normal: VERSION GAME 1.0.0
+2024-01-02T08:50:39.034Z - failed: load script [livekit-client] failed : Error: Cannot find module 'livekit-client'
     at Module._resolveFilename (module.js:470:15)
     at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
     at Function.s._resolveFilename (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:941)
@@ -85,7 +84,7 @@
     at /Users/user/taoquan_demo_duy/temp/quick-scripts/assets/cc-common/cc-slot-base-test/Streaming/scripts/Broadcaster.js:1:392
     at __define (/Users/user/taoquan_demo_duy/temp/quick-scripts/assets/cc-common/cc-slot-base-test/Streaming/scripts/Broadcaster.js:8:24)
     at /Users/user/taoquan_demo_duy/temp/quick-scripts/assets/cc-common/cc-slot-base-test/Streaming/scripts/Broadcaster.js:160:13
-2024-01-02T08:29:57.844Z - failed: load script [livekit-client] failed : Error: Cannot find module 'livekit-client'
+2024-01-02T08:50:39.035Z - failed: load script [livekit-client] failed : Error: Cannot find module 'livekit-client'
     at Module._resolveFilename (module.js:470:15)
     at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator.app/Contents/Resources/electron.asar/common/reset-search-paths.js:35:12)
     at Function.s._resolveFilename (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:941)
@@ -96,5 +95,69 @@
     at /Users/user/taoquan_demo_duy/temp/quick-scripts/assets/cc-common/cc-slot-base-test/Streaming/scripts/Player.js:1:387
     at __define (/Users/user/taoquan_demo_duy/temp/quick-scripts/assets/cc-common/cc-slot-base-test/Streaming/scripts/Player.js:8:24)
     at /Users/user/taoquan_demo_duy/temp/quick-scripts/assets/cc-common/cc-slot-base-test/Streaming/scripts/Player.js:135:13
-2024-01-02T08:29:58.047Z - normal: VERSION GAME 1.0.0
-2024-01-02T08:30:00.370Z - warn: BG_Water : Failed to set property texture, property not found.
+2024-01-02T08:50:39.257Z - normal: VERSION GAME 1.0.0
+2024-01-02T08:50:41.645Z - warn: BG_Water : Failed to set property texture, property not found.
+2024-01-02T08:50:51.228Z - info: Cocos Services load base data!
+2024-01-02T08:51:08.606Z - info: Cocos Services reload base data!
+2024-01-02T09:14:03.773Z - warn: [db-task][refresh] uuid collision, the uuid(e69a7c30-c5f1-4d03-9cd6-d16d7a3f1a2e) for /Users/user/taoquan_demo_duy/assets/cc-taoquan-9083/data/BMFont/Anton_JP-export.fnt is already used. A new uuid(9345f248-098c-4610-893e-cbdf037c6c48) will be assigned.
+2024-01-02T09:14:03.774Z - warn: [db-task][refresh] uuid collision, the uuid(b2ac93b6-b54c-43f5-9ef2-836c8a84f110) for /Users/user/taoquan_demo_duy/assets/cc-taoquan-9083/data/BMFont/Anton_JP-export.png is already used. A new uuid(49a48d85-df85-4ca4-bdda-12b460d84120) will be assigned.
+2024-01-02T09:14:03.775Z - warn: [db-task][refresh] uuid collision, the uuid(5d4c6bfe-deaf-4626-979a-bac03bc0980a) for /Users/user/taoquan_demo_duy/assets/cc-taoquan-9083/data/BMFont/Anton_JP-export.png/Anton_JP-export is already used. A new uuid(f4c5b991-a1fb-40af-973f-fd70c45d0246) will be assigned.
+2024-01-02T09:14:03.776Z - warn: [db-task][refresh] uuid collision, the uuid(66436ce8-60b5-454e-97b8-05064d86de55) for /Users/user/taoquan_demo_duy/assets/cc-taoquan-9083/data/BMFont/Anton_R_Gold-export.fnt is already used. A new uuid(8b304657-82c8-45b1-8221-a5769c934168) will be assigned.
+2024-01-02T09:14:03.776Z - warn: [db-task][refresh] uuid collision, the uuid(b47e79e1-c786-448d-b036-2ab093b17198) for /Users/user/taoquan_demo_duy/assets/cc-taoquan-9083/data/BMFont/Anton_R_Gold-export.png is already used. A new uuid(817d3ff9-7210-4afb-b8dc-44a96e8b3726) will be assigned.
+2024-01-02T09:14:03.776Z - warn: [db-task][refresh] uuid collision, the uuid(087ec854-99f9-49c7-9e57-2bbba1716d30) for /Users/user/taoquan_demo_duy/assets/cc-taoquan-9083/data/BMFont/Anton_R_Gold-export.png/Anton_R_Gold-export is already used. A new uuid(1c84b41b-199e-490c-aa78-8da0cd62146e) will be assigned.
+2024-01-02T09:14:03.777Z - warn: [db-task][refresh] uuid collision, the uuid(135b2ea4-a480-472c-8714-5c8922b3e038) for /Users/user/taoquan_demo_duy/assets/cc-taoquan-9083/data/BMFont/Anton_R_Silver-export.fnt is already used. A new uuid(399c4e58-4831-49ff-852b-4812d89bd67d) will be assigned.
+2024-01-02T09:14:03.777Z - warn: [db-task][refresh] uuid collision, the uuid(7bfe0c61-422c-4ba9-9e46-3271514ed0d2) for /Users/user/taoquan_demo_duy/assets/cc-taoquan-9083/data/BMFont/Anton_R_Silver-export.png is already used. A new uuid(069a3c10-5a3a-4c68-bf4f-c7fbb5925d3d) will be assigned.
+2024-01-02T09:14:03.777Z - warn: [db-task][refresh] uuid collision, the uuid(a9e429f5-6396-42ae-b648-9e9bc04c66bc) for /Users/user/taoquan_demo_duy/assets/cc-taoquan-9083/data/BMFont/Anton_R_Silver-export.png/Anton_R_Silver-export is already used. A new uuid(cbd1026a-70d8-4d5c-ba50-61bccad4c38e) will be assigned.
+2024-01-02T09:14:03.778Z - warn: [db-task][refresh] uuid collision, the uuid(00befea9-122e-42db-a52f-401066c7d633) for /Users/user/taoquan_demo_duy/assets/cc-taoquan-9083/data/BMFont/Anton_Silver-export.fnt is already used. A new uuid(4a0cb66c-9862-48f6-90be-8aa49cb344c0) will be assigned.
+2024-01-02T09:14:03.778Z - warn: [db-task][refresh] uuid collision, the uuid(abd4f872-4cb8-4f42-aaa0-1045cbf5da43) for /Users/user/taoquan_demo_duy/assets/cc-taoquan-9083/data/BMFont/Anton_Silver-export.png is already used. A new uuid(e3e2547f-8d56-4ccc-bdf3-395391c44e00) will be assigned.
+2024-01-02T09:14:03.779Z - warn: [db-task][refresh] uuid collision, the uuid(2fe4c83f-3ac8-4035-b932-912eee21d30e) for /Users/user/taoquan_demo_duy/assets/cc-taoquan-9083/data/BMFont/Anton_Silver-export.png/Anton_Silver-export is already used. A new uuid(3f2785a7-080b-48d8-afe6-e80f742c4069) will be assigned.
+2024-01-02T09:14:03.779Z - warn: [db-task][refresh] uuid collision, the uuid(29b77134-107a-4700-8ed2-21a39c1bef80) for /Users/user/taoquan_demo_duy/assets/cc-taoquan-9083/data/BMFont/ArialBold_W-export.fnt is already used. A new uuid(3280f92b-afbc-48e6-9035-7978d4b4a6bc) will be assigned.
+2024-01-02T09:14:03.779Z - warn: [db-task][refresh] uuid collision, the uuid(039908cb-cf17-4c90-83c5-5fbd7447941d) for /Users/user/taoquan_demo_duy/assets/cc-taoquan-9083/data/BMFont/ArialBold_W-export.png is already used. A new uuid(fd1f7f9d-4dc9-4cb5-9e49-73f2f932f7fb) will be assigned.
+2024-01-02T09:14:03.780Z - warn: [db-task][refresh] uuid collision, the uuid(9f681dda-7e4e-4c2d-8359-212093e306fe) for /Users/user/taoquan_demo_duy/assets/cc-taoquan-9083/data/BMFont/ArialBold_W-export.png/ArialBold_W-export is already used. A new uuid(ace12060-3c6a-4928-b226-a27a5f95bfce) will be assigned.
+2024-01-02T09:14:03.780Z - warn: [db-task][refresh] uuid collision, the uuid(00708e42-b07c-4edb-bcba-58f07fb657df) for /Users/user/taoquan_demo_duy/assets/cc-taoquan-9083/data/BMFont/Roboto-Regular.ttf is already used. A new uuid(ab9dc740-2d1a-4425-9bba-4752599a6f26) will be assigned.
+2024-01-02T09:14:03.780Z - warn: [db-task][refresh] uuid collision, the uuid(7f42c222-8e29-44b1-9541-fab8a4ffea05) for /Users/user/taoquan_demo_duy/assets/cc-taoquan-9083/data/BMFont/Trirong-Medium.ttf is already used. A new uuid(11309d89-736d-41b4-b9a9-3eb90d0ae04d) will be assigned.
+2024-01-02T10:40:16.079Z - warn: The Node referenced by component "SlotTablePayline9083" is invalid. Detailed information:
+Node path: "Canvas/g9083/MainGamePrefab/SlotTable"
+
+2024-01-02T10:48:05.236Z - warn: The Node referenced by component "SlotTablePayline9083" is invalid. Detailed information:
+Node path: "Canvas/g9083/MainGamePrefab/SlotTable"
+
+2024-01-02T10:48:06.384Z - warn: The Node referenced by component "SlotTablePayline9083" is invalid. Detailed information:
+Node path: "Canvas/g9083/MainGamePrefab/SlotTable"
+
+2024-01-02T10:48:07.424Z - warn: The Node referenced by component "SlotTablePayline9083" is invalid. Detailed information:
+Node path: "Canvas/g9083/MainGamePrefab/SlotTable"
+
+2024-01-02T10:48:08.717Z - warn: The Node referenced by component "SlotTablePayline9083" is invalid. Detailed information:
+Node path: "Canvas/g9083/MainGamePrefab/SlotTable"
+
+2024-01-02T11:07:18.301Z - warn: The Node referenced by component "SlotTablePayline9083" is invalid. Detailed information:
+Node path: "Canvas/g9083/MainGamePrefab/SlotTable"
+
+2024-01-02T11:07:19.508Z - warn: The Node referenced by component "SlotTablePayline9083" is invalid. Detailed information:
+Node path: "Canvas/g9083/MainGamePrefab/SlotTable"
+
+2024-01-02T11:08:01.753Z - warn: The Node referenced by component "SlotTablePayline9083" is invalid. Detailed information:
+Node path: "Canvas/g9083/MainGamePrefab/SlotTable"
+
+2024-01-02T11:08:03.057Z - warn: The Node referenced by component "SlotTablePayline9083" is invalid. Detailed information:
+Node path: "Canvas/g9083/MainGamePrefab/SlotTable"
+
+2024-01-02T11:08:04.195Z - warn: The Node referenced by component "SlotTablePayline9083" is invalid. Detailed information:
+Node path: "Canvas/g9083/MainGamePrefab/SlotTable"
+
+2024-01-02T11:08:05.351Z - warn: The Node referenced by component "SlotTablePayline9083" is invalid. Detailed information:
+Node path: "Canvas/g9083/MainGamePrefab/SlotTable"
+
+2024-01-02T11:08:06.350Z - warn: The Node referenced by component "SlotTablePayline9083" is invalid. Detailed information:
+Node path: "Canvas/g9083/MainGamePrefab/SlotTable"
+
+2024-01-02T11:08:07.372Z - warn: The Node referenced by component "SlotTablePayline9083" is invalid. Detailed information:
+Node path: "Canvas/g9083/MainGamePrefab/SlotTable"
+
+2024-01-02T11:08:08.543Z - warn: The Node referenced by component "SlotTablePayline9083" is invalid. Detailed information:
+Node path: "Canvas/g9083/MainGamePrefab/SlotTable"
+
+2024-01-02T11:08:09.548Z - warn: The Node referenced by component "SlotTablePayline9083" is invalid. Detailed information:
+Node path: "Canvas/g9083/MainGamePrefab/SlotTable"
+

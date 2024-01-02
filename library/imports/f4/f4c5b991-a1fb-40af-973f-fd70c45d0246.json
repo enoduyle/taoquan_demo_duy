@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Anton_JP-export",
+    "texture": "49a48d85-df85-4ca4-bdda-12b460d84120",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      152,
+      155
+    ],
+    "offset": [
+      -1.5,
+      1.5
+    ],
+    "originalSize": [
+      155,
+      158
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

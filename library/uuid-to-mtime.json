@@ -9564,11 +9564,6 @@
     "meta": 1704169243673,
     "relativePath": "cc-taoquan-9083/data/prefabs/HistoryPrefab9083.prefab"
   },
-  "e42fd020-c79e-4c40-be23-c427369dcc82": {
-    "asset": 1704181148928,
-    "meta": 1704181148947,
-    "relativePath": "cc-taoquan-9083/g9083L.fire"
-  },
   "f7563edb-af17-4fa0-8c9f-87a26f14fe5d": {
     "asset": 1704169248692,
     "meta": 1704169248693,
@@ -11723,5 +11718,75 @@
     "asset": 1704182768742,
     "meta": 1704182770040,
     "relativePath": "cc-taoquan-9083/data/spines/VFX_Water_Light/VFX_Water_Light_Images/Light.png"
+  },
+  "a6de7629-3753-436a-8f6c-47a3869836fa": {
+    "asset": 1704186843756,
+    "meta": 1704186843771,
+    "relativePath": "cc-taoquan-9083/data/BMFont"
+  },
+  "9345f248-098c-4610-893e-cbdf037c6c48": {
+    "asset": 1704186843759,
+    "meta": 1704186843976,
+    "relativePath": "cc-taoquan-9083/data/BMFont/Anton_JP-export.fnt"
+  },
+  "8b304657-82c8-45b1-8221-a5769c934168": {
+    "asset": 1704186843760,
+    "meta": 1704186843976,
+    "relativePath": "cc-taoquan-9083/data/BMFont/Anton_R_Gold-export.fnt"
+  },
+  "49a48d85-df85-4ca4-bdda-12b460d84120": {
+    "asset": 1704186843760,
+    "meta": 1704186843829,
+    "relativePath": "cc-taoquan-9083/data/BMFont/Anton_JP-export.png"
+  },
+  "817d3ff9-7210-4afb-b8dc-44a96e8b3726": {
+    "asset": 1704186843760,
+    "meta": 1704186843832,
+    "relativePath": "cc-taoquan-9083/data/BMFont/Anton_R_Gold-export.png"
+  },
+  "399c4e58-4831-49ff-852b-4812d89bd67d": {
+    "asset": 1704186843760,
+    "meta": 1704186843985,
+    "relativePath": "cc-taoquan-9083/data/BMFont/Anton_R_Silver-export.fnt"
+  },
+  "4a0cb66c-9862-48f6-90be-8aa49cb344c0": {
+    "asset": 1704186843764,
+    "meta": 1704186843985,
+    "relativePath": "cc-taoquan-9083/data/BMFont/Anton_Silver-export.fnt"
+  },
+  "069a3c10-5a3a-4c68-bf4f-c7fbb5925d3d": {
+    "asset": 1704186843760,
+    "meta": 1704186843890,
+    "relativePath": "cc-taoquan-9083/data/BMFont/Anton_R_Silver-export.png"
+  },
+  "3280f92b-afbc-48e6-9035-7978d4b4a6bc": {
+    "asset": 1704186843765,
+    "meta": 1704186843990,
+    "relativePath": "cc-taoquan-9083/data/BMFont/ArialBold_W-export.fnt"
+  },
+  "e3e2547f-8d56-4ccc-bdf3-395391c44e00": {
+    "asset": 1704186843765,
+    "meta": 1704186843942,
+    "relativePath": "cc-taoquan-9083/data/BMFont/Anton_Silver-export.png"
+  },
+  "ab9dc740-2d1a-4425-9bba-4752599a6f26": {
+    "asset": 1704186843764,
+    "meta": 1704186843946,
+    "relativePath": "cc-taoquan-9083/data/BMFont/Roboto-Regular.ttf"
+  },
+  "11309d89-736d-41b4-b9a9-3eb90d0ae04d": {
+    "asset": 1704186843764,
+    "meta": 1704186843948,
+    "relativePath": "cc-taoquan-9083/data/BMFont/Trirong-Medium.ttf"
+  },
+  "fd1f7f9d-4dc9-4cb5-9e49-73f2f932f7fb": {
+    "asset": 1704186843765,
+    "meta": 1704186843973,
+    "relativePath": "cc-taoquan-9083/data/BMFont/ArialBold_W-export.png"
+  },
+  "e42fd020-c79e-4c40-be23-c427369dcc82": {
+    "asset": 1704193689578,
+    "meta": 1704193689602,
+    "relativePath": "cc-taoquan-9083/g9083L.fire"
   }
 }
